@@ -2,7 +2,7 @@
 
 Bu döküman namaz vakitleri API'sini Android (Kotlin), iOS (Swift) ve Flutter (Dart) mobil uygulamalarda nasıl kullanacağını anlatır.
 
-> Base URL: `https://namaz-vakitleri-api.<subdomain>.workers.dev`  
+> Base URL: `https://namaz-vakitleri-api.ilkersenel1957.workers.dev`  
 > Tüm endpoint'ler `GET` ve CORS açık.  
 > Auth gerekmez (rate limit: IP başına 60/dk).
 
@@ -106,7 +106,7 @@ interface NamazApi {
 }
 
 object ApiClient {
-    private const val BASE_URL = "https://namaz-vakitleri-api.<subdomain>.workers.dev/"
+    private const val BASE_URL = "https://namaz-vakitleri-api.ilkersenel1957.workers.dev/"
 
     private val okHttp = OkHttpClient.Builder()
         .connectTimeout(10, TimeUnit.SECONDS)
@@ -194,7 +194,7 @@ struct PrayerTime: Decodable {
 ### API client
 ```swift
 final class NamazAPI {
-    static let shared = NamazAPI(baseURL: URL(string: "https://namaz-vakitleri-api.<subdomain>.workers.dev")!)
+    static let shared = NamazAPI(baseURL: URL(string: "https://namaz-vakitleri-api.ilkersenel1957.workers.dev")!)
 
     private let baseURL: URL
     private let session: URLSession
@@ -276,7 +276,7 @@ dependencies:
 ### API client
 ```dart
 class NamazApi {
-  static const baseUrl = 'https://namaz-vakitleri-api.<subdomain>.workers.dev';
+  static const baseUrl = 'https://namaz-vakitleri-api.ilkersenel1957.workers.dev';
 
   late final Dio _dio;
 
@@ -364,10 +364,10 @@ class PrayerTime {
 Gerçek deploy URL'in olmadan da test edebilirsin:
 ```bash
 # Sağlık
-curl https://namaz-vakitleri-api.<subdomain>.workers.dev/health
+curl https://namaz-vakitleri-api.ilkersenel1957.workers.dev/health
 
 # Kadıköy (cityId=9541) örnek
-curl https://namaz-vakitleri-api.<subdomain>.workers.dev/api/prayer-times/monthly/9541
+curl https://namaz-vakitleri-api.ilkersenel1957.workers.dev/api/prayer-times/monthly/9541
 ```
 
 ---

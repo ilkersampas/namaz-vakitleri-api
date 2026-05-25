@@ -29,7 +29,7 @@ git commit -m "Initial commit"
 
 # GitHub'da yeni repo aç (örnek isim: namaz-vakitleri-api)
 git branch -M main
-git remote add origin https://github.com/<KULLANICI>/namaz-vakitleri-api.git
+git remote add origin https://github.com/ilkersampas/namaz-vakitleri-api.git
 git push -u origin main
 ```
 
@@ -87,7 +87,7 @@ binding = "RATE_LIMIT_KV"
 id = "BURAYA_RATE_LIMIT_KV_ID"  # 2.2'den
 
 [vars]
-GITHUB_PAGES_BASE = "https://<KULLANICI>.github.io/namaz-vakitleri-api/data"
+GITHUB_PAGES_BASE = "https://ilkersampas.github.io/namaz-vakitleri-api/data"
 ```
 
 Commit et:
@@ -133,7 +133,7 @@ GitHub repo → **Settings** → **Secrets and variables** → **Actions** → *
 | `DIYANET_PASSWORD` | Diyanet API şifren |
 | `CLOUDFLARE_API_TOKEN` | 2.3'ten aldığın token |
 | `CLOUDFLARE_ACCOUNT_ID` | 2.4'ten aldığın Account ID |
-| `WORKER_URL` | İlk deploy'dan sonra: `https://namaz-vakitleri-api.<subdomain>.workers.dev` (deploy sonrası ekleyebilirsin) |
+| `WORKER_URL` | İlk deploy'dan sonra: `https://namaz-vakitleri-api.ilkersenel1957.workers.dev` (deploy sonrası ekleyebilirsin) |
 
 ---
 
@@ -144,7 +144,7 @@ GitHub repo → **Settings** → **Pages**:
 - **Branch:** `main`
 - **Folder:** `/docs`
 
-Kaydet. Birkaç dakika sonra `https://<KULLANICI>.github.io/<REPO>/` çalışır hâle gelir.
+Kaydet. Birkaç dakika sonra `https://ilkersampas.github.io/<REPO>/` çalışır hâle gelir.
 
 ---
 
@@ -172,7 +172,7 @@ cd worker
 npx wrangler deploy
 ```
 
-Çıktıdaki URL'i not al: `https://namaz-vakitleri-api.<subdomain>.workers.dev`
+Çıktıdaki URL'i not al: `https://namaz-vakitleri-api.ilkersenel1957.workers.dev`
 
 Bu URL'i `WORKER_URL` GitHub secret olarak ekle (adım 5).
 
@@ -182,16 +182,16 @@ Bu URL'i `WORKER_URL` GitHub secret olarak ekle (adım 5).
 
 ```bash
 # Sağlık kontrolü
-curl https://namaz-vakitleri-api.<subdomain>.workers.dev/health
+curl https://namaz-vakitleri-api.ilkersenel1957.workers.dev/health
 
 # Beklenen:
 # { "healthy": true, "checks": { "worker": "ok", "kv_token": "bound", ... } }
 
 # Türkiye eyaletleri (GH Pages cache'inden gelir)
-curl https://namaz-vakitleri-api.<subdomain>.workers.dev/api/states/2
+curl https://namaz-vakitleri-api.ilkersenel1957.workers.dev/api/states/2
 
 # Kadıköy aylık vakitler
-curl https://namaz-vakitleri-api.<subdomain>.workers.dev/api/prayer-times/monthly/9541
+curl https://namaz-vakitleri-api.ilkersenel1957.workers.dev/api/prayer-times/monthly/9541
 ```
 
 Her cevabın içinde `_source: "cache" | "github" | "diyanet"` alanı bulunur — hangi katmandan geldiğini görürsün.
