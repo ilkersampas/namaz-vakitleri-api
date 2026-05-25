@@ -245,7 +245,7 @@ async function refreshOrLogin(env, oldToken, requestId) {
 // In-flight lock: ayni anda birden fazla login/refresh denemesini engelle
 async function acquireTokenWithLock(env, tokenFetcher, requestId) {
   const lockId = crypto.randomUUID();
-  const lockTtl = 30;
+  const lockTtl = 60; // Cloudflare KV minimum 60 saniye
 
   // KV'de lock yoksa kur, varsa diger isteklerin bitirmesini bekle
   const existingLock = await env.TOKEN_KV.get(TOKEN_LOCK_KV_KEY);
