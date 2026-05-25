@@ -77,14 +77,26 @@ jobs:
             echo '```' >> "$GITHUB_STEP_SUMMARY"
           fi
 
-      - name: Degisiklikleri commit et
+      - name: Degisiklikleri commit et + push (rebase retry)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/data/
           if git diff --staged --quiet; then
-            echo "Degisiklik yok."
-          else
-            git commit -m "chore(data): namaz vakitleri guncellendi $(date -u +'%Y-%m-%d')"
-            git push
+            echo "Degisiklik yok, push atilmiyor."
+            exit 0
+          fi
+          git commit -m "chore(data): namaz vakitleri guncellendi $(date -u +'%Y-%m-%d')"
+          # Workflow uzun surdugu icin remote'a baska commit gelmis olabilir.
+          # 5 deneme: pull --rebase + push. Veri kaybetmemek icin onemli.
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "Push basarili (deneme $attempt)"
+              exit 0
+            fi
+            echo "Push reddedildi, pull --rebase yapiliyor (deneme $attempt/5)..."
+            git pull --rebase --autostash origin main || exit 1
+          done
+          echo "::error::5 denemeden sonra push basarisiz"
+          exit 1
           fi
