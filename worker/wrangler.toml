@@ -10,30 +10,25 @@ enabled = true
 # ============================================================
 # KV NAMESPACE'LER
 # ============================================================
-# Bu degerleri Cloudflare Dashboard > Workers & Pages > KV menusunden
-# olusturduktan sonra "id" alanlarini doldurun.
-#
-# Komut satirindan da olusturabilirsiniz:
-#   npx wrangler kv:namespace create TOKEN_KV
-#   npx wrangler kv:namespace create RATE_LIMIT_KV
 
 [[kv_namespaces]]
 binding = "TOKEN_KV"
-id = "REPLACE_WITH_TOKEN_KV_ID"
+id = "1512b3b093084c439f6d9b0759dae174"
 
 [[kv_namespaces]]
 binding = "RATE_LIMIT_KV"
-id = "REPLACE_WITH_RATE_LIMIT_KV_ID"
+id = "37a242324e3248ff935a2365459bcadb"
 
 # ============================================================
 # ENVIRONMENT DEGISKENLERI
 # ============================================================
-# Public degiskenler (commit edilebilir)
 [vars]
 CACHE_TTL_SECONDS = "604800"           # 7 gun
-GITHUB_PAGES_BASE = ""                 # https://<user>.github.io/<repo>/data
+GITHUB_PAGES_BASE = "https://ilkersampas.github.io/namaz-vakitleri-api/data"
 LOG_LEVEL = "info"                     # silent | error | warn | info | debug
 
-# Secret degiskenler (asla buraya yazma!):
-#   npx wrangler secret put DIYANET_EMAIL
-#   npx wrangler secret put DIYANET_PASSWORD
+# Secret degiskenler:
+# Deploy SONRASI Cloudflare Dashboard > Worker > Settings > Variables'a
+# Encrypt isaretiyle ekle:
+#   DIYANET_EMAIL
+#   DIYANET_PASSWORD
