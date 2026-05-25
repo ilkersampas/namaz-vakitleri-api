@@ -34,16 +34,16 @@ const corsHeaders = {
 const routes = [
   { pattern: /^\/$/, handler: handleIndex, cacheable: false },
   { pattern: /^\/health$/, handler: handleHealth, cacheable: false },
-  { pattern: /^\/api\/countries$/, key: () => "countries", diyanet: () => "/api/Place/Countries", gh: () => "countries.json" },
-  { pattern: /^\/api\/states\/(\d+)$/, key: (m) => `states-${m[1]}`, diyanet: (m) => `/api/Place/States/${m[1]}`, gh: (m) => `states/${m[1]}.json` },
-  { pattern: /^\/api\/cities\/(\d+)$/, key: (m) => `cities-${m[1]}`, diyanet: (m) => `/api/Place/Cities/${m[1]}`, gh: (m) => `cities/${m[1]}.json` },
-  { pattern: /^\/api\/city-detail\/(\d+)$/, key: (m) => `city-detail-${m[1]}`, diyanet: (m) => `/api/Place/CityDetail/${m[1]}`, gh: (m) => `city-detail/${m[1]}.json` },
-  { pattern: /^\/api\/prayer-times\/daily\/(\d+)$/, key: (m) => `prayer-daily-${m[1]}-${todayKey()}`, diyanet: (m) => `/api/PrayerTime/Daily/${m[1]}`, gh: (m) => `prayer-times/${m[1]}/${monthKey()}.json`, cacheTtl: 6 * 3600 },
-  { pattern: /^\/api\/prayer-times\/weekly\/(\d+)$/, key: (m) => `prayer-weekly-${m[1]}-${isoWeekKey()}`, diyanet: (m) => `/api/PrayerTime/Weekly/${m[1]}`, gh: (m) => `prayer-times/${m[1]}/${monthKey()}.json`, cacheTtl: 24 * 3600 },
-  { pattern: /^\/api\/prayer-times\/monthly\/(\d+)$/, key: (m) => `prayer-monthly-${m[1]}-${monthKey()}`, diyanet: (m) => `/api/PrayerTime/Monthly/${m[1]}`, gh: (m) => `prayer-times/${m[1]}/${monthKey()}.json`, cacheTtl: 7 * 24 * 3600 },
-  { pattern: /^\/api\/prayer-times\/eid\/(\d+)$/, key: (m) => `prayer-eid-${m[1]}-${yearKey()}`, diyanet: (m) => `/api/PrayerTime/Eid/${m[1]}`, gh: (m) => `eid/${m[1]}/${yearKey()}.json`, cacheTtl: 30 * 24 * 3600 },
-  { pattern: /^\/api\/prayer-times\/ramadan\/(\d+)$/, key: (m) => `prayer-ramadan-${m[1]}-${yearKey()}`, diyanet: (m) => `/api/PrayerTime/Ramadan/${m[1]}`, gh: (m) => `ramadan/${m[1]}/${yearKey()}.json`, cacheTtl: 7 * 24 * 3600 },
-  { pattern: /^\/api\/daily-content$/, key: () => `daily-content-${todayKey()}`, diyanet: () => "/api/DailyContent", gh: () => `daily-content/${todayKey()}.json`, cacheTtl: 12 * 3600 },
+  { pattern: /^\/api\/countries$/, key: () => "countries", diyanet: () => "/Place/Countries", gh: () => "countries.json" },
+  { pattern: /^\/api\/states\/(\d+)$/, key: (m) => `states-${m[1]}`, diyanet: (m) => `/Place/States/${m[1]}`, gh: (m) => `states/${m[1]}.json` },
+  { pattern: /^\/api\/cities\/(\d+)$/, key: (m) => `cities-${m[1]}`, diyanet: (m) => `/Place/Cities/${m[1]}`, gh: (m) => `cities/${m[1]}.json` },
+  { pattern: /^\/api\/city-detail\/(\d+)$/, key: (m) => `city-detail-${m[1]}`, diyanet: (m) => `/Place/CityDetail/${m[1]}`, gh: (m) => `city-detail/${m[1]}.json` },
+  { pattern: /^\/api\/prayer-times\/daily\/(\d+)$/, key: (m) => `prayer-daily-${m[1]}-${todayKey()}`, diyanet: (m) => `/PrayerTime/Daily/${m[1]}`, gh: (m) => `prayer-times/${m[1]}/${monthKey()}.json`, cacheTtl: 6 * 3600 },
+  { pattern: /^\/api\/prayer-times\/weekly\/(\d+)$/, key: (m) => `prayer-weekly-${m[1]}-${isoWeekKey()}`, diyanet: (m) => `/PrayerTime/Weekly/${m[1]}`, gh: (m) => `prayer-times/${m[1]}/${monthKey()}.json`, cacheTtl: 24 * 3600 },
+  { pattern: /^\/api\/prayer-times\/monthly\/(\d+)$/, key: (m) => `prayer-monthly-${m[1]}-${monthKey()}`, diyanet: (m) => `/PrayerTime/Monthly/${m[1]}`, gh: (m) => `prayer-times/${m[1]}/${monthKey()}.json`, cacheTtl: 7 * 24 * 3600 },
+  { pattern: /^\/api\/prayer-times\/eid\/(\d+)$/, key: (m) => `prayer-eid-${m[1]}-${yearKey()}`, diyanet: (m) => `/PrayerTime/Eid/${m[1]}`, gh: (m) => `eid/${m[1]}/${yearKey()}.json`, cacheTtl: 30 * 24 * 3600 },
+  { pattern: /^\/api\/prayer-times\/ramadan\/(\d+)$/, key: (m) => `prayer-ramadan-${m[1]}-${yearKey()}`, diyanet: (m) => `/PrayerTime/Ramadan/${m[1]}`, gh: (m) => `ramadan/${m[1]}/${yearKey()}.json`, cacheTtl: 7 * 24 * 3600 },
+  { pattern: /^\/api\/daily-content$/, key: () => `daily-content-${todayKey()}`, diyanet: () => "/DailyContent", gh: () => `daily-content/${todayKey()}.json`, cacheTtl: 12 * 3600 },
 ];
 
 export default {
@@ -290,7 +290,7 @@ async function diyanetLogin(env, requestId) {
   }
 
   try {
-    const resp = await fetch(`${DIYANET_BASE}/api/Auth/Login`, {
+    const resp = await fetch(`${DIYANET_BASE}/Auth/Login`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ email: env.DIYANET_EMAIL, password: env.DIYANET_PASSWORD }),
@@ -321,7 +321,7 @@ async function diyanetRefreshToken(env, oldToken, requestId) {
   if (!oldToken?.refreshToken) return null;
 
   try {
-    const resp = await fetch(`${DIYANET_BASE}/api/Auth/RefreshToken/${oldToken.refreshToken}`);
+    const resp = await fetch(`${DIYANET_BASE}/Auth/RefreshToken/${oldToken.refreshToken}`);
     if (!resp.ok) {
       log(env, "info", { requestId, event: "refresh_failed", status: resp.status });
       return null;

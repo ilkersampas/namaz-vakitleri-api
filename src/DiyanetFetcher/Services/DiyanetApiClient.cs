@@ -45,7 +45,7 @@ public class DiyanetApiClient : IDisposable
             var loginBody = new { email = _email, password = _password };
             var content = new StringContent(JsonSerializer.Serialize(loginBody), Encoding.UTF8, "application/json");
 
-            var response = await _httpClient.PostAsync("/api/Auth/Login", content, ct);
+            var response = await _httpClient.PostAsync("/Auth/Login", content, ct);
             var json = await response.Content.ReadAsStringAsync(ct);
 
             if (!response.IsSuccessStatusCode)
@@ -72,7 +72,7 @@ public class DiyanetApiClient : IDisposable
         {
             return await RetryPolicy.ExecuteAsync(async () =>
             {
-                var response = await _httpClient.GetAsync($"/api/Auth/RefreshToken/{_refreshToken}", ct);
+                var response = await _httpClient.GetAsync($"/Auth/RefreshToken/{_refreshToken}", ct);
 
                 if (!response.IsSuccessStatusCode)
                 {
@@ -133,44 +133,44 @@ public class DiyanetApiClient : IDisposable
     // --- PLACE ---
 
     public Task<List<PlaceModel>> GetCountriesAsync(CancellationToken ct = default)
-        => GetListAsync<PlaceModel>("/api/Place/Countries", "Place", "Ulkeler", ct);
+        => GetListAsync<PlaceModel>("/Place/Countries", "Place", "Ulkeler", ct);
 
     public Task<List<PlaceModel>> GetStatesAsync(int? countryId = null, CancellationToken ct = default)
     {
-        var url = countryId.HasValue ? $"/api/Place/States/{countryId}" : "/api/Place/States";
+        var url = countryId.HasValue ? $"/Place/States/{countryId}" : "/Place/States";
         return GetListAsync<PlaceModel>(url, "Place", $"Eyaletler ({countryId?.ToString() ?? "tumu"})", ct);
     }
 
     public Task<List<PlaceModel>> GetCitiesAsync(int? stateId = null, CancellationToken ct = default)
     {
-        var url = stateId.HasValue ? $"/api/Place/Cities/{stateId}" : "/api/Place/Cities";
+        var url = stateId.HasValue ? $"/Place/Cities/{stateId}" : "/Place/Cities";
         return GetListAsync<PlaceModel>(url, "Place", $"Sehirler ({stateId?.ToString() ?? "tumu"})", ct);
     }
 
     public Task<CityDetailModel?> GetCityDetailAsync(int cityId, CancellationToken ct = default)
-        => GetSingleAsync<CityDetailModel>($"/api/Place/CityDetail/{cityId}", "Place", $"Sehir Detay ({cityId})", ct);
+        => GetSingleAsync<CityDetailModel>($"/Place/CityDetail/{cityId}", "Place", $"Sehir Detay ({cityId})", ct);
 
     // --- DAILY CONTENT ---
 
     public Task<DailyContentModel?> GetDailyContentAsync(CancellationToken ct = default)
-        => GetSingleAsync<DailyContentModel>("/api/DailyContent", "DailyContent", "Gunluk Icerik", ct);
+        => GetSingleAsync<DailyContentModel>("/DailyContent", "DailyContent", "Gunluk Icerik", ct);
 
     // --- PRAYER TIMES ---
 
     public Task<List<PrayerTimeModel>> GetDailyPrayerTimesAsync(int cityId, CancellationToken ct = default)
-        => GetListAsync<PrayerTimeModel>($"/api/PrayerTime/Daily/{cityId}", "PrayerTime/Daily", $"Gunluk ({cityId})", ct);
+        => GetListAsync<PrayerTimeModel>($"/PrayerTime/Daily/{cityId}", "PrayerTime/Daily", $"Gunluk ({cityId})", ct);
 
     public Task<List<PrayerTimeModel>> GetWeeklyPrayerTimesAsync(int cityId, CancellationToken ct = default)
-        => GetListAsync<PrayerTimeModel>($"/api/PrayerTime/Weekly/{cityId}", "PrayerTime/Weekly", $"Haftalik ({cityId})", ct);
+        => GetListAsync<PrayerTimeModel>($"/PrayerTime/Weekly/{cityId}", "PrayerTime/Weekly", $"Haftalik ({cityId})", ct);
 
     public Task<List<PrayerTimeModel>> GetMonthlyPrayerTimesAsync(int cityId, CancellationToken ct = default)
-        => GetListAsync<PrayerTimeModel>($"/api/PrayerTime/Monthly/{cityId}", "PrayerTime/Monthly", $"Aylik ({cityId})", ct);
+        => GetListAsync<PrayerTimeModel>($"/PrayerTime/Monthly/{cityId}", "PrayerTime/Monthly", $"Aylik ({cityId})", ct);
 
     public Task<EidPrayerTimeModel?> GetEidPrayerTimesAsync(int cityId, CancellationToken ct = default)
-        => GetSingleAsync<EidPrayerTimeModel>($"/api/PrayerTime/Eid/{cityId}", "PrayerTime/Eid", $"Bayram ({cityId})", ct);
+        => GetSingleAsync<EidPrayerTimeModel>($"/PrayerTime/Eid/{cityId}", "PrayerTime/Eid", $"Bayram ({cityId})", ct);
 
     public Task<List<PrayerTimeModel>> GetRamadanTimesAsync(int cityId, CancellationToken ct = default)
-        => GetListAsync<PrayerTimeModel>($"/api/PrayerTime/Ramadan/{cityId}", "PrayerTime/Ramadan", $"Ramazan ({cityId})", ct);
+        => GetListAsync<PrayerTimeModel>($"/PrayerTime/Ramadan/{cityId}", "PrayerTime/Ramadan", $"Ramazan ({cityId})", ct);
 
     // --- PRIVATE HELPERS ---
 
