@@ -1,0 +1,138 @@
+{
+  "info": {
+    "name": "Namaz Vakitleri API",
+    "description": "Diyanet Awqat Salah verilerini servis eden Cloudflare Worker API.\n\nBase URL: https://namaz-vakitleri-api.ilkersenel1957.workers.dev",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "https://namaz-vakitleri-api.ilkersenel1957.workers.dev",
+      "type": "string"
+    },
+    {
+      "key": "countryId",
+      "value": "2",
+      "type": "string",
+      "description": "2 = Türkiye"
+    },
+    {
+      "key": "stateId",
+      "value": "539",
+      "type": "string",
+      "description": "539 = İstanbul"
+    },
+    {
+      "key": "cityId",
+      "value": "9541",
+      "type": "string",
+      "description": "9541 = Kadıköy"
+    }
+  ],
+  "item": [
+    {
+      "name": "00 - Health Check",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health",
+        "description": "Worker bağlantıları + bind'lerin durumu"
+      }
+    },
+    {
+      "name": "01 - Ülkeler (Countries)",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/countries",
+        "description": "Tüm ülke listesi (208 ülke)"
+      }
+    },
+    {
+      "name": "02 - Eyaletler (Türkiye)",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/states/{{countryId}}",
+        "description": "Bir ülkenin eyalet/il listesi"
+      }
+    },
+    {
+      "name": "03 - İlçeler (İstanbul)",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/cities/{{stateId}}",
+        "description": "Bir ilin ilçe listesi"
+      }
+    },
+    {
+      "name": "04 - Şehir Detay (Kıble + Kabe)",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/city-detail/{{cityId}}",
+        "description": "Kıble açısı, Kabe mesafesi, koordinatlar"
+      }
+    },
+    {
+      "name": "05 - Günlük Namaz Vakti",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/prayer-times/daily/{{cityId}}",
+        "description": "Sadece bugünün vakitleri"
+      }
+    },
+    {
+      "name": "06 - Haftalık Namaz Vakti",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/prayer-times/weekly/{{cityId}}",
+        "description": "Bu haftanın 7 günü"
+      }
+    },
+    {
+      "name": "07 - Aylık Namaz Vakti (ÖNEMLİ)",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/prayer-times/monthly/{{cityId}}",
+        "description": "Tüm ayın vakitleri - mobil app için en kritik endpoint. Tek istekle 30 günlük veri."
+      }
+    },
+    {
+      "name": "08 - Bayram Namazı",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/prayer-times/eid/{{cityId}}",
+        "description": "Ramazan + Kurban bayramı namaz vakitleri"
+      }
+    },
+    {
+      "name": "09 - Ramazan İmsakiye",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/prayer-times/ramadan/{{cityId}}",
+        "description": "Ramazan ayı boyunca imsak ve iftar vakitleri"
+      }
+    },
+    {
+      "name": "10 - Günün Ayet/Hadis/Dua",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/daily-content",
+        "description": "Diyanet'in günün ayeti, hadisi ve duası"
+      }
+    },
+    {
+      "name": "Static (GH Pages) - Countries Direkt",
+      "request": {
+        "method": "GET",
+        "url": "https://ilkersampas.github.io/namaz-vakitleri-api/data/countries.json",
+        "description": "Worker olmadan direkt GitHub Pages'ten — alternatif ucuz erişim"
+      }
+    },
+    {
+      "name": "Static (GH Pages) - City Index",
+      "request": {
+        "method": "GET",
+        "url": "https://ilkersampas.github.io/namaz-vakitleri-api/data/city-index.json",
+        "description": "Tüm ilçelerin arama indeksi - mobil app'te lokal SQLite'a yüklemek için ideal"
+      }
+    }
+  ]
+}
