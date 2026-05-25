@@ -1,0 +1,39 @@
+{
+  "lastUpdated": "2026-05-25T15:24:02.8554099Z",
+  "stateId": 561,
+  "stateName": "N\u0130\u011EDE",
+  "countryId": 2,
+  "count": 6,
+  "data": [
+    {
+      "Id": 9762,
+      "Code": "ALTUNHISAR",
+      "Name": "ALTUNH\u0130SAR"
+    },
+    {
+      "Id": 9763,
+      "Code": "BOR",
+      "Name": "BOR"
+    },
+    {
+      "Id": 9764,
+      "Code": "CAMARDI",
+      "Name": "\u00C7AMARDI"
+    },
+    {
+      "Id": 9765,
+      "Code": "CIFTLIK",
+      "Name": "\u00C7\u0130FTL\u0130K"
+    },
+    {
+      "Id": 9766,
+      "Code": "NIGDE",
+      "Name": "N\u0130\u011EDE"
+    },
+    {
+      "Id": 9767,
+      "Code": "ULUKISLA",
+      "Name": "ULUKI\u015ELA"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lastUpdated": "2026-05-25T15:26:26.9631216Z",
+  "stateId": 572,
+  "stateName": "TEK\u0130RDA\u011E",
+  "countryId": 2,
+  "count": 10,
+  "data": [
+    {
+      "Id": 9872,
+      "Code": "CERKEZKOY",
+      "Name": "\u00C7ERKEZK\u00D6Y"
+    },
+    {
+      "Id": 9873,
+      "Code": "CORLU",
+      "Name": "\u00C7ORLU"
+    },
+    {
+      "Id": 9874,
+      "Code": "HAYRABOLU",
+      "Name": "HAYRABOLU"
+    },
+    {
+      "Id": 9875,
+      "Code": "M.EREGLISI",
+      "Name": "M.ERE\u011EL\u0130S\u0130"
+    },
+    {
+      "Id": 9876,
+      "Code": "MALKARA",
+      "Name": "MALKARA"
+    },
+    {
+      "Id": 9877,
+      "Code": "SARAY",
+      "Name": "SARAY"
+    },
+    {
+      "Id": 9878,
+      "Code": "SARKOY",
+      "Name": "\u015EARK\u00D6Y"
+    },
+    {
+      "Id": 9879,
+      "Code": "TEKIRDAG",
+      "Name": "TEK\u0130RDA\u011E"
+    },
+    {
+      "Id": 17904,
+      "Code": "ERGENE",
+      "Name": "ERGENE"
+    },
+    {
+      "Id": 17905,
+      "Code": "KAPAKLI",
+      "Name": "KAPAKLI"
+    }
+  ]
+}

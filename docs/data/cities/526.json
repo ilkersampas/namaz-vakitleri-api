@@ -1,0 +1,49 @@
+{
+  "lastUpdated": "2026-05-25T15:15:49.7877767Z",
+  "stateId": 526,
+  "stateName": "D\u00DCZCE",
+  "countryId": 2,
+  "count": 8,
+  "data": [
+    {
+      "Id": 9411,
+      "Code": "AKCAKOCA",
+      "Name": "AK\u00C7AKOCA"
+    },
+    {
+      "Id": 9412,
+      "Code": "CILIMLI",
+      "Name": "\u00C7\u0130L\u0130ML\u0130"
+    },
+    {
+      "Id": 9413,
+      "Code": "CUMAYERI",
+      "Name": "CUMAYER\u0130"
+    },
+    {
+      "Id": 9414,
+      "Code": "DUZCE",
+      "Name": "D\u00DCZCE"
+    },
+    {
+      "Id": 9415,
+      "Code": "GOLYAKA",
+      "Name": "G\u00D6LYAKA"
+    },
+    {
+      "Id": 9416,
+      "Code": "GUMUSOVA",
+      "Name": "G\u00DCM\u00DC\u015EOVA"
+    },
+    {
+      "Id": 9417,
+      "Code": "KAYNASLI",
+      "Name": "KAYNA\u015ELI"
+    },
+    {
+      "Id": 9418,
+      "Code": "YIGILCA",
+      "Name": "YI\u011EILCA"
+    }
+  ]
+}

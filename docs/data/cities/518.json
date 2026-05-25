@@ -1,0 +1,54 @@
+{
+  "lastUpdated": "2026-05-25T15:13:40.3820674Z",
+  "stateId": 518,
+  "stateName": "BOLU",
+  "countryId": 2,
+  "count": 9,
+  "data": [
+    {
+      "Id": 9315,
+      "Code": "BOLU",
+      "Name": "BOLU"
+    },
+    {
+      "Id": 9316,
+      "Code": "DORTDIVAN",
+      "Name": "D\u00D6RTD\u0130VAN"
+    },
+    {
+      "Id": 9317,
+      "Code": "GEREDE",
+      "Name": "GEREDE"
+    },
+    {
+      "Id": 9318,
+      "Code": "GOYNUK",
+      "Name": "G\u00D6YN\u00DCK"
+    },
+    {
+      "Id": 9319,
+      "Code": "KIBRISCIK",
+      "Name": "KIBRISCIK"
+    },
+    {
+      "Id": 9320,
+      "Code": "MENGEN",
+      "Name": "MENGEN"
+    },
+    {
+      "Id": 9321,
+      "Code": "MUDURNU",
+      "Name": "MUDURNU"
+    },
+    {
+      "Id": 9322,
+      "Code": "SEBEN",
+      "Name": "SEBEN"
+    },
+    {
+      "Id": 9323,
+      "Code": "YENICAGA",
+      "Name": "YEN\u0130\u00C7A\u011EA"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "lastUpdated": "2026-05-25T15:21:33.4445188Z",
+  "stateId": 552,
+  "stateName": "KONYA",
+  "countryId": 2,
+  "count": 32,
+  "data": [
+    {
+      "Id": 9656,
+      "Code": "AHIRLI",
+      "Name": "AHIRLI"
+    },
+    {
+      "Id": 9657,
+      "Code": "AKOREN",
+      "Name": "AK\u00D6REN"
+    },
+    {
+      "Id": 9658,
+      "Code": "AKSEHIR",
+      "Name": "AK\u015EEH\u0130R"
+    },
+    {
+      "Id": 9659,
+      "Code": "ALTINEKIN",
+      "Name": "ALTINEK\u0130N"
+    },
+    {
+      "Id": 9660,
+      "Code": "BEYSEHIR",
+      "Name": "BEY\u015EEH\u0130R"
+    },
+    {
+      "Id": 9661,
+      "Code": "BOZKIR",
+      "Name": "BOZKIR"
+    },
+    {
+      "Id": 9662,
+      "Code": "CELTIK",
+      "Name": "\u00C7ELT\u0130K"
+    },
+    {
+      "Id": 9663,
+      "Code": "CIHANBEYLI",
+      "Name": "C\u0130HANBEYL\u0130"
+    },
+    {
+      "Id": 9664,
+      "Code": "CUMRA",
+      "Name": "\u00C7UMRA"
+    },
+    {
+      "Id": 9665,
+      "Code": "DERBENT",
+      "Name": "DERBENT"
+    },
+    {
+      "Id": 9666,
+      "Code": "DEREBUCAK",
+      "Name": "DEREBUCAK"
+    },
+    {
+      "Id": 9667,
+      "Code": "DOGANHISAR",
+      "Name": "DO\u011EANH\u0130SAR"
+    },
+    {
+      "Id": 9668,
+      "Code": "EMIRGAZI",
+      "Name": "EM\u0130RGAZ\u0130"
+    },
+    {
+      "Id": 9669,
+      "Code": "EREGLI",
+      "Name": "ERE\u011EL\u0130"
+    },
+    {
+      "Id": 9670,
+      "Code": "GUNEYSINIR",
+      "Name": "G\u00DCNEYSINIR"
+    },
+    {
+      "Id": 9671,
+      "Code": "HALKAPINAR",
+      "Name": "HALKAPINAR"
+    },
+    {
+      "Id": 9672,
+      "Code": "HUYUK",
+      "Name": "H\u00DCY\u00DCK"
+    },
+    {
+      "Id": 9673,
+      "Code": "ILGIN",
+      "Name": "ILGIN"
+    },
+    {
+      "Id": 9674,
+      "Code": "KADINHANI",
+      "Name": "KADINHANI"
+    },
+    {
+      "Id": 9675,
+      "Code": "KARAPINAR",
+      "Name": "KARAPINAR"
+    },
+    {
+      "Id": 9676,
+      "Code": "KONYA",
+      "Name": "KONYA"
+    },
+    {
+      "Id": 9677,
+      "Code": "KULU",
+      "Name": "KULU"
+    },
+    {
+      "Id": 9678,
+      "Code": "SEYDISEHIR",
+      "Name": "SEYD\u0130\u015EEH\u0130R"
+    },
+    {
+      "Id": 9679,
+      "Code": "TUZLUKCU",
+      "Name": "TUZLUK\u00C7U"
+    },
+    {
+      "Id": 9680,
+      "Code": "YALIHUYUK",
+      "Name": "YALIH\u00DCY\u00DCK"
+    },
+    {
+      "Id": 9681,
+      "Code": "YUNAK",
+      "Name": "YUNAK"
+    },
+    {
+      "Id": 16704,
+      "Code": "HADIM",
+      "Name": "HAD\u0130M"
+    },
+    {
+      "Id": 17870,
+      "Code": "MERAM",
+      "Name": "MERAM"
+    },
+    {
+      "Id": 17871,
+      "Code": "SEL\u00C7UKLU",
+      "Name": "SEL\u00C7UKLU"
+    },
+    {
+      "Id": 17872,
+      "Code": "KARATAY",
+      "Name": "KARATAY"
+    },
+    {
+      "Id": 17873,
+      "Code": "TA\u015EKENT",
+      "Name": "TA\u015EKENT"
+    },
+    {
+      "Id": 17874,
+      "Code": "SARAY\u00D6N\u00DC",
+      "Name": "SARAY\u00D6N\u00DC"
+    }
+  ]
+}

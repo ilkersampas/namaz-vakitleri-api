@@ -1,0 +1,109 @@
+{
+  "lastUpdated": "2026-05-25T15:20:09.8266632Z",
+  "stateId": 545,
+  "stateName": "KASTAMONU",
+  "countryId": 2,
+  "count": 20,
+  "data": [
+    {
+      "Id": 9597,
+      "Code": "ABANA",
+      "Name": "ABANA"
+    },
+    {
+      "Id": 9598,
+      "Code": "AGLI",
+      "Name": "A\u011ELI"
+    },
+    {
+      "Id": 9599,
+      "Code": "ARAC",
+      "Name": "ARA\u00C7"
+    },
+    {
+      "Id": 9600,
+      "Code": "AZDAVAY",
+      "Name": "AZDAVAY"
+    },
+    {
+      "Id": 9601,
+      "Code": "BOZKURT (K)",
+      "Name": "BOZKURT (K)"
+    },
+    {
+      "Id": 9602,
+      "Code": "CATALZEYTIN",
+      "Name": "\u00C7ATALZEYT\u0130N"
+    },
+    {
+      "Id": 9603,
+      "Code": "CIDE",
+      "Name": "C\u0130DE"
+    },
+    {
+      "Id": 9604,
+      "Code": "DADAY",
+      "Name": "DADAY"
+    },
+    {
+      "Id": 9605,
+      "Code": "DOGANYURT",
+      "Name": "DO\u011EANYURT"
+    },
+    {
+      "Id": 9606,
+      "Code": "HANONU",
+      "Name": "HAN\u00D6N\u00DC"
+    },
+    {
+      "Id": 9607,
+      "Code": "IHSANGAZI",
+      "Name": "\u0130HSANGAZ\u0130"
+    },
+    {
+      "Id": 9608,
+      "Code": "INEBOLU",
+      "Name": "\u0130NEBOLU"
+    },
+    {
+      "Id": 9609,
+      "Code": "KASTAMONU",
+      "Name": "KASTAMONU"
+    },
+    {
+      "Id": 9610,
+      "Code": "KURE",
+      "Name": "K\u00DCRE"
+    },
+    {
+      "Id": 9611,
+      "Code": "PINARBASI (K)",
+      "Name": "PINARBA\u015EI (K)"
+    },
+    {
+      "Id": 9612,
+      "Code": "SENPAZAR",
+      "Name": "\u015EENPAZAR"
+    },
+    {
+      "Id": 9613,
+      "Code": "TASKOPRU",
+      "Name": "TA\u015EK\u00D6PR\u00DC"
+    },
+    {
+      "Id": 9614,
+      "Code": "TOSYA",
+      "Name": "TOSYA"
+    },
+    {
+      "Id": 17885,
+      "Code": "DEVREKAN\u0130",
+      "Name": "DEVREKAN\u0130"
+    },
+    {
+      "Id": 17886,
+      "Code": "SEYD\u0130LER",
+      "Name": "SEYD\u0130LER"
+    }
+  ]
+}

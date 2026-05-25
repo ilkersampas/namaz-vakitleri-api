@@ -1,0 +1,54 @@
+{
+  "lastUpdated": "2026-05-25T15:16:00.2454681Z",
+  "stateId": 527,
+  "stateName": "ED\u0130RNE",
+  "countryId": 2,
+  "count": 9,
+  "data": [
+    {
+      "Id": 9419,
+      "Code": "EDIRNE",
+      "Name": "ED\u0130RNE"
+    },
+    {
+      "Id": 9420,
+      "Code": "ENEZ",
+      "Name": "ENEZ"
+    },
+    {
+      "Id": 9421,
+      "Code": "HAVSA",
+      "Name": "HAVSA"
+    },
+    {
+      "Id": 9422,
+      "Code": "IPSALA",
+      "Name": "\u0130PSALA"
+    },
+    {
+      "Id": 9423,
+      "Code": "KESAN",
+      "Name": "KE\u015EAN"
+    },
+    {
+      "Id": 9424,
+      "Code": "LALAPASA",
+      "Name": "LALAPA\u015EA"
+    },
+    {
+      "Id": 9425,
+      "Code": "MER\u0130C",
+      "Name": "MER\u0130\u00C7"
+    },
+    {
+      "Id": 9426,
+      "Code": "SULOGLU",
+      "Name": "S\u00DCLO\u011ELU"
+    },
+    {
+      "Id": 9427,
+      "Code": "UZUNKOPRU",
+      "Name": "UZUNK\u00D6PR\u00DC"
+    }
+  ]
+}

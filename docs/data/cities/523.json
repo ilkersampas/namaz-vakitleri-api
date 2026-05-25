@@ -1,0 +1,79 @@
+{
+  "lastUpdated": "2026-05-25T15:14:50.820772Z",
+  "stateId": 523,
+  "stateName": "\u00C7ORUM",
+  "countryId": 2,
+  "count": 14,
+  "data": [
+    {
+      "Id": 9367,
+      "Code": "ALACA",
+      "Name": "ALACA"
+    },
+    {
+      "Id": 9368,
+      "Code": "BAYAT",
+      "Name": "BAYAT"
+    },
+    {
+      "Id": 9369,
+      "Code": "BOGAZKALE",
+      "Name": "BO\u011EAZKALE"
+    },
+    {
+      "Id": 9370,
+      "Code": "CORUM",
+      "Name": "\u00C7ORUM"
+    },
+    {
+      "Id": 9371,
+      "Code": "DODURGA",
+      "Name": "DODURGA"
+    },
+    {
+      "Id": 9372,
+      "Code": "ISKILIP",
+      "Name": "\u0130SK\u0130L\u0130P"
+    },
+    {
+      "Id": 9373,
+      "Code": "KARGI",
+      "Name": "KARGI"
+    },
+    {
+      "Id": 9374,
+      "Code": "LACIN",
+      "Name": "LA\u00C7\u0130N"
+    },
+    {
+      "Id": 9375,
+      "Code": "MECITOZU",
+      "Name": "MEC\u0130T\u00D6Z\u00DC"
+    },
+    {
+      "Id": 9376,
+      "Code": "OGUZLAR",
+      "Name": "O\u011EUZLAR"
+    },
+    {
+      "Id": 9377,
+      "Code": "ORTAKOY",
+      "Name": "ORTAK\u00D6Y"
+    },
+    {
+      "Id": 9378,
+      "Code": "OSMANCIK",
+      "Name": "OSMANCIK"
+    },
+    {
+      "Id": 9379,
+      "Code": "SUNGURLU",
+      "Name": "SUNGURLU"
+    },
+    {
+      "Id": 9380,
+      "Code": "UGURLUDAG",
+      "Name": "U\u011EURLUDA\u011E"
+    }
+  ]
+}

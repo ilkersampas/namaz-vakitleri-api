@@ -1,0 +1,39 @@
+{
+  "lastUpdated": "2026-05-25T15:19:50.5128423Z",
+  "stateId": 543,
+  "stateName": "KARAMAN",
+  "countryId": 2,
+  "count": 6,
+  "data": [
+    {
+      "Id": 9584,
+      "Code": "AYRANCI",
+      "Name": "AYRANCI"
+    },
+    {
+      "Id": 9585,
+      "Code": "BASYAYLA",
+      "Name": "BA\u015EYAYLA"
+    },
+    {
+      "Id": 9586,
+      "Code": "ERMENEK",
+      "Name": "ERMENEK"
+    },
+    {
+      "Id": 9587,
+      "Code": "KARAMAN",
+      "Name": "KARAMAN"
+    },
+    {
+      "Id": 9588,
+      "Code": "KAZIMKARABEKIR",
+      "Name": "KAZIMKARABEK\u0130R"
+    },
+    {
+      "Id": 9589,
+      "Code": "SARIVELILER",
+      "Name": "SARIVEL\u0130LER"
+    }
+  ]
+}

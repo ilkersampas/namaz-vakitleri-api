@@ -1,0 +1,44 @@
+{
+  "lastUpdated": "2026-05-25T15:10:29.9038112Z",
+  "stateId": 503,
+  "stateName": "A\u011ERI",
+  "countryId": 2,
+  "count": 7,
+  "data": [
+    {
+      "Id": 9185,
+      "Code": "AGRI",
+      "Name": "A\u011ERI"
+    },
+    {
+      "Id": 9186,
+      "Code": "DIYADIN",
+      "Name": "D\u0130YAD\u0130N"
+    },
+    {
+      "Id": 9187,
+      "Code": "DOGUBEYAZIT",
+      "Name": "DO\u011EUBEYAZIT"
+    },
+    {
+      "Id": 9188,
+      "Code": "ELESKIRT",
+      "Name": "ELE\u015EK\u0130RT"
+    },
+    {
+      "Id": 9189,
+      "Code": "PATNOS",
+      "Name": "PATNOS"
+    },
+    {
+      "Id": 9190,
+      "Code": "TASLICAY",
+      "Name": "TA\u015ELI\u00C7AY"
+    },
+    {
+      "Id": 9191,
+      "Code": "TUTAK",
+      "Name": "TUTAK"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "lastUpdated": "2026-05-25T15:12:56.1964211Z",
+  "stateId": 512,
+  "stateName": "BARTIN",
+  "countryId": 2,
+  "count": 3,
+  "data": [
+    {
+      "Id": 9285,
+      "Code": "BARTIN",
+      "Name": "BARTIN"
+    },
+    {
+      "Id": 9286,
+      "Code": "KURUCASILE",
+      "Name": "KURUCA\u015E\u0130LE"
+    },
+    {
+      "Id": 9287,
+      "Code": "ULUS",
+      "Name": "ULUS"
+    }
+  ]
+}

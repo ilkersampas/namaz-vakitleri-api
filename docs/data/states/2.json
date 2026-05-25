@@ -1,0 +1,413 @@
+{
+  "lastUpdated": "2026-05-25T15:09:38.4295003Z",
+  "countryId": 2,
+  "countryName": "T\u00DCRK\u0130YE",
+  "count": 81,
+  "data": [
+    {
+      "Id": 500,
+      "Code": "ADANA",
+      "Name": "ADANA"
+    },
+    {
+      "Id": 501,
+      "Code": "ADIYAMAN",
+      "Name": "ADIYAMAN"
+    },
+    {
+      "Id": 502,
+      "Code": "AFYONKARAHISAR",
+      "Name": "AFYONKARAH\u0130SAR"
+    },
+    {
+      "Id": 503,
+      "Code": "AGRI",
+      "Name": "A\u011ERI"
+    },
+    {
+      "Id": 504,
+      "Code": "AKSARAY",
+      "Name": "AKSARAY"
+    },
+    {
+      "Id": 505,
+      "Code": "AMASYA",
+      "Name": "AMASYA"
+    },
+    {
+      "Id": 506,
+      "Code": "ANKARA",
+      "Name": "ANKARA"
+    },
+    {
+      "Id": 507,
+      "Code": "ANTALYA",
+      "Name": "ANTALYA"
+    },
+    {
+      "Id": 508,
+      "Code": "ARDAHAN",
+      "Name": "ARDAHAN"
+    },
+    {
+      "Id": 509,
+      "Code": "ARTVIN",
+      "Name": "ARTV\u0130N"
+    },
+    {
+      "Id": 510,
+      "Code": "AYDIN",
+      "Name": "AYDIN"
+    },
+    {
+      "Id": 511,
+      "Code": "BALIKESIR",
+      "Name": "BALIKES\u0130R"
+    },
+    {
+      "Id": 512,
+      "Code": "BARTIN",
+      "Name": "BARTIN"
+    },
+    {
+      "Id": 513,
+      "Code": "BATMAN",
+      "Name": "BATMAN"
+    },
+    {
+      "Id": 514,
+      "Code": "BAYBURT",
+      "Name": "BAYBURT"
+    },
+    {
+      "Id": 515,
+      "Code": "BILECIK",
+      "Name": "B\u0130LEC\u0130K"
+    },
+    {
+      "Id": 516,
+      "Code": "BINGOL",
+      "Name": "B\u0130NG\u00D6L"
+    },
+    {
+      "Id": 517,
+      "Code": "BITLIS",
+      "Name": "B\u0130TL\u0130S"
+    },
+    {
+      "Id": 518,
+      "Code": "BOLU",
+      "Name": "BOLU"
+    },
+    {
+      "Id": 519,
+      "Code": "BURDUR",
+      "Name": "BURDUR"
+    },
+    {
+      "Id": 520,
+      "Code": "BURSA",
+      "Name": "BURSA"
+    },
+    {
+      "Id": 521,
+      "Code": "CANAKKALE",
+      "Name": "\u00C7ANAKKALE"
+    },
+    {
+      "Id": 522,
+      "Code": "CANKIRI",
+      "Name": "\u00C7ANKIRI"
+    },
+    {
+      "Id": 523,
+      "Code": "CORUM",
+      "Name": "\u00C7ORUM"
+    },
+    {
+      "Id": 524,
+      "Code": "DENIZLI",
+      "Name": "DEN\u0130ZL\u0130"
+    },
+    {
+      "Id": 525,
+      "Code": "DIYARBAKIR",
+      "Name": "D\u0130YARBAKIR"
+    },
+    {
+      "Id": 526,
+      "Code": "DUZCE",
+      "Name": "D\u00DCZCE"
+    },
+    {
+      "Id": 527,
+      "Code": "EDIRNE",
+      "Name": "ED\u0130RNE"
+    },
+    {
+      "Id": 528,
+      "Code": "ELAZIG",
+      "Name": "ELAZI\u011E"
+    },
+    {
+      "Id": 529,
+      "Code": "ERZINCAN",
+      "Name": "ERZ\u0130NCAN"
+    },
+    {
+      "Id": 530,
+      "Code": "ERZURUM",
+      "Name": "ERZURUM"
+    },
+    {
+      "Id": 531,
+      "Code": "ESKISEHIR",
+      "Name": "ESK\u0130\u015EEH\u0130R"
+    },
+    {
+      "Id": 532,
+      "Code": "GAZIANTEP",
+      "Name": "GAZ\u0130ANTEP"
+    },
+    {
+      "Id": 533,
+      "Code": "GIRESUN",
+      "Name": "G\u0130RESUN"
+    },
+    {
+      "Id": 534,
+      "Code": "GUMUSHANE",
+      "Name": "G\u00DCM\u00DC\u015EHANE"
+    },
+    {
+      "Id": 535,
+      "Code": "HAKKARI",
+      "Name": "HAKKAR\u0130"
+    },
+    {
+      "Id": 536,
+      "Code": "HATAY",
+      "Name": "HATAY"
+    },
+    {
+      "Id": 537,
+      "Code": "IGDIR",
+      "Name": "I\u011EDIR"
+    },
+    {
+      "Id": 538,
+      "Code": "ISPARTA",
+      "Name": "ISPARTA"
+    },
+    {
+      "Id": 539,
+      "Code": "ISTANBUL",
+      "Name": "\u0130STANBUL"
+    },
+    {
+      "Id": 540,
+      "Code": "IZMIR",
+      "Name": "\u0130ZM\u0130R"
+    },
+    {
+      "Id": 541,
+      "Code": "KAHRAMANMARAS",
+      "Name": "KAHRAMANMARA\u015E"
+    },
+    {
+      "Id": 542,
+      "Code": "KARABUK",
+      "Name": "KARAB\u00DCK"
+    },
+    {
+      "Id": 543,
+      "Code": "KARAMAN",
+      "Name": "KARAMAN"
+    },
+    {
+      "Id": 544,
+      "Code": "KARS",
+      "Name": "KARS"
+    },
+    {
+      "Id": 545,
+      "Code": "KASTAMONU",
+      "Name": "KASTAMONU"
+    },
+    {
+      "Id": 546,
+      "Code": "KAYSERI",
+      "Name": "KAYSER\u0130"
+    },
+    {
+      "Id": 547,
+      "Code": "KILIS",
+      "Name": "K\u0130L\u0130S"
+    },
+    {
+      "Id": 548,
+      "Code": "KIRIKKALE",
+      "Name": "KIRIKKALE"
+    },
+    {
+      "Id": 549,
+      "Code": "KIRKLARELI",
+      "Name": "KIRKLAREL\u0130"
+    },
+    {
+      "Id": 550,
+      "Code": "KIRSEHIR",
+      "Name": "KIR\u015EEH\u0130R"
+    },
+    {
+      "Id": 551,
+      "Code": "KOCAELI",
+      "Name": "KOCAEL\u0130"
+    },
+    {
+      "Id": 552,
+      "Code": "KONYA",
+      "Name": "KONYA"
+    },
+    {
+      "Id": 553,
+      "Code": "KUTAHYA",
+      "Name": "K\u00DCTAHYA"
+    },
+    {
+      "Id": 554,
+      "Code": "MALATYA",
+      "Name": "MALATYA"
+    },
+    {
+      "Id": 555,
+      "Code": "MANISA",
+      "Name": "MAN\u0130SA"
+    },
+    {
+      "Id": 556,
+      "Code": "MARDIN",
+      "Name": "MARD\u0130N"
+    },
+    {
+      "Id": 557,
+      "Code": "MERSIN",
+      "Name": "MERS\u0130N"
+    },
+    {
+      "Id": 558,
+      "Code": "MUGLA",
+      "Name": "MU\u011ELA"
+    },
+    {
+      "Id": 559,
+      "Code": "MUS",
+      "Name": "MU\u015E"
+    },
+    {
+      "Id": 560,
+      "Code": "NEVSEHIR",
+      "Name": "NEV\u015EEH\u0130R"
+    },
+    {
+      "Id": 561,
+      "Code": "NIGDE",
+      "Name": "N\u0130\u011EDE"
+    },
+    {
+      "Id": 562,
+      "Code": "ORDU",
+      "Name": "ORDU"
+    },
+    {
+      "Id": 563,
+      "Code": "OSMANIYE",
+      "Name": "OSMAN\u0130YE"
+    },
+    {
+      "Id": 564,
+      "Code": "RIZE",
+      "Name": "R\u0130ZE"
+    },
+    {
+      "Id": 565,
+      "Code": "SAKARYA",
+      "Name": "SAKARYA"
+    },
+    {
+      "Id": 566,
+      "Code": "SAMSUN",
+      "Name": "SAMSUN"
+    },
+    {
+      "Id": 567,
+      "Code": "SANLIURFA",
+      "Name": "\u015EANLIURFA"
+    },
+    {
+      "Id": 568,
+      "Code": "SIIRT",
+      "Name": "S\u0130\u0130RT"
+    },
+    {
+      "Id": 569,
+      "Code": "SINOP",
+      "Name": "S\u0130NOP"
+    },
+    {
+      "Id": 570,
+      "Code": "SIRNAK",
+      "Name": "\u015EIRNAK"
+    },
+    {
+      "Id": 571,
+      "Code": "SIVAS",
+      "Name": "S\u0130VAS"
+    },
+    {
+      "Id": 572,
+      "Code": "TEKIRDAG",
+      "Name": "TEK\u0130RDA\u011E"
+    },
+    {
+      "Id": 573,
+      "Code": "TOKAT",
+      "Name": "TOKAT"
+    },
+    {
+      "Id": 574,
+      "Code": "TRABZON",
+      "Name": "TRABZON"
+    },
+    {
+      "Id": 575,
+      "Code": "TUNCELI",
+      "Name": "TUNCEL\u0130"
+    },
+    {
+      "Id": 576,
+      "Code": "USAK",
+      "Name": "U\u015EAK"
+    },
+    {
+      "Id": 577,
+      "Code": "VAN",
+      "Name": "VAN"
+    },
+    {
+      "Id": 578,
+      "Code": "YALOVA",
+      "Name": "YALOVA"
+    },
+    {
+      "Id": 579,
+      "Code": "YOZGAT",
+      "Name": "YOZGAT"
+    },
+    {
+      "Id": 580,
+      "Code": "ZONGULDAK",
+      "Name": "ZONGULDAK"
+    }
+  ]
+}

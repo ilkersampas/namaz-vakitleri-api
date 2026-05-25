@@ -1,0 +1,49 @@
+{
+  "lastUpdated": "2026-05-25T15:17:19.9437883Z",
+  "stateId": 532,
+  "stateName": "GAZ\u0130ANTEP",
+  "countryId": 2,
+  "count": 8,
+  "data": [
+    {
+      "Id": 9478,
+      "Code": "ARABAN",
+      "Name": "ARABAN"
+    },
+    {
+      "Id": 9479,
+      "Code": "GAZIANTEP",
+      "Name": "GAZ\u0130ANTEP"
+    },
+    {
+      "Id": 9480,
+      "Code": "ISLAHIYE",
+      "Name": "\u0130SLAH\u0130YE"
+    },
+    {
+      "Id": 9481,
+      "Code": "KARKAMIS",
+      "Name": "KARKAMI\u015E"
+    },
+    {
+      "Id": 9482,
+      "Code": "NIZIP",
+      "Name": "N\u0130Z\u0130P"
+    },
+    {
+      "Id": 9483,
+      "Code": "NURDAGI",
+      "Name": "NURDA\u011EI"
+    },
+    {
+      "Id": 9484,
+      "Code": "OGUZELI",
+      "Name": "O\u011EUZEL\u0130"
+    },
+    {
+      "Id": 9485,
+      "Code": "YAVUZELI",
+      "Name": "YAVUZEL\u0130"
+    }
+  ]
+}

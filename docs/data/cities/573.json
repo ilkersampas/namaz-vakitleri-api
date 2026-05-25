@@ -1,0 +1,69 @@
+{
+  "lastUpdated": "2026-05-25T15:26:39.0481399Z",
+  "stateId": 573,
+  "stateName": "TOKAT",
+  "countryId": 2,
+  "count": 12,
+  "data": [
+    {
+      "Id": 9880,
+      "Code": "ALMUS",
+      "Name": "ALMUS"
+    },
+    {
+      "Id": 9881,
+      "Code": "ARTOVA",
+      "Name": "ARTOVA"
+    },
+    {
+      "Id": 9882,
+      "Code": "BA\u015E\u00C7\u0130FTL\u0130K",
+      "Name": "BA\u015E\u00C7\u0130FTL\u0130K"
+    },
+    {
+      "Id": 9883,
+      "Code": "N\u0130KSAR",
+      "Name": "N\u0130KSAR"
+    },
+    {
+      "Id": 9884,
+      "Code": "PAZAR (T)",
+      "Name": "PAZAR (T)"
+    },
+    {
+      "Id": 9885,
+      "Code": "RE\u015EAD\u0130YE",
+      "Name": "RE\u015EAD\u0130YE"
+    },
+    {
+      "Id": 9886,
+      "Code": "SULUSARAY",
+      "Name": "SULUSARAY"
+    },
+    {
+      "Id": 9887,
+      "Code": "TOKAT",
+      "Name": "TOKAT"
+    },
+    {
+      "Id": 9888,
+      "Code": "TURHAL",
+      "Name": "TURHAL"
+    },
+    {
+      "Id": 9889,
+      "Code": "YE\u015E\u0130LYURT",
+      "Name": "YE\u015E\u0130LYURT"
+    },
+    {
+      "Id": 9890,
+      "Code": "Z\u0130LE",
+      "Name": "Z\u0130LE"
+    },
+    {
+      "Id": 17910,
+      "Code": "ERBAA",
+      "Name": "ERBAA"
+    }
+  ]
+}

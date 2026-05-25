@@ -1,0 +1,74 @@
+{
+  "lastUpdated": "2026-05-25T15:20:35.9759972Z",
+  "stateId": 546,
+  "stateName": "KAYSER\u0130",
+  "countryId": 2,
+  "count": 13,
+  "data": [
+    {
+      "Id": 9615,
+      "Code": "AKKISLA",
+      "Name": "AKKI\u015ELA"
+    },
+    {
+      "Id": 9616,
+      "Code": "BUNYAN",
+      "Name": "B\u00DCNYAN"
+    },
+    {
+      "Id": 9617,
+      "Code": "DEVELI",
+      "Name": "DEVEL\u0130"
+    },
+    {
+      "Id": 9618,
+      "Code": "FELAHIYE",
+      "Name": "FELAH\u0130YE"
+    },
+    {
+      "Id": 9619,
+      "Code": "INCESU",
+      "Name": "\u0130NCESU"
+    },
+    {
+      "Id": 9620,
+      "Code": "KAYSERI",
+      "Name": "KAYSER\u0130"
+    },
+    {
+      "Id": 9621,
+      "Code": "OZVATAN",
+      "Name": "\u00D6ZVATAN"
+    },
+    {
+      "Id": 9622,
+      "Code": "PINARBASI",
+      "Name": "PINARBA\u015EI"
+    },
+    {
+      "Id": 9623,
+      "Code": "SARIOGLAN",
+      "Name": "SARIO\u011ELAN"
+    },
+    {
+      "Id": 9624,
+      "Code": "SARIZ",
+      "Name": "SARIZ"
+    },
+    {
+      "Id": 9625,
+      "Code": "TOMARZA",
+      "Name": "TOMARZA"
+    },
+    {
+      "Id": 9626,
+      "Code": "YAHYALI",
+      "Name": "YAHYALI"
+    },
+    {
+      "Id": 9627,
+      "Code": "YESILHISAR",
+      "Name": "YE\u015E\u0130LH\u0130SAR"
+    }
+  ]
+}

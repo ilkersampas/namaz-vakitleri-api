@@ -1,0 +1,74 @@
+{
+  "lastUpdated": "2026-05-25T15:22:28.3070852Z",
+  "stateId": 554,
+  "stateName": "MALATYA",
+  "countryId": 2,
+  "count": 13,
+  "data": [
+    {
+      "Id": 9694,
+      "Code": "AKCADAG",
+      "Name": "AK\u00C7ADA\u011E"
+    },
+    {
+      "Id": 9695,
+      "Code": "ARAPGIR",
+      "Name": "ARAPG\u0130R"
+    },
+    {
+      "Id": 9696,
+      "Code": "ARGUVAN",
+      "Name": "ARGUVAN"
+    },
+    {
+      "Id": 9697,
+      "Code": "DARENDE",
+      "Name": "DARENDE"
+    },
+    {
+      "Id": 9698,
+      "Code": "DOGANSEHIR",
+      "Name": "DO\u011EAN\u015EEH\u0130R"
+    },
+    {
+      "Id": 9699,
+      "Code": "DOGANYOL",
+      "Name": "DO\u011EANYOL"
+    },
+    {
+      "Id": 9700,
+      "Code": "HEKIMHAN",
+      "Name": "HEK\u0130MHAN"
+    },
+    {
+      "Id": 9701,
+      "Code": "KALE (M)",
+      "Name": "KALE (M)"
+    },
+    {
+      "Id": 9702,
+      "Code": "KULUNCAK",
+      "Name": "KULUNCAK"
+    },
+    {
+      "Id": 9703,
+      "Code": "MALATYA",
+      "Name": "MALATYA"
+    },
+    {
+      "Id": 9704,
+      "Code": "PUTURGE",
+      "Name": "P\u00DCT\u00DCRGE"
+    },
+    {
+      "Id": 9705,
+      "Code": "YAZIHAN",
+      "Name": "YAZIHAN"
+    },
+    {
+      "Id": 9706,
+      "Code": "YESILYURT",
+      "Name": "YE\u015E\u0130LYURT"
+    }
+  ]
+}

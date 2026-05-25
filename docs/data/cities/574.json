@@ -1,0 +1,94 @@
+{
+  "lastUpdated": "2026-05-25T15:26:54.7721454Z",
+  "stateId": 574,
+  "stateName": "TRABZON",
+  "countryId": 2,
+  "count": 17,
+  "data": [
+    {
+      "Id": 9891,
+      "Code": "AKCAABAT",
+      "Name": "AK\u00C7AABAT"
+    },
+    {
+      "Id": 9892,
+      "Code": "ARAKLI",
+      "Name": "ARAKLI"
+    },
+    {
+      "Id": 9893,
+      "Code": "ARSIN",
+      "Name": "ARS\u0130N"
+    },
+    {
+      "Id": 9894,
+      "Code": "BESIKDUZU",
+      "Name": "BE\u015E\u0130KD\u00DCZ\u00DC"
+    },
+    {
+      "Id": 9895,
+      "Code": "CARSIBASI",
+      "Name": "\u00C7AR\u015EIBA\u015EI"
+    },
+    {
+      "Id": 9896,
+      "Code": "CAYKARA",
+      "Name": "\u00C7AYKARA"
+    },
+    {
+      "Id": 9897,
+      "Code": "DERNEKPAZARI",
+      "Name": "DERNEKPAZARI"
+    },
+    {
+      "Id": 9898,
+      "Code": "DUZKOY",
+      "Name": "D\u00DCZK\u00D6Y"
+    },
+    {
+      "Id": 9899,
+      "Code": "HAYRAT",
+      "Name": "HAYRAT"
+    },
+    {
+      "Id": 9900,
+      "Code": "KOPRUBASI (T)",
+      "Name": "K\u00D6PR\u00DCBA\u015EI (T)"
+    },
+    {
+      "Id": 9901,
+      "Code": "OF",
+      "Name": "OF"
+    },
+    {
+      "Id": 9902,
+      "Code": "SALPAZARI",
+      "Name": "\u015EALPAZARI"
+    },
+    {
+      "Id": 9903,
+      "Code": "SURMENE",
+      "Name": "S\u00DCRMENE"
+    },
+    {
+      "Id": 9904,
+      "Code": "TONYA",
+      "Name": "TONYA"
+    },
+    {
+      "Id": 9905,
+      "Code": "TRABZON",
+      "Name": "TRABZON"
+    },
+    {
+      "Id": 9906,
+      "Code": "VAKFIKEBIR",
+      "Name": "VAKFIKEB\u0130R"
+    },
+    {
+      "Id": 9907,
+      "Code": "YOMRA",
+      "Name": "YOMRA"
+    }
+  ]
+}

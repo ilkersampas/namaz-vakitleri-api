@@ -1,0 +1,24 @@
+{
+  "lastUpdated": "2026-05-25T15:13:08.4202146Z",
+  "stateId": 514,
+  "stateName": "BAYBURT",
+  "countryId": 2,
+  "count": 3,
+  "data": [
+    {
+      "Id": 9294,
+      "Code": "AYDINTEPE",
+      "Name": "AYDINTEPE"
+    },
+    {
+      "Id": 9295,
+      "Code": "BAYBURT",
+      "Name": "BAYBURT"
+    },
+    {
+      "Id": 9296,
+      "Code": "DEMIROZU",
+      "Name": "DEM\u0130R\u00D6Z\u00DC"
+    }
+  ]
+}

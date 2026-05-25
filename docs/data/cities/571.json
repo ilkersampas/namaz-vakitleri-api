@@ -1,0 +1,94 @@
+{
+  "lastUpdated": "2026-05-25T15:26:04.6903311Z",
+  "stateId": 571,
+  "stateName": "S\u0130VAS",
+  "countryId": 2,
+  "count": 17,
+  "data": [
+    {
+      "Id": 9856,
+      "Code": "AKINCILAR",
+      "Name": "AKINCILAR"
+    },
+    {
+      "Id": 9857,
+      "Code": "ALTINYAYLA(S)",
+      "Name": "ALTINYAYLA(S)"
+    },
+    {
+      "Id": 9858,
+      "Code": "DIVRIGI",
+      "Name": "D\u0130VR\u0130\u011E\u0130"
+    },
+    {
+      "Id": 9859,
+      "Code": "DOGANSAR",
+      "Name": "DO\u011EAN\u015EAR"
+    },
+    {
+      "Id": 9860,
+      "Code": "GEMEREK",
+      "Name": "GEMEREK"
+    },
+    {
+      "Id": 9861,
+      "Code": "GOLOVA",
+      "Name": "G\u00D6LOVA"
+    },
+    {
+      "Id": 9862,
+      "Code": "GURUN",
+      "Name": "G\u00DCR\u00DCN"
+    },
+    {
+      "Id": 9863,
+      "Code": "HAFIK",
+      "Name": "HAF\u0130K"
+    },
+    {
+      "Id": 9864,
+      "Code": "IMRANLI",
+      "Name": "\u0130MRANLI"
+    },
+    {
+      "Id": 9865,
+      "Code": "KANGAL",
+      "Name": "KANGAL"
+    },
+    {
+      "Id": 9866,
+      "Code": "KOYULHISAR",
+      "Name": "KOYULH\u0130SAR"
+    },
+    {
+      "Id": 9867,
+      "Code": "SARKISLA",
+      "Name": "\u015EARKI\u015ELA"
+    },
+    {
+      "Id": 9868,
+      "Code": "SIVAS",
+      "Name": "S\u0130VAS"
+    },
+    {
+      "Id": 9869,
+      "Code": "SUSEHRI",
+      "Name": "SU\u015EEHR\u0130"
+    },
+    {
+      "Id": 9870,
+      "Code": "YILDIZELI",
+      "Name": "YILDIZEL\u0130"
+    },
+    {
+      "Id": 9871,
+      "Code": "ZARA",
+      "Name": "ZARA"
+    },
+    {
+      "Id": 17920,
+      "Code": "ULA\u015E",
+      "Name": "ULA\u015E"
+    }
+  ]
+}

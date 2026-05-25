@@ -1,0 +1,39 @@
+{
+  "lastUpdated": "2026-05-25T15:13:00.3732975Z",
+  "stateId": 513,
+  "stateName": "BATMAN",
+  "countryId": 2,
+  "count": 6,
+  "data": [
+    {
+      "Id": 9288,
+      "Code": "BATMAN",
+      "Name": "BATMAN"
+    },
+    {
+      "Id": 9289,
+      "Code": "BESIRI",
+      "Name": "BE\u015E\u0130R\u0130"
+    },
+    {
+      "Id": 9290,
+      "Code": "GERCUS",
+      "Name": "GERC\u00DC\u015E"
+    },
+    {
+      "Id": 9291,
+      "Code": "HASANKEYF",
+      "Name": "HASANKEYF"
+    },
+    {
+      "Id": 9292,
+      "Code": "KOZLUK",
+      "Name": "KOZLUK"
+    },
+    {
+      "Id": 9293,
+      "Code": "SASON",
+      "Name": "SASON"
+    }
+  ]
+}

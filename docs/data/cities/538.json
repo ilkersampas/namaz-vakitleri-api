@@ -1,0 +1,74 @@
+{
+  "lastUpdated": "2026-05-25T15:18:27.4042236Z",
+  "stateId": 538,
+  "stateName": "ISPARTA",
+  "countryId": 2,
+  "count": 13,
+  "data": [
+    {
+      "Id": 9525,
+      "Code": "AKSU (I)",
+      "Name": "AKSU (I)"
+    },
+    {
+      "Id": 9526,
+      "Code": "EGIRDIR",
+      "Name": "E\u011E\u0130RD\u0130R"
+    },
+    {
+      "Id": 9527,
+      "Code": "GELENDOST",
+      "Name": "GELENDOST"
+    },
+    {
+      "Id": 9528,
+      "Code": "ISPARTA",
+      "Name": "ISPARTA"
+    },
+    {
+      "Id": 9529,
+      "Code": "KECIBORLU",
+      "Name": "KE\u00C7\u0130BORLU"
+    },
+    {
+      "Id": 9530,
+      "Code": "SARKI KARAAGAC",
+      "Name": "\u015EARK\u0130 KARAA\u011EA\u00C7"
+    },
+    {
+      "Id": 9531,
+      "Code": "SUTCULER",
+      "Name": "S\u00DCTC\u00DCLER"
+    },
+    {
+      "Id": 9532,
+      "Code": "ULUBORLU",
+      "Name": "ULUBORLU"
+    },
+    {
+      "Id": 9533,
+      "Code": "YALVAC",
+      "Name": "YALVA\u00C7"
+    },
+    {
+      "Id": 9534,
+      "Code": "YENISAR BADEMLI",
+      "Name": "YEN\u0130SAR BADEML\u0130"
+    },
+    {
+      "Id": 17816,
+      "Code": "SEN\u0130RKENT",
+      "Name": "SEN\u0130RKENT"
+    },
+    {
+      "Id": 17891,
+      "Code": "ATABEY",
+      "Name": "ATABEY"
+    },
+    {
+      "Id": 17892,
+      "Code": "G\u00D6NEN",
+      "Name": "G\u00D6NEN"
+    }
+  ]
+}

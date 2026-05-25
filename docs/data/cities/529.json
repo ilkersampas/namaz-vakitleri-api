@@ -1,0 +1,54 @@
+{
+  "lastUpdated": "2026-05-25T15:16:26.6068196Z",
+  "stateId": 529,
+  "stateName": "ERZ\u0130NCAN",
+  "countryId": 2,
+  "count": 9,
+  "data": [
+    {
+      "Id": 9439,
+      "Code": "CAYIRLI",
+      "Name": "\u00C7AYIRLI"
+    },
+    {
+      "Id": 9440,
+      "Code": "ERZINCAN",
+      "Name": "ERZ\u0130NCAN"
+    },
+    {
+      "Id": 9441,
+      "Code": "ILI\u00C7",
+      "Name": "\u0130L\u0130\u00C7"
+    },
+    {
+      "Id": 9442,
+      "Code": "KEMAH",
+      "Name": "KEMAH"
+    },
+    {
+      "Id": 9443,
+      "Code": "KEMALIYE",
+      "Name": "KEMAL\u0130YE"
+    },
+    {
+      "Id": 9444,
+      "Code": "OTLUKBELI",
+      "Name": "OTLUKBEL\u0130"
+    },
+    {
+      "Id": 9445,
+      "Code": "REFAHIYE",
+      "Name": "REFAH\u0130YE"
+    },
+    {
+      "Id": 9446,
+      "Code": "TERCAN",
+      "Name": "TERCAN"
+    },
+    {
+      "Id": 9447,
+      "Code": "UZUMLU",
+      "Name": "\u00DCZ\u00DCML\u00DC"
+    }
+  ]
+}

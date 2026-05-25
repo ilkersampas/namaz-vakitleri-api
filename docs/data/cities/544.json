@@ -1,0 +1,49 @@
+{
+  "lastUpdated": "2026-05-25T15:19:59.1811004Z",
+  "stateId": 544,
+  "stateName": "KARS",
+  "countryId": 2,
+  "count": 8,
+  "data": [
+    {
+      "Id": 9590,
+      "Code": "AKYAKA",
+      "Name": "AKYAKA"
+    },
+    {
+      "Id": 9591,
+      "Code": "ARPACAY",
+      "Name": "ARPA\u00C7AY"
+    },
+    {
+      "Id": 9592,
+      "Code": "DIGOR",
+      "Name": "D\u0130GOR"
+    },
+    {
+      "Id": 9593,
+      "Code": "KAGIZMAN",
+      "Name": "KA\u011EIZMAN"
+    },
+    {
+      "Id": 9594,
+      "Code": "KARS",
+      "Name": "KARS"
+    },
+    {
+      "Id": 9595,
+      "Code": "SARIKAMIS",
+      "Name": "SARIKAMI\u015E"
+    },
+    {
+      "Id": 9596,
+      "Code": "SELIM",
+      "Name": "SEL\u0130M"
+    },
+    {
+      "Id": 17880,
+      "Code": "SUSUZ",
+      "Name": "SUSUZ"
+    }
+  ]
+}

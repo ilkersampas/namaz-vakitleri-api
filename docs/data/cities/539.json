@@ -1,0 +1,104 @@
+{
+  "lastUpdated": "2026-05-25T15:18:45.0219446Z",
+  "stateId": 539,
+  "stateName": "\u0130STANBUL",
+  "countryId": 2,
+  "count": 19,
+  "data": [
+    {
+      "Id": 9535,
+      "Code": "ARNAVUTKOY",
+      "Name": "ARNAVUTKOY"
+    },
+    {
+      "Id": 9536,
+      "Code": "BEYLIKDUZU",
+      "Name": "BEYL\u0130KD\u00DCZ\u00DC"
+    },
+    {
+      "Id": 9537,
+      "Code": "BUYUKCEKMECE",
+      "Name": "B\u00DCY\u00DCK\u00C7EKMECE"
+    },
+    {
+      "Id": 9538,
+      "Code": "CATALCA",
+      "Name": "\u00C7ATALCA"
+    },
+    {
+      "Id": 9539,
+      "Code": "CEKMEKOY",
+      "Name": "\u00C7EKMEK\u00D6Y"
+    },
+    {
+      "Id": 9540,
+      "Code": "ESENYURT",
+      "Name": "ESENYURT"
+    },
+    {
+      "Id": 9541,
+      "Code": "ISTANBUL",
+      "Name": "\u0130STANBUL"
+    },
+    {
+      "Id": 9542,
+      "Code": "KARTAL",
+      "Name": "KARTAL"
+    },
+    {
+      "Id": 9543,
+      "Code": "KUCUKCEKMECE",
+      "Name": "K\u00DC\u00C7\u00DCK\u00C7EKMECE"
+    },
+    {
+      "Id": 9544,
+      "Code": "MALTEPE",
+      "Name": "MALTEPE"
+    },
+    {
+      "Id": 9545,
+      "Code": "PENDIK",
+      "Name": "PEND\u0130K"
+    },
+    {
+      "Id": 9546,
+      "Code": "SANCAKTEPE",
+      "Name": "SANCAKTEPE"
+    },
+    {
+      "Id": 9547,
+      "Code": "SILE",
+      "Name": "\u015E\u0130LE"
+    },
+    {
+      "Id": 9548,
+      "Code": "SILIVRI",
+      "Name": "S\u0130L\u0130VR\u0130"
+    },
+    {
+      "Id": 9549,
+      "Code": "SULTANBEYLI",
+      "Name": "SULTANBEYL\u0130"
+    },
+    {
+      "Id": 9550,
+      "Code": "SULTANGAZI",
+      "Name": "SULTANGAZ\u0130"
+    },
+    {
+      "Id": 9551,
+      "Code": "TUZLA",
+      "Name": "TUZLA"
+    },
+    {
+      "Id": 17865,
+      "Code": "AVCILAR",
+      "Name": "AVCILAR"
+    },
+    {
+      "Id": 17866,
+      "Code": "BA\u015EAK\u015EEH\u0130R",
+      "Name": "BA\u015EAK\u015EEH\u0130R"
+    }
+  ]
+}

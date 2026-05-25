@@ -1,0 +1,54 @@
+{
+  "lastUpdated": "2026-05-25T15:24:49.538273Z",
+  "stateId": 565,
+  "stateName": "SAKARYA",
+  "countryId": 2,
+  "count": 9,
+  "data": [
+    {
+      "Id": 9800,
+      "Code": "AKYAZI",
+      "Name": "AKYAZI"
+    },
+    {
+      "Id": 9801,
+      "Code": "GEYVE",
+      "Name": "GEYVE"
+    },
+    {
+      "Id": 9802,
+      "Code": "HENDEK",
+      "Name": "HENDEK"
+    },
+    {
+      "Id": 9803,
+      "Code": "KARASU",
+      "Name": "KARASU"
+    },
+    {
+      "Id": 9804,
+      "Code": "KAYNARCA",
+      "Name": "KAYNARCA"
+    },
+    {
+      "Id": 9805,
+      "Code": "KOCAALI",
+      "Name": "KOCAAL\u0130"
+    },
+    {
+      "Id": 9806,
+      "Code": "PAMUKOVA",
+      "Name": "PAMUKOVA"
+    },
+    {
+      "Id": 9807,
+      "Code": "SAKARYA",
+      "Name": "SAKARYA"
+    },
+    {
+      "Id": 9808,
+      "Code": "TARAKLI",
+      "Name": "TARAKLI"
+    }
+  ]
+}

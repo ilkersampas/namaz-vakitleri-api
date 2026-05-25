@@ -1,0 +1,54 @@
+{
+  "lastUpdated": "2026-05-25T15:23:04.9114326Z",
+  "stateId": 556,
+  "stateName": "MARD\u0130N",
+  "countryId": 2,
+  "count": 9,
+  "data": [
+    {
+      "Id": 9723,
+      "Code": "DARGECIT",
+      "Name": "DARGEC\u0130T"
+    },
+    {
+      "Id": 9724,
+      "Code": "DERIK",
+      "Name": "DER\u0130K"
+    },
+    {
+      "Id": 9725,
+      "Code": "KIZILTEPE",
+      "Name": "KIZILTEPE"
+    },
+    {
+      "Id": 9726,
+      "Code": "MARDIN",
+      "Name": "MARD\u0130N"
+    },
+    {
+      "Id": 9727,
+      "Code": "MAZIDAGI",
+      "Name": "MAZIDA\u011EI"
+    },
+    {
+      "Id": 9728,
+      "Code": "MIDYAT",
+      "Name": "M\u0130DYAT"
+    },
+    {
+      "Id": 9729,
+      "Code": "NUSAYBIN",
+      "Name": "NUSAYB\u0130N"
+    },
+    {
+      "Id": 9730,
+      "Code": "OMERLI",
+      "Name": "\u00D6MERL\u0130"
+    },
+    {
+      "Id": 17901,
+      "Code": "SAVUR",
+      "Name": "SAVUR"
+    }
+  ]
+}

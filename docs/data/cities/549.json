@@ -1,0 +1,44 @@
+{
+  "lastUpdated": "2026-05-25T15:21:06.1875206Z",
+  "stateId": 549,
+  "stateName": "KIRKLAREL\u0130",
+  "countryId": 2,
+  "count": 7,
+  "data": [
+    {
+      "Id": 9637,
+      "Code": "DEMIRKOY",
+      "Name": "DEMIRKOY"
+    },
+    {
+      "Id": 9638,
+      "Code": "KIRKLARELI",
+      "Name": "KIRKLAREL\u0130"
+    },
+    {
+      "Id": 9639,
+      "Code": "LULEBURGAZ",
+      "Name": "LULEBURGAZ"
+    },
+    {
+      "Id": 9640,
+      "Code": "PEHLIVANKOY",
+      "Name": "PEHLIVANKOY"
+    },
+    {
+      "Id": 9641,
+      "Code": "PINARHISAR",
+      "Name": "PINARHISAR"
+    },
+    {
+      "Id": 9642,
+      "Code": "VIZE",
+      "Name": "VIZE"
+    },
+    {
+      "Id": 17903,
+      "Code": "BABAESK\u0130",
+      "Name": "BABAESK\u0130"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "lastUpdated": "2026-05-25T15:22:44.74946Z",
+  "stateId": 555,
+  "stateName": "MAN\u0130SA",
+  "countryId": 2,
+  "count": 16,
+  "data": [
+    {
+      "Id": 9707,
+      "Code": "AHMETLI",
+      "Name": "AHMETL\u0130"
+    },
+    {
+      "Id": 9708,
+      "Code": "AKHISAR",
+      "Name": "AKH\u0130SAR"
+    },
+    {
+      "Id": 9709,
+      "Code": "ALASEHIR",
+      "Name": "ALA\u015EEH\u0130R"
+    },
+    {
+      "Id": 9710,
+      "Code": "DEMIRCI",
+      "Name": "DEM\u0130RC\u0130"
+    },
+    {
+      "Id": 9711,
+      "Code": "GOLMARMARA",
+      "Name": "G\u00D6LMARMARA"
+    },
+    {
+      "Id": 9712,
+      "Code": "GORDES",
+      "Name": "G\u00D6RDES"
+    },
+    {
+      "Id": 9713,
+      "Code": "KIRKAGAC",
+      "Name": "KIRKA\u011EA\u00C7"
+    },
+    {
+      "Id": 9714,
+      "Code": "KOPRUBASI",
+      "Name": "K\u00D6PR\u00DCBA\u015EI"
+    },
+    {
+      "Id": 9715,
+      "Code": "KULA",
+      "Name": "KULA"
+    },
+    {
+      "Id": 9716,
+      "Code": "MANISA",
+      "Name": "MAN\u0130SA"
+    },
+    {
+      "Id": 9717,
+      "Code": "SALIHLI",
+      "Name": "SAL\u0130HL\u0130"
+    },
+    {
+      "Id": 9718,
+      "Code": "SARIGOL",
+      "Name": "SARIG\u00D6L"
+    },
+    {
+      "Id": 9719,
+      "Code": "SARUHANLI",
+      "Name": "SARUHANLI"
+    },
+    {
+      "Id": 9720,
+      "Code": "SELENDI",
+      "Name": "SELEND\u0130"
+    },
+    {
+      "Id": 9721,
+      "Code": "SOMA",
+      "Name": "SOMA"
+    },
+    {
+      "Id": 9722,
+      "Code": "TURGUTLU",
+      "Name": "TURGUTLU"
+    }
+  ]
+}

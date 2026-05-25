@@ -1,0 +1,1046 @@
+{
+  "lastUpdated": "2026-05-25T15:09:38.2712103Z",
+  "count": 208,
+  "data": [
+    {
+      "Id": 1,
+      "Code": "NORTH CYPRUS",
+      "Name": "KUZEY KIBRIS"
+    },
+    {
+      "Id": 2,
+      "Code": "T\u00DCRK\u0130YE",
+      "Name": "T\u00DCRK\u0130YE"
+    },
+    {
+      "Id": 3,
+      "Code": "MONACO",
+      "Name": "MONAKO"
+    },
+    {
+      "Id": 4,
+      "Code": "NETHERLANDS",
+      "Name": "HOLLANDA"
+    },
+    {
+      "Id": 5,
+      "Code": "AZERBAIJAN",
+      "Name": "AZERBAYCAN"
+    },
+    {
+      "Id": 6,
+      "Code": "ESTONYA",
+      "Name": "ESTONYA"
+    },
+    {
+      "Id": 7,
+      "Code": "HUNGARY",
+      "Name": "MACARISTAN"
+    },
+    {
+      "Id": 8,
+      "Code": "ITALY",
+      "Name": "ITALYA"
+    },
+    {
+      "Id": 9,
+      "Code": "BOSNIA-HERZEGOVINA",
+      "Name": "BOSNA HERSEK"
+    },
+    {
+      "Id": 10,
+      "Code": "VATIKAN",
+      "Name": "VATIKAN"
+    },
+    {
+      "Id": 11,
+      "Code": "BELGIUM",
+      "Name": "BELCIKA"
+    },
+    {
+      "Id": 12,
+      "Code": "SWEDEN",
+      "Name": "ISVEC"
+    },
+    {
+      "Id": 13,
+      "Code": "GERMANY",
+      "Name": "ALMANYA"
+    },
+    {
+      "Id": 14,
+      "Code": "SLOVAKIA",
+      "Name": "SLOVAKYA"
+    },
+    {
+      "Id": 15,
+      "Code": "UNITED KINGDOM",
+      "Name": "INGILTERE"
+    },
+    {
+      "Id": 16,
+      "Code": "CZECH REPUBLIC",
+      "Name": "CEK CUMHURIYETI"
+    },
+    {
+      "Id": 17,
+      "Code": "ANDORRA",
+      "Name": "ANDORRA"
+    },
+    {
+      "Id": 18,
+      "Code": "KOSOVA",
+      "Name": "KOSOVA"
+    },
+    {
+      "Id": 19,
+      "Code": "SLOVENIA",
+      "Name": "SLOVENYA"
+    },
+    {
+      "Id": 20,
+      "Code": "LATVIA",
+      "Name": "LETONYA"
+    },
+    {
+      "Id": 21,
+      "Code": "FRANCE",
+      "Name": "FRANSA"
+    },
+    {
+      "Id": 22,
+      "Code": "GREECE",
+      "Name": "YUNANISTAN"
+    },
+    {
+      "Id": 23,
+      "Code": "SPAIN",
+      "Name": "ISPANYA"
+    },
+    {
+      "Id": 24,
+      "Code": "MALTA",
+      "Name": "MALTA"
+    },
+    {
+      "Id": 25,
+      "Code": "ALBANIA",
+      "Name": "ARNAVUTLUK"
+    },
+    {
+      "Id": 26,
+      "Code": "DENMARK",
+      "Name": "DANIMARKA"
+    },
+    {
+      "Id": 27,
+      "Code": "SIRBISTAN",
+      "Name": "SIRBISTAN"
+    },
+    {
+      "Id": 28,
+      "Code": "MACEDONIA",
+      "Name": "MAKEDONYA"
+    },
+    {
+      "Id": 29,
+      "Code": "UKRAINE-KRYM",
+      "Name": "UKRAYNA-KIRIM"
+    },
+    {
+      "Id": 30,
+      "Code": "CROATIA",
+      "Name": "HIRVATISTAN"
+    },
+    {
+      "Id": 31,
+      "Code": "LUXEMBOURG",
+      "Name": "LUKSEMBURG"
+    },
+    {
+      "Id": 32,
+      "Code": "IRELAND",
+      "Name": "IRLANDA"
+    },
+    {
+      "Id": 33,
+      "Code": "USA",
+      "Name": "ABD"
+    },
+    {
+      "Id": 34,
+      "Code": "KARADAG",
+      "Name": "KARADAG"
+    },
+    {
+      "Id": 35,
+      "Code": "AUSTRIA",
+      "Name": "AVUSTURYA"
+    },
+    {
+      "Id": 36,
+      "Code": "NORWAY",
+      "Name": "NORVEC"
+    },
+    {
+      "Id": 37,
+      "Code": "ROMANIA",
+      "Name": "ROMANYA"
+    },
+    {
+      "Id": 38,
+      "Code": "LIECHTENSTEIN",
+      "Name": "LIECHTENSTEIN"
+    },
+    {
+      "Id": 39,
+      "Code": "POLAND",
+      "Name": "POLONYA"
+    },
+    {
+      "Id": 40,
+      "Code": "UKRAINE",
+      "Name": "UKRAYNA"
+    },
+    {
+      "Id": 41,
+      "Code": "FINLAND",
+      "Name": "FINLANDIYA"
+    },
+    {
+      "Id": 42,
+      "Code": "LEBANON",
+      "Name": "LUBNAN"
+    },
+    {
+      "Id": 44,
+      "Code": "BULGARIA",
+      "Name": "BULGARISTAN"
+    },
+    {
+      "Id": 45,
+      "Code": "PORTUGAL",
+      "Name": "PORTEKIZ"
+    },
+    {
+      "Id": 46,
+      "Code": "MOLDAVYA",
+      "Name": "MOLDAVYA"
+    },
+    {
+      "Id": 47,
+      "Code": "LITHUANIA",
+      "Name": "LITVANYA"
+    },
+    {
+      "Id": 48,
+      "Code": "GRONLAND",
+      "Name": "GRONLAND"
+    },
+    {
+      "Id": 49,
+      "Code": "SWITZERLAND",
+      "Name": "ISVICRE"
+    },
+    {
+      "Id": 51,
+      "Code": "BERMUDA",
+      "Name": "BERMUDA"
+    },
+    {
+      "Id": 52,
+      "Code": "CANADA",
+      "Name": "KANADA"
+    },
+    {
+      "Id": 53,
+      "Code": "MEXICO",
+      "Name": "MEKSIKA"
+    },
+    {
+      "Id": 54,
+      "Code": "BAHAMAS",
+      "Name": "BAHAMALAR"
+    },
+    {
+      "Id": 55,
+      "Code": "MALAVI",
+      "Name": "MALAVI"
+    },
+    {
+      "Id": 56,
+      "Code": "VANUATU",
+      "Name": "VANUATU"
+    },
+    {
+      "Id": 57,
+      "Code": "KOLOMBIYA",
+      "Name": "KOLOMBIYA"
+    },
+    {
+      "Id": 58,
+      "Code": "GRENADA",
+      "Name": "GRENADA"
+    },
+    {
+      "Id": 59,
+      "Code": "AUSTRALIA",
+      "Name": "AVUSTRALYA"
+    },
+    {
+      "Id": 60,
+      "Code": "MONGOLIA",
+      "Name": "MOGOLISTAN"
+    },
+    {
+      "Id": 61,
+      "Code": "CHINA",
+      "Name": "CIN"
+    },
+    {
+      "Id": 62,
+      "Code": "GEORGIA",
+      "Name": "GURCISTAN"
+    },
+    {
+      "Id": 63,
+      "Code": "EKVATOR GINESI",
+      "Name": "EKVATOR GINESI"
+    },
+    {
+      "Id": 64,
+      "Code": "SAUDI ARABIA",
+      "Name": "S. ARABISTAN"
+    },
+    {
+      "Id": 65,
+      "Code": "BURUNDI",
+      "Name": "BURUNDI"
+    },
+    {
+      "Id": 66,
+      "Code": "CURA\u00C7AO",
+      "Name": "\u00C7URA\u00C7AO"
+    },
+    {
+      "Id": 67,
+      "Code": "SOUTH AFRICA",
+      "Name": "GUNEY AFRIKA"
+    },
+    {
+      "Id": 68,
+      "Code": "PUERTO RICO",
+      "Name": "PORTO RIKO"
+    },
+    {
+      "Id": 69,
+      "Code": "PERU",
+      "Name": "PERU"
+    },
+    {
+      "Id": 70,
+      "Code": "HAITI",
+      "Name": "HAITI"
+    },
+    {
+      "Id": 71,
+      "Code": "TOGO",
+      "Name": "TOGO"
+    },
+    {
+      "Id": 72,
+      "Code": "DOMINIK CUMHURIYETI",
+      "Name": "DOMINIK CUMHURIYETI"
+    },
+    {
+      "Id": 73,
+      "Code": "LIBERYA",
+      "Name": "LIBERYA"
+    },
+    {
+      "Id": 74,
+      "Code": "SRI LANKA",
+      "Name": "SRI LANKA"
+    },
+    {
+      "Id": 75,
+      "Code": "UGANDA",
+      "Name": "UGANDA"
+    },
+    {
+      "Id": 76,
+      "Code": "NEPAL",
+      "Name": "NEPAL"
+    },
+    {
+      "Id": 77,
+      "Code": "PAKISTAN",
+      "Name": "PAKISTAN"
+    },
+    {
+      "Id": 79,
+      "Code": "GABON",
+      "Name": "GABON"
+    },
+    {
+      "Id": 80,
+      "Code": "ORTA AFRIKA CUMHURIYETI",
+      "Name": "ORTA AFRIKA CUMHURIYETI"
+    },
+    {
+      "Id": 81,
+      "Code": "RUANDA",
+      "Name": "RUANDA"
+    },
+    {
+      "Id": 82,
+      "Code": "GUYANA",
+      "Name": "GUYANA"
+    },
+    {
+      "Id": 83,
+      "Code": "BOLIVYA",
+      "Name": "BOLIVYA"
+    },
+    {
+      "Id": 84,
+      "Code": "NIJER",
+      "Name": "NIJER"
+    },
+    {
+      "Id": 85,
+      "Code": "MIKRONEZYA",
+      "Name": "MIKRONEZYA"
+    },
+    {
+      "Id": 86,
+      "Code": "ALGERIA",
+      "Name": "CEZAYIR"
+    },
+    {
+      "Id": 87,
+      "Code": "MARTINIK",
+      "Name": "MARTINIK"
+    },
+    {
+      "Id": 88,
+      "Code": "KOMORLAR",
+      "Name": "KOMORLAR"
+    },
+    {
+      "Id": 89,
+      "Code": "PANAMA",
+      "Name": "PANAMA"
+    },
+    {
+      "Id": 90,
+      "Code": "ANTIGUA VE BARBUDA",
+      "Name": "ANTIGUA VE BARBUDA"
+    },
+    {
+      "Id": 91,
+      "Code": "BURKINA FASO",
+      "Name": "BURKINA FASO"
+    },
+    {
+      "Id": 92,
+      "Code": "KAZAKHSTAN",
+      "Name": "KAZAKISTAN"
+    },
+    {
+      "Id": 93,
+      "Code": "UNITED ARAB EMIRATES",
+      "Name": "BIRLESIK ARAP EMIRLIGI"
+    },
+    {
+      "Id": 94,
+      "Code": "KATAR",
+      "Name": "KATAR"
+    },
+    {
+      "Id": 95,
+      "Code": "ETHIOPIA",
+      "Name": "ETYOPYA"
+    },
+    {
+      "Id": 96,
+      "Code": "TRINIDAT VE TOBAGO",
+      "Name": "TRINIDAT VE TOBAGO"
+    },
+    {
+      "Id": 97,
+      "Code": "BRUNEI",
+      "Name": "BRUNEI"
+    },
+    {
+      "Id": 98,
+      "Code": "MADAGASKAR",
+      "Name": "MADAGASKAR"
+    },
+    {
+      "Id": 99,
+      "Code": "GUATEMALA",
+      "Name": "GUATEMALA"
+    },
+    {
+      "Id": 100,
+      "Code": "MAKAO",
+      "Name": "MAKAO"
+    },
+    {
+      "Id": 101,
+      "Code": "TAJIKISTAN",
+      "Name": "TACIKISTAN"
+    },
+    {
+      "Id": 102,
+      "Code": "SENEGAL",
+      "Name": "SENEGAL"
+    },
+    {
+      "Id": 103,
+      "Code": "MALDIVLER",
+      "Name": "MALDIVLER"
+    },
+    {
+      "Id": 104,
+      "Code": "ARMENIA",
+      "Name": "ERMENISTAN"
+    },
+    {
+      "Id": 105,
+      "Code": "HONDURAS",
+      "Name": "HONDURAS"
+    },
+    {
+      "Id": 106,
+      "Code": "MORITANYA",
+      "Name": "MORITANYA"
+    },
+    {
+      "Id": 107,
+      "Code": "MALAYSIA",
+      "Name": "MALEZYA"
+    },
+    {
+      "Id": 108,
+      "Code": "TAIWAN",
+      "Name": "TAYVAN"
+    },
+    {
+      "Id": 109,
+      "Code": "GAMBIYA",
+      "Name": "GAMBIYA"
+    },
+    {
+      "Id": 110,
+      "Code": "TANZANYA",
+      "Name": "TANZANYA"
+    },
+    {
+      "Id": 111,
+      "Code": "GUINEA",
+      "Name": "GINE"
+    },
+    {
+      "Id": 112,
+      "Code": "REUNION",
+      "Name": "REUNION"
+    },
+    {
+      "Id": 113,
+      "Code": "HONG KONG",
+      "Name": "HONG KONG"
+    },
+    {
+      "Id": 114,
+      "Code": "KENYA",
+      "Name": "KENYA"
+    },
+    {
+      "Id": 115,
+      "Code": "YENI KALEDONYA",
+      "Name": "YENI KALEDONYA"
+    },
+    {
+      "Id": 116,
+      "Code": "JAPAN",
+      "Name": "JAPONYA"
+    },
+    {
+      "Id": 117,
+      "Code": "INDONESIA",
+      "Name": "ENDONEZYA"
+    },
+    {
+      "Id": 118,
+      "Code": "TUNUSIA",
+      "Name": "TUNUS"
+    },
+    {
+      "Id": 119,
+      "Code": "JAMAIKA",
+      "Name": "JAMAIKA"
+    },
+    {
+      "Id": 120,
+      "Code": "FILDISI SAHILI",
+      "Name": "FILDISI SAHILI"
+    },
+    {
+      "Id": 122,
+      "Code": "IZLANDA",
+      "Name": "IZLANDA"
+    },
+    {
+      "Id": 123,
+      "Code": "DOMINIK",
+      "Name": "DOMINIK"
+    },
+    {
+      "Id": 124,
+      "Code": "IRAQ",
+      "Name": "IRAK"
+    },
+    {
+      "Id": 125,
+      "Code": "ANGUILLA",
+      "Name": "ANGUILLA"
+    },
+    {
+      "Id": 126,
+      "Code": "PHILIPPINES",
+      "Name": "FILIPINLER"
+    },
+    {
+      "Id": 127,
+      "Code": "NIGERIA",
+      "Name": "NIJERYA"
+    },
+    {
+      "Id": 128,
+      "Code": "SOUTH KOREA",
+      "Name": "GUNEY KORE"
+    },
+    {
+      "Id": 129,
+      "Code": "SUDAN",
+      "Name": "SUDAN"
+    },
+    {
+      "Id": 130,
+      "Code": "TONGA",
+      "Name": "TONGA"
+    },
+    {
+      "Id": 131,
+      "Code": "UZBEKISTAN",
+      "Name": "OZBEKISTAN"
+    },
+    {
+      "Id": 132,
+      "Code": "BAHRAIN",
+      "Name": "BAHREYN"
+    },
+    {
+      "Id": 133,
+      "Code": "KUWAIT",
+      "Name": "KUVEYT"
+    },
+    {
+      "Id": 134,
+      "Code": "LAOS",
+      "Name": "LAOS"
+    },
+    {
+      "Id": 135,
+      "Code": "VIETNAM",
+      "Name": "VIETNAM"
+    },
+    {
+      "Id": 136,
+      "Code": "ST. LUCIA",
+      "Name": "ST. LUCIA"
+    },
+    {
+      "Id": 137,
+      "Code": "THAILAND",
+      "Name": "TAYLAND"
+    },
+    {
+      "Id": 138,
+      "Code": "SEYSEL ADALARI",
+      "Name": "SEYSEL ADALARI"
+    },
+    {
+      "Id": 139,
+      "Code": "EKVATOR",
+      "Name": "EKVATOR"
+    },
+    {
+      "Id": 140,
+      "Code": "ANGOLA",
+      "Name": "ANGOLA"
+    },
+    {
+      "Id": 141,
+      "Code": "NIKARAGUA",
+      "Name": "NIKARAGUA"
+    },
+    {
+      "Id": 142,
+      "Code": "NORTH KOREA",
+      "Name": "KUZEY KORE"
+    },
+    {
+      "Id": 143,
+      "Code": "GHANA",
+      "Name": "GANA"
+    },
+    {
+      "Id": 144,
+      "Code": "YESIL BURUN",
+      "Name": "YESIL BURUN"
+    },
+    {
+      "Id": 145,
+      "Code": "MOROCCO",
+      "Name": "FAS"
+    },
+    {
+      "Id": 146,
+      "Code": "BRAZIL",
+      "Name": "BREZILYA"
+    },
+    {
+      "Id": 147,
+      "Code": "MONTSERRAT (U.K.)",
+      "Name": "MONTSERRAT (U.K.)"
+    },
+    {
+      "Id": 148,
+      "Code": "YEMEN",
+      "Name": "YEMEN"
+    },
+    {
+      "Id": 149,
+      "Code": "PALAU",
+      "Name": "PALAU"
+    },
+    {
+      "Id": 150,
+      "Code": "SOMALIA",
+      "Name": "SOMALI"
+    },
+    {
+      "Id": 151,
+      "Code": "MOZAMBIK",
+      "Name": "MOZAMBIK"
+    },
+    {
+      "Id": 152,
+      "Code": "MALI",
+      "Name": "MALI"
+    },
+    {
+      "Id": 153,
+      "Code": "ARUBA",
+      "Name": "ARUBA"
+    },
+    {
+      "Id": 154,
+      "Code": "MYANMAR",
+      "Name": "MYANMAR"
+    },
+    {
+      "Id": 155,
+      "Code": "BUTAN",
+      "Name": "BUTAN"
+    },
+    {
+      "Id": 156,
+      "Code": "CAD",
+      "Name": "CAD"
+    },
+    {
+      "Id": 157,
+      "Code": "MAYOTTE",
+      "Name": "MAYOTTE"
+    },
+    {
+      "Id": 158,
+      "Code": "ZAMBIYA",
+      "Name": "ZAMBIYA"
+    },
+    {
+      "Id": 159,
+      "Code": "TURKMENISTAN",
+      "Name": "TURKMENISTAN"
+    },
+    {
+      "Id": 160,
+      "Code": "CIBUTI",
+      "Name": "CIBUTI"
+    },
+    {
+      "Id": 161,
+      "Code": "KAMBOCYA",
+      "Name": "KAMBOCYA"
+    },
+    {
+      "Id": 162,
+      "Code": "KOSTARIKA",
+      "Name": "KOSTARIKA"
+    },
+    {
+      "Id": 163,
+      "Code": "SVALBARD",
+      "Name": "SVALBARD"
+    },
+    {
+      "Id": 164,
+      "Code": "MAURITIUS ADASI",
+      "Name": "MAURITIUS ADASI"
+    },
+    {
+      "Id": 165,
+      "Code": "EL SALVADOR",
+      "Name": "EL SALVADOR"
+    },
+    {
+      "Id": 166,
+      "Code": "AFGHANISTAN",
+      "Name": "AFGANISTAN"
+    },
+    {
+      "Id": 167,
+      "Code": "BOTSWANA",
+      "Name": "BOTSVANA"
+    },
+    {
+      "Id": 168,
+      "Code": "KIRGIZHSTAN",
+      "Name": "KIRGIZISTAN"
+    },
+    {
+      "Id": 169,
+      "Code": "GUAM ISLAND",
+      "Name": "GUAM ADASI"
+    },
+    {
+      "Id": 170,
+      "Code": "ESWATINI",
+      "Name": "ESWATINI"
+    },
+    {
+      "Id": 171,
+      "Code": "GUADELOPE",
+      "Name": "GUADELOPE"
+    },
+    {
+      "Id": 172,
+      "Code": "SURINAM",
+      "Name": "SURINAM"
+    },
+    {
+      "Id": 173,
+      "Code": "UMMAN",
+      "Name": "UMMAN"
+    },
+    {
+      "Id": 174,
+      "Code": "LESOTO",
+      "Name": "LESOTO"
+    },
+    {
+      "Id": 175,
+      "Code": "ERITRE",
+      "Name": "ERITRE"
+    },
+    {
+      "Id": 176,
+      "Code": "DOGU TIMOR",
+      "Name": "DOGU TIMOR"
+    },
+    {
+      "Id": 177,
+      "Code": "BANGLADESH",
+      "Name": "BANGLADES"
+    },
+    {
+      "Id": 178,
+      "Code": "NIUE",
+      "Name": "NIUE"
+    },
+    {
+      "Id": 179,
+      "Code": "SINGAPORE",
+      "Name": "SINGAPUR"
+    },
+    {
+      "Id": 180,
+      "Code": "DEMOKRATIC REPUBLIC OF THE CONGO",
+      "Name": "DEMOKRATIK KONGO CUMHURIYETI"
+    },
+    {
+      "Id": 181,
+      "Code": "BENIN",
+      "Name": "BENIN"
+    },
+    {
+      "Id": 182,
+      "Code": "BELIZE",
+      "Name": "BELIZE"
+    },
+    {
+      "Id": 183,
+      "Code": "PITCAIRN ADASI",
+      "Name": "PITCAIRN ADASI"
+    },
+    {
+      "Id": 184,
+      "Code": "CAMEROON",
+      "Name": "KAMERUN"
+    },
+    {
+      "Id": 185,
+      "Code": "PAPUA YENI GINE",
+      "Name": "PAPUA YENI GINE"
+    },
+    {
+      "Id": 186,
+      "Code": "VENEZUELA",
+      "Name": "VENEZUELA"
+    },
+    {
+      "Id": 187,
+      "Code": "INDIA",
+      "Name": "HINDISTAN"
+    },
+    {
+      "Id": 188,
+      "Code": "BARBADOS",
+      "Name": "BARBADOS"
+    },
+    {
+      "Id": 189,
+      "Code": "EGYPT",
+      "Name": "MISIR"
+    },
+    {
+      "Id": 191,
+      "Code": "SYRIA",
+      "Name": "SURIYE"
+    },
+    {
+      "Id": 192,
+      "Code": "JORDAN",
+      "Name": "URDUN"
+    },
+    {
+      "Id": 193,
+      "Code": "NEW ZEALAND",
+      "Name": "YENI ZELANDA"
+    },
+    {
+      "Id": 194,
+      "Code": "PARAGUAY",
+      "Name": "PARAGUAY"
+    },
+    {
+      "Id": 196,
+      "Code": "NAMIBYA",
+      "Name": "NAMIBYA"
+    },
+    {
+      "Id": 197,
+      "Code": "FIJI",
+      "Name": "FIJI"
+    },
+    {
+      "Id": 198,
+      "Code": "SAMOA",
+      "Name": "SAMOA"
+    },
+    {
+      "Id": 199,
+      "Code": "ARGENTINA",
+      "Name": "ARJANTIN"
+    },
+    {
+      "Id": 200,
+      "Code": "CHILE",
+      "Name": "SILI"
+    },
+    {
+      "Id": 201,
+      "Code": "URUGUAY",
+      "Name": "URUGUAY"
+    },
+    {
+      "Id": 202,
+      "Code": "IRAN",
+      "Name": "IRAN"
+    },
+    {
+      "Id": 203,
+      "Code": "LIBYA",
+      "Name": "LIBYA"
+    },
+    {
+      "Id": 204,
+      "Code": "FILISTIN",
+      "Name": "FILISTIN"
+    },
+    {
+      "Id": 205,
+      "Code": "ISRAEL",
+      "Name": "ISRAIL"
+    },
+    {
+      "Id": 206,
+      "Code": "KUDUS",
+      "Name": "KUDUS"
+    },
+    {
+      "Id": 207,
+      "Code": "RUSSIA",
+      "Name": "RUSYA"
+    },
+    {
+      "Id": 208,
+      "Code": "BELARUS",
+      "Name": "BELARUS"
+    },
+    {
+      "Id": 209,
+      "Code": "CUBA",
+      "Name": "KUBA"
+    },
+    {
+      "Id": 210,
+      "Code": "SIERRA LEONE",
+      "Name": "SIERRA LEONE"
+    },
+    {
+      "Id": 212,
+      "Code": "MAN ISLAND",
+      "Name": "MAN ADASI"
+    },
+    {
+      "Id": 213,
+      "Code": "ASCENSION",
+      "Name": "ASCENSION"
+    },
+    {
+      "Id": 214,
+      "Code": "SOUTH SUDAN",
+      "Name": "GUNEY SUDAN"
+    },
+    {
+      "Id": 216,
+      "Code": "ZIMBABVE",
+      "Name": "ZIMBABVE"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "lastUpdated": "2026-05-25T15:16:38.8515308Z",
+  "stateId": 530,
+  "stateName": "ERZURUM",
+  "countryId": 2,
+  "count": 19,
+  "data": [
+    {
+      "Id": 9448,
+      "Code": "ASKALE",
+      "Name": "A\u015EKALE"
+    },
+    {
+      "Id": 9449,
+      "Code": "AZIZIYE",
+      "Name": "AZ\u0130Z\u0130YE"
+    },
+    {
+      "Id": 9450,
+      "Code": "CAT",
+      "Name": "\u00C7AT"
+    },
+    {
+      "Id": 9451,
+      "Code": "ERZURUM",
+      "Name": "ERZURUM"
+    },
+    {
+      "Id": 9452,
+      "Code": "HINIS",
+      "Name": "HINIS"
+    },
+    {
+      "Id": 9453,
+      "Code": "HORASAN",
+      "Name": "HORASAN"
+    },
+    {
+      "Id": 9454,
+      "Code": "ISPIR",
+      "Name": "\u0130SP\u0130R"
+    },
+    {
+      "Id": 9455,
+      "Code": "KARACOBAN",
+      "Name": "KARA\u00C7OBAN"
+    },
+    {
+      "Id": 9456,
+      "Code": "KARAYAZI",
+      "Name": "KARAYAZI"
+    },
+    {
+      "Id": 9457,
+      "Code": "KOPRUKOY",
+      "Name": "K\u00D6PR\u00DCK\u00D6Y"
+    },
+    {
+      "Id": 9458,
+      "Code": "NARMAN",
+      "Name": "NARMAN"
+    },
+    {
+      "Id": 9459,
+      "Code": "OLTU",
+      "Name": "OLTU"
+    },
+    {
+      "Id": 9460,
+      "Code": "OLUR",
+      "Name": "OLUR"
+    },
+    {
+      "Id": 9461,
+      "Code": "PASINLER",
+      "Name": "PAS\u0130NLER"
+    },
+    {
+      "Id": 9462,
+      "Code": "PAZARYOLU",
+      "Name": "PAZARYOLU"
+    },
+    {
+      "Id": 9463,
+      "Code": "SENKAYA",
+      "Name": "\u015EENKAYA"
+    },
+    {
+      "Id": 9464,
+      "Code": "TEKMAN",
+      "Name": "TEKMAN"
+    },
+    {
+      "Id": 9465,
+      "Code": "TORTUM",
+      "Name": "TORTUM"
+    },
+    {
+      "Id": 9466,
+      "Code": "UZUNDERE",
+      "Name": "UZUNDERE"
+    }
+  ]
+}

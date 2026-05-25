@@ -1,0 +1,54 @@
+{
+  "lastUpdated": "2026-05-25T15:11:55.6751286Z",
+  "stateId": 509,
+  "stateName": "ARTV\u0130N",
+  "countryId": 2,
+  "count": 9,
+  "data": [
+    {
+      "Id": 9244,
+      "Code": "ARDANUC",
+      "Name": "ARDANU\u00C7"
+    },
+    {
+      "Id": 9245,
+      "Code": "ARHAVI",
+      "Name": "ARHAV\u0130"
+    },
+    {
+      "Id": 9246,
+      "Code": "ARTVIN",
+      "Name": "ARTV\u0130N"
+    },
+    {
+      "Id": 9247,
+      "Code": "BORCKA",
+      "Name": "BOR\u00C7KA"
+    },
+    {
+      "Id": 9248,
+      "Code": "HOPA",
+      "Name": "HOPA"
+    },
+    {
+      "Id": 9249,
+      "Code": "MURGUL",
+      "Name": "MURGUL"
+    },
+    {
+      "Id": 9250,
+      "Code": "SAVSAT",
+      "Name": "\u015EAV\u015EAT"
+    },
+    {
+      "Id": 9251,
+      "Code": "YUSUFELI",
+      "Name": "YUSUFEL\u0130"
+    },
+    {
+      "Id": 20070,
+      "Code": "KEMALPASA",
+      "Name": "KEMALPA\u015EA"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "lastUpdated": "2026-05-25T15:18:21.6046418Z",
+  "stateId": 537,
+  "stateName": "I\u011EDIR",
+  "countryId": 2,
+  "count": 4,
+  "data": [
+    {
+      "Id": 9521,
+      "Code": "ARALIK",
+      "Name": "ARALIK"
+    },
+    {
+      "Id": 9522,
+      "Code": "IGDIR",
+      "Name": "I\u011EDIR"
+    },
+    {
+      "Id": 9523,
+      "Code": "KARAKOYUNLU",
+      "Name": "KARAKOYUNLU"
+    },
+    {
+      "Id": 9524,
+      "Code": "TUZLUCA",
+      "Name": "TUZLUCA"
+    }
+  ]
+}

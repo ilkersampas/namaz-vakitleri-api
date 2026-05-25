@@ -1,0 +1,69 @@
+{
+  "lastUpdated": "2026-05-25T15:09:38.7016273Z",
+  "stateId": 500,
+  "stateName": "ADANA",
+  "countryId": 2,
+  "count": 12,
+  "data": [
+    {
+      "Id": 9146,
+      "Code": "ADANA",
+      "Name": "ADANA"
+    },
+    {
+      "Id": 9147,
+      "Code": "ALADAG",
+      "Name": "ALADA\u011E"
+    },
+    {
+      "Id": 9148,
+      "Code": "CEYHAN",
+      "Name": "CEYHAN"
+    },
+    {
+      "Id": 9149,
+      "Code": "FEKE",
+      "Name": "FEKE"
+    },
+    {
+      "Id": 9150,
+      "Code": "IMAMOGLU",
+      "Name": "\u0130MAMO\u011ELU"
+    },
+    {
+      "Id": 9151,
+      "Code": "KARAISALI",
+      "Name": "KARAISALI"
+    },
+    {
+      "Id": 9152,
+      "Code": "KARATAS",
+      "Name": "KARATA\u015E"
+    },
+    {
+      "Id": 9153,
+      "Code": "KOZAN",
+      "Name": "KOZAN"
+    },
+    {
+      "Id": 9154,
+      "Code": "POZANTI",
+      "Name": "POZANTI"
+    },
+    {
+      "Id": 9155,
+      "Code": "SAIMBEYLI",
+      "Name": "SA\u0130MBEYL\u0130"
+    },
+    {
+      "Id": 9156,
+      "Code": "TUFANBEYLI",
+      "Name": "TUFANBEYL\u0130"
+    },
+    {
+      "Id": 9157,
+      "Code": "YUMURTALIK",
+      "Name": "YUMURTALIK"
+    }
+  ]
+}

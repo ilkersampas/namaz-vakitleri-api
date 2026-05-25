@@ -1,0 +1,64 @@
+{
+  "lastUpdated": "2026-05-25T15:14:23.6923363Z",
+  "stateId": 521,
+  "stateName": "\u00C7ANAKKALE",
+  "countryId": 2,
+  "count": 11,
+  "data": [
+    {
+      "Id": 9347,
+      "Code": "AYVACIK",
+      "Name": "AYVACIK"
+    },
+    {
+      "Id": 9348,
+      "Code": "BAYRAM\u0130C",
+      "Name": "BAYRAM\u0130\u00C7"
+    },
+    {
+      "Id": 9349,
+      "Code": "BIGA",
+      "Name": "B\u0130GA"
+    },
+    {
+      "Id": 9350,
+      "Code": "BOZCAADA",
+      "Name": "BOZCAADA"
+    },
+    {
+      "Id": 9351,
+      "Code": "CAN",
+      "Name": "\u00C7AN"
+    },
+    {
+      "Id": 9352,
+      "Code": "CANAKKALE",
+      "Name": "\u00C7ANAKKALE"
+    },
+    {
+      "Id": 9353,
+      "Code": "GELIBOLU",
+      "Name": "GEL\u0130BOLU"
+    },
+    {
+      "Id": 9354,
+      "Code": "GOKCEADA",
+      "Name": "G\u00D6K\u00C7EADA"
+    },
+    {
+      "Id": 9355,
+      "Code": "LAPSEKI",
+      "Name": "LAPSEK\u0130"
+    },
+    {
+      "Id": 9356,
+      "Code": "YENICE",
+      "Name": "YEN\u0130CE"
+    },
+    {
+      "Id": 17882,
+      "Code": "EZ\u0130NE",
+      "Name": "EZ\u0130NE"
+    }
+  ]
+}

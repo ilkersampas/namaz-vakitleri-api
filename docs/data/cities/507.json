@@ -1,0 +1,89 @@
+{
+  "lastUpdated": "2026-05-25T15:11:20.3285701Z",
+  "stateId": 507,
+  "stateName": "ANTALYA",
+  "countryId": 2,
+  "count": 16,
+  "data": [
+    {
+      "Id": 9222,
+      "Code": "AKSEKI",
+      "Name": "AKSEK\u0130"
+    },
+    {
+      "Id": 9223,
+      "Code": "AKSU",
+      "Name": "AKSU"
+    },
+    {
+      "Id": 9224,
+      "Code": "ALANYA",
+      "Name": "ALANYA"
+    },
+    {
+      "Id": 9225,
+      "Code": "ANTALYA",
+      "Name": "ANTALYA"
+    },
+    {
+      "Id": 9226,
+      "Code": "DEMRE",
+      "Name": "DEMRE"
+    },
+    {
+      "Id": 9227,
+      "Code": "ELMALI",
+      "Name": "ELMALI"
+    },
+    {
+      "Id": 9228,
+      "Code": "FINIKE",
+      "Name": "F\u0130N\u0130KE"
+    },
+    {
+      "Id": 9229,
+      "Code": "GAZIPASA",
+      "Name": "GAZ\u0130PA\u015EA"
+    },
+    {
+      "Id": 9230,
+      "Code": "GUNDOGMUS",
+      "Name": "G\u00DCNDO\u011EMU\u015E"
+    },
+    {
+      "Id": 9231,
+      "Code": "IBRADI",
+      "Name": "\u0130BRADI"
+    },
+    {
+      "Id": 9232,
+      "Code": "KAS",
+      "Name": "KA\u015E"
+    },
+    {
+      "Id": 9233,
+      "Code": "KEMER",
+      "Name": "KEMER"
+    },
+    {
+      "Id": 9234,
+      "Code": "KORKUTELI",
+      "Name": "KORKUTEL\u0130"
+    },
+    {
+      "Id": 9235,
+      "Code": "KUMLUCA",
+      "Name": "KUMLUCA"
+    },
+    {
+      "Id": 9236,
+      "Code": "MANAVGAT",
+      "Name": "MANAVGAT"
+    },
+    {
+      "Id": 9237,
+      "Code": "SERIK",
+      "Name": "SER\u0130K"
+    }
+  ]
+}

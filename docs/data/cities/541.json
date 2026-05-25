@@ -1,0 +1,59 @@
+{
+  "lastUpdated": "2026-05-25T15:19:31.7782567Z",
+  "stateId": 541,
+  "stateName": "KAHRAMANMARA\u015E",
+  "countryId": 2,
+  "count": 10,
+  "data": [
+    {
+      "Id": 9571,
+      "Code": "AFSIN",
+      "Name": "AF\u015E\u0130N"
+    },
+    {
+      "Id": 9572,
+      "Code": "ANDIRIN",
+      "Name": "ANDIRIN"
+    },
+    {
+      "Id": 9573,
+      "Code": "\u00C7A\u011ELAYANCER\u0130T",
+      "Name": "\u00C7A\u011ELAYANCER\u0130T"
+    },
+    {
+      "Id": 9574,
+      "Code": "EK\u0130N\u00D6Z\u00DC",
+      "Name": "EK\u0130N\u00D6Z\u00DC"
+    },
+    {
+      "Id": 9575,
+      "Code": "ELB\u0130STAN",
+      "Name": "ELB\u0130STAN"
+    },
+    {
+      "Id": 9576,
+      "Code": "G\u00D6KSUN",
+      "Name": "G\u00D6KSUN"
+    },
+    {
+      "Id": 9577,
+      "Code": "KAHRAMANMARA\u015E",
+      "Name": "KAHRAMANMARA\u015E"
+    },
+    {
+      "Id": 9578,
+      "Code": "NURHAK",
+      "Name": "NURHAK"
+    },
+    {
+      "Id": 9579,
+      "Code": "PAZARCIK",
+      "Name": "PAZARCIK"
+    },
+    {
+      "Id": 17908,
+      "Code": "T\u00DCRKO\u011ELU",
+      "Name": "T\u00DCRKO\u011ELU"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "lastUpdated": "2026-05-25T15:17:30.2859228Z",
+  "stateId": 533,
+  "stateName": "G\u0130RESUN",
+  "countryId": 2,
+  "count": 16,
+  "data": [
+    {
+      "Id": 9486,
+      "Code": "ALUCRA",
+      "Name": "ALUCRA"
+    },
+    {
+      "Id": 9487,
+      "Code": "BULANCAK",
+      "Name": "BULANCAK"
+    },
+    {
+      "Id": 9488,
+      "Code": "CAMOLUK",
+      "Name": "\u00C7AMOLUK"
+    },
+    {
+      "Id": 9489,
+      "Code": "CANAKCI",
+      "Name": "\u00C7ANAK\u00C7I"
+    },
+    {
+      "Id": 9490,
+      "Code": "DERELI",
+      "Name": "DEREL\u0130"
+    },
+    {
+      "Id": 9491,
+      "Code": "DOGANKENT",
+      "Name": "DO\u011EANKENT"
+    },
+    {
+      "Id": 9492,
+      "Code": "ESPIYE",
+      "Name": "ESP\u0130YE"
+    },
+    {
+      "Id": 9493,
+      "Code": "EYNESIL",
+      "Name": "EYNES\u0130L"
+    },
+    {
+      "Id": 9494,
+      "Code": "GIRESUN",
+      "Name": "G\u0130RESUN"
+    },
+    {
+      "Id": 9495,
+      "Code": "GORELE",
+      "Name": "G\u00D6RELE"
+    },
+    {
+      "Id": 9496,
+      "Code": "GUCE",
+      "Name": "G\u00DCCE"
+    },
+    {
+      "Id": 9497,
+      "Code": "KESAP",
+      "Name": "KE\u015EAP"
+    },
+    {
+      "Id": 9498,
+      "Code": "PIRAZIZ",
+      "Name": "P\u0130RAZ\u0130Z"
+    },
+    {
+      "Id": 9499,
+      "Code": "TIREBOLU",
+      "Name": "T\u0130REBOLU"
+    },
+    {
+      "Id": 9500,
+      "Code": "YAGLIDERE",
+      "Name": "YA\u011ELIDERE"
+    },
+    {
+      "Id": 16706,
+      "Code": "SEBINKARAHISAR",
+      "Name": "\u015EEB\u0130NKARAH\u0130SAR"
+    }
+  ]
+}

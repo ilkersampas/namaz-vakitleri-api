@@ -1,0 +1,49 @@
+{
+  "lastUpdated": "2026-05-25T15:10:39.3932992Z",
+  "stateId": 504,
+  "stateName": "AKSARAY",
+  "countryId": 2,
+  "count": 8,
+  "data": [
+    {
+      "Id": 9192,
+      "Code": "AGACOREN",
+      "Name": "A\u011EA\u00C7\u00D6REN"
+    },
+    {
+      "Id": 9193,
+      "Code": "AKSARAY",
+      "Name": "AKSARAY"
+    },
+    {
+      "Id": 9194,
+      "Code": "ESKIL",
+      "Name": "ESK\u0130L"
+    },
+    {
+      "Id": 9195,
+      "Code": "GULAGAC",
+      "Name": "G\u00DCLA\u011EA\u00C7"
+    },
+    {
+      "Id": 9196,
+      "Code": "GUZELYURT",
+      "Name": "G\u00DCZELYURT"
+    },
+    {
+      "Id": 9197,
+      "Code": "SARIYAHSI",
+      "Name": "SARIYAH\u015E\u0130"
+    },
+    {
+      "Id": 17877,
+      "Code": "ORTAK\u00D6Y",
+      "Name": "ORTAK\u00D6Y"
+    },
+    {
+      "Id": 20069,
+      "Code": "SULTANHANI",
+      "Name": "SULTANHANI"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "lastUpdated": "2026-05-25T15:12:08.914005Z",
+  "stateId": 510,
+  "stateName": "AYDIN",
+  "countryId": 2,
+  "count": 17,
+  "data": [
+    {
+      "Id": 9252,
+      "Code": "AYDIN",
+      "Name": "AYDIN"
+    },
+    {
+      "Id": 9253,
+      "Code": "BOZDOGAN",
+      "Name": "BOZDO\u011EAN"
+    },
+    {
+      "Id": 9254,
+      "Code": "BUHARKENT",
+      "Name": "BUHARKENT"
+    },
+    {
+      "Id": 9255,
+      "Code": "\u00C7INE",
+      "Name": "\u00C7\u0130NE"
+    },
+    {
+      "Id": 9256,
+      "Code": "DIDIM",
+      "Name": "D\u0130D\u0130M"
+    },
+    {
+      "Id": 9257,
+      "Code": "GERMENCIK",
+      "Name": "GERMENC\u0130K"
+    },
+    {
+      "Id": 9258,
+      "Code": "INCIRLIOVA",
+      "Name": "\u0130NC\u0130RL\u0130OVA"
+    },
+    {
+      "Id": 9259,
+      "Code": "KARACASU",
+      "Name": "KARACASU"
+    },
+    {
+      "Id": 9260,
+      "Code": "KARPUZLU",
+      "Name": "KARPUZLU"
+    },
+    {
+      "Id": 9261,
+      "Code": "KOCARLI",
+      "Name": "KO\u00C7ARLI"
+    },
+    {
+      "Id": 9262,
+      "Code": "KO\u015EK",
+      "Name": "K\u00D6\u015EK"
+    },
+    {
+      "Id": 9263,
+      "Code": "KUSADASI",
+      "Name": "KU\u015EADASI"
+    },
+    {
+      "Id": 9264,
+      "Code": "KUYUCAK",
+      "Name": "KUYUCAK"
+    },
+    {
+      "Id": 9265,
+      "Code": "NAZILLI",
+      "Name": "NAZ\u0130LL\u0130"
+    },
+    {
+      "Id": 9266,
+      "Code": "SOKE",
+      "Name": "S\u00D6KE"
+    },
+    {
+      "Id": 9267,
+      "Code": "SULTANHISAR",
+      "Name": "SULTANH\u0130SAR"
+    },
+    {
+      "Id": 9268,
+      "Code": "YENIPAZAR (A)",
+      "Name": "YEN\u0130PAZAR (A)"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "lastUpdated": "2026-05-25T15:25:22.6678004Z",
+  "stateId": 567,
+  "stateName": "\u015EANLIURFA",
+  "countryId": 2,
+  "count": 11,
+  "data": [
+    {
+      "Id": 9824,
+      "Code": "AKCAKALE",
+      "Name": "AK\u00C7AKALE"
+    },
+    {
+      "Id": 9825,
+      "Code": "BIRECIK",
+      "Name": "B\u0130REC\u0130K"
+    },
+    {
+      "Id": 9826,
+      "Code": "BOZOVA",
+      "Name": "BOZOVA"
+    },
+    {
+      "Id": 9827,
+      "Code": "CEYLANPINAR",
+      "Name": "CEYLANPINAR"
+    },
+    {
+      "Id": 9828,
+      "Code": "HALFETI",
+      "Name": "HALFET\u0130"
+    },
+    {
+      "Id": 9829,
+      "Code": "HARRAN",
+      "Name": "HARRAN"
+    },
+    {
+      "Id": 9830,
+      "Code": "HILVAN",
+      "Name": "H\u0130LVAN"
+    },
+    {
+      "Id": 9831,
+      "Code": "SANLIURFA",
+      "Name": "\u015EANLIURFA"
+    },
+    {
+      "Id": 9832,
+      "Code": "SIVEREK",
+      "Name": "S\u0130VEREK"
+    },
+    {
+      "Id": 9833,
+      "Code": "SURUC",
+      "Name": "SURU\u00C7"
+    },
+    {
+      "Id": 9834,
+      "Code": "VIRANSEHIR",
+      "Name": "V\u0130RAN\u015EEH\u0130R"
+    }
+  ]
+}

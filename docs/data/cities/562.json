@@ -1,0 +1,89 @@
+{
+  "lastUpdated": "2026-05-25T15:24:10.1733803Z",
+  "stateId": 562,
+  "stateName": "ORDU",
+  "countryId": 2,
+  "count": 16,
+  "data": [
+    {
+      "Id": 9768,
+      "Code": "AKKUS",
+      "Name": "AKKU\u015E"
+    },
+    {
+      "Id": 9769,
+      "Code": "AYBASTI",
+      "Name": "AYBASTI"
+    },
+    {
+      "Id": 9770,
+      "Code": "CAMAS",
+      "Name": "\u00C7AMA\u015E"
+    },
+    {
+      "Id": 9771,
+      "Code": "CATALPINAR",
+      "Name": "\u00C7ATALPINAR"
+    },
+    {
+      "Id": 9772,
+      "Code": "CAYBASI",
+      "Name": "\u00C7AYBA\u015EI"
+    },
+    {
+      "Id": 9773,
+      "Code": "FATSA",
+      "Name": "FATSA"
+    },
+    {
+      "Id": 9774,
+      "Code": "GOLKOY",
+      "Name": "G\u00D6LK\u00D6Y"
+    },
+    {
+      "Id": 9775,
+      "Code": "GULYALI",
+      "Name": "G\u00DCLYALI"
+    },
+    {
+      "Id": 9776,
+      "Code": "GURGENTEPE",
+      "Name": "G\u00DCRGENTEPE"
+    },
+    {
+      "Id": 9777,
+      "Code": "IKIZCE",
+      "Name": "\u0130K\u0130ZCE"
+    },
+    {
+      "Id": 9778,
+      "Code": "KABATAS",
+      "Name": "KABATA\u015E"
+    },
+    {
+      "Id": 9779,
+      "Code": "KORGAN",
+      "Name": "KORGAN"
+    },
+    {
+      "Id": 9780,
+      "Code": "KUMRU",
+      "Name": "KUMRU"
+    },
+    {
+      "Id": 9781,
+      "Code": "MESUDIYE",
+      "Name": "MESUD\u0130YE"
+    },
+    {
+      "Id": 9782,
+      "Code": "ORDU",
+      "Name": "ORDU"
+    },
+    {
+      "Id": 9783,
+      "Code": "UNYE",
+      "Name": "\u00DCNYE"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "lastUpdated": "2026-05-25T15:19:43.5028087Z",
+  "stateId": 542,
+  "stateName": "KARAB\u00DCK",
+  "countryId": 2,
+  "count": 5,
+  "data": [
+    {
+      "Id": 9580,
+      "Code": "EFLANI",
+      "Name": "EFLAN\u0130"
+    },
+    {
+      "Id": 9581,
+      "Code": "KARABUK",
+      "Name": "KARAB\u00DCK"
+    },
+    {
+      "Id": 9582,
+      "Code": "OVACIK (K)",
+      "Name": "OVACIK (K)"
+    },
+    {
+      "Id": 9583,
+      "Code": "YENICE (K)",
+      "Name": "YEN\u0130CE (K)"
+    },
+    {
+      "Id": 17890,
+      "Code": "ESK\u0130PAZAR",
+      "Name": "ESK\u0130PAZAR"
+    }
+  ]
+}

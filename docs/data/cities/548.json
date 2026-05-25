@@ -1,0 +1,44 @@
+{
+  "lastUpdated": "2026-05-25T15:20:57.6098579Z",
+  "stateId": 548,
+  "stateName": "KIRIKKALE",
+  "countryId": 2,
+  "count": 7,
+  "data": [
+    {
+      "Id": 9631,
+      "Code": "BALISEYH",
+      "Name": "BALISEYH"
+    },
+    {
+      "Id": 9632,
+      "Code": "CELEBI",
+      "Name": "CELEBI"
+    },
+    {
+      "Id": 9633,
+      "Code": "DELICE",
+      "Name": "DELICE"
+    },
+    {
+      "Id": 9634,
+      "Code": "KARAKECILI",
+      "Name": "KARAKECILI"
+    },
+    {
+      "Id": 9635,
+      "Code": "KIRIKKALE",
+      "Name": "KIRIKKALE"
+    },
+    {
+      "Id": 9636,
+      "Code": "SULAKYURT",
+      "Name": "SULAKYURT"
+    },
+    {
+      "Id": 17897,
+      "Code": "KESK\u0130N",
+      "Name": "KESK\u0130N"
+    }
+  ]
+}

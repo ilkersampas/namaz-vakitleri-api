@@ -1,0 +1,64 @@
+{
+  "lastUpdated": "2026-05-25T15:13:51.995654Z",
+  "stateId": 519,
+  "stateName": "BURDUR",
+  "countryId": 2,
+  "count": 11,
+  "data": [
+    {
+      "Id": 9324,
+      "Code": "AGLASUN",
+      "Name": "A\u011ELASUN"
+    },
+    {
+      "Id": 9325,
+      "Code": "ALTINYAYLA",
+      "Name": "ALTINYAYLA"
+    },
+    {
+      "Id": 9326,
+      "Code": "BUCAK",
+      "Name": "BUCAK"
+    },
+    {
+      "Id": 9327,
+      "Code": "BURDUR",
+      "Name": "BURDUR"
+    },
+    {
+      "Id": 9328,
+      "Code": "CAVDIR",
+      "Name": "\u00C7AVDIR"
+    },
+    {
+      "Id": 9329,
+      "Code": "CELTIKCI",
+      "Name": "\u00C7ELT\u0130KC\u0130"
+    },
+    {
+      "Id": 9330,
+      "Code": "GOLHISAR",
+      "Name": "G\u00D6LH\u0130SAR"
+    },
+    {
+      "Id": 9331,
+      "Code": "KARAMANLI",
+      "Name": "KARAMANLI"
+    },
+    {
+      "Id": 9332,
+      "Code": "KEMER (B)",
+      "Name": "KEMER (B)"
+    },
+    {
+      "Id": 9333,
+      "Code": "TEFENNI",
+      "Name": "TEFENN\u0130"
+    },
+    {
+      "Id": 9334,
+      "Code": "YESILOVA",
+      "Name": "YE\u015E\u0130LOVA"
+    }
+  ]
+}

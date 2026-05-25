@@ -1,0 +1,79 @@
+{
+  "lastUpdated": "2026-05-25T15:27:53.3844402Z",
+  "stateId": 579,
+  "stateName": "YOZGAT",
+  "countryId": 2,
+  "count": 14,
+  "data": [
+    {
+      "Id": 9936,
+      "Code": "AKDAGMADENI",
+      "Name": "AKDA\u011EMADEN\u0130"
+    },
+    {
+      "Id": 9937,
+      "Code": "AYDINCIK (Y)",
+      "Name": "AYDINCIK (Y)"
+    },
+    {
+      "Id": 9938,
+      "Code": "BOGAZLIYAN",
+      "Name": "BO\u011EAZLIYAN"
+    },
+    {
+      "Id": 9939,
+      "Code": "CANDIR",
+      "Name": "\u00C7ANDIR"
+    },
+    {
+      "Id": 9940,
+      "Code": "CAYIRALAN",
+      "Name": "\u00C7AYIRALAN"
+    },
+    {
+      "Id": 9941,
+      "Code": "CEKEREK",
+      "Name": "\u00C7EKEREK"
+    },
+    {
+      "Id": 9942,
+      "Code": "KADISEHRI",
+      "Name": "KADI\u015EEHR\u0130"
+    },
+    {
+      "Id": 9943,
+      "Code": "SARAYKENT",
+      "Name": "SARAYKENT"
+    },
+    {
+      "Id": 9944,
+      "Code": "SARIKAYA",
+      "Name": "SARIKAYA"
+    },
+    {
+      "Id": 9946,
+      "Code": "SORGUN",
+      "Name": "SORGUN"
+    },
+    {
+      "Id": 9947,
+      "Code": "YENIFAKILI",
+      "Name": "YEN\u0130FAKILI"
+    },
+    {
+      "Id": 9948,
+      "Code": "YERKOY",
+      "Name": "YERK\u00D6Y"
+    },
+    {
+      "Id": 9949,
+      "Code": "YOZGAT",
+      "Name": "YOZGAT"
+    },
+    {
+      "Id": 17879,
+      "Code": "\u015EEFAATL\u0130",
+      "Name": "\u015EEFAATL\u0130"
+    }
+  ]
+}

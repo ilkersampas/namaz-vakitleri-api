@@ -1,0 +1,29 @@
+{
+  "lastUpdated": "2026-05-25T15:20:52.275272Z",
+  "stateId": 547,
+  "stateName": "K\u0130L\u0130S",
+  "countryId": 2,
+  "count": 4,
+  "data": [
+    {
+      "Id": 9628,
+      "Code": "ELBEYLI",
+      "Name": "ELBEYL\u0130"
+    },
+    {
+      "Id": 9629,
+      "Code": "KILIS",
+      "Name": "K\u0130L\u0130S"
+    },
+    {
+      "Id": 9630,
+      "Code": "MUSABEYLI",
+      "Name": "MUSABEYL\u0130"
+    },
+    {
+      "Id": 17907,
+      "Code": "POLATEL\u0130",
+      "Name": "POLATEL\u0130"
+    }
+  ]
+}

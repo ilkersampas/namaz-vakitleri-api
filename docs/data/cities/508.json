@@ -1,0 +1,39 @@
+{
+  "lastUpdated": "2026-05-25T15:11:47.3529081Z",
+  "stateId": 508,
+  "stateName": "ARDAHAN",
+  "countryId": 2,
+  "count": 6,
+  "data": [
+    {
+      "Id": 9238,
+      "Code": "ARDAHAN",
+      "Name": "ARDAHAN"
+    },
+    {
+      "Id": 9239,
+      "Code": "CILDIR",
+      "Name": "\u00C7ILDIR"
+    },
+    {
+      "Id": 9240,
+      "Code": "DAMAL",
+      "Name": "DAMAL"
+    },
+    {
+      "Id": 9241,
+      "Code": "GOLE",
+      "Name": "G\u00D6LE"
+    },
+    {
+      "Id": 9242,
+      "Code": "HANAK",
+      "Name": "HANAK"
+    },
+    {
+      "Id": 9243,
+      "Code": "POSOF",
+      "Name": "POSOF"
+    }
+  ]
+}

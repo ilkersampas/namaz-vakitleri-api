@@ -1,0 +1,74 @@
+{
+  "lastUpdated": "2026-05-25T15:17:03.2096648Z",
+  "stateId": 531,
+  "stateName": "ESK\u0130\u015EEH\u0130R",
+  "countryId": 2,
+  "count": 13,
+  "data": [
+    {
+      "Id": 9467,
+      "Code": "ALPU",
+      "Name": "ALPU"
+    },
+    {
+      "Id": 9468,
+      "Code": "BEYLIKOVA",
+      "Name": "BEYL\u0130KOVA"
+    },
+    {
+      "Id": 9469,
+      "Code": "CIFTELER",
+      "Name": "\u00C7\u0130FTELER"
+    },
+    {
+      "Id": 9470,
+      "Code": "ESKISEHIR",
+      "Name": "ESK\u0130\u015EEH\u0130R"
+    },
+    {
+      "Id": 9471,
+      "Code": "GUNYUZU",
+      "Name": "G\u00DCNY\u00DCZ\u00DC"
+    },
+    {
+      "Id": 9472,
+      "Code": "HAN",
+      "Name": "HAN"
+    },
+    {
+      "Id": 9473,
+      "Code": "INONU",
+      "Name": "\u0130N\u00D6N\u00DC"
+    },
+    {
+      "Id": 9474,
+      "Code": "MAHMUDIYE",
+      "Name": "MAHMUD\u0130YE"
+    },
+    {
+      "Id": 9475,
+      "Code": "MIHALICCIK",
+      "Name": "M\u0130HALI\u00C7\u00C7IK"
+    },
+    {
+      "Id": 9476,
+      "Code": "SEYITGAZI",
+      "Name": "SEY\u0130TGAZ\u0130"
+    },
+    {
+      "Id": 9477,
+      "Code": "SIVRIHISAR",
+      "Name": "S\u0130VR\u0130H\u0130SAR"
+    },
+    {
+      "Id": 17919,
+      "Code": "SARICAKAYA",
+      "Name": "SARICAKAYA"
+    },
+    {
+      "Id": 33292,
+      "Code": "MIHALGAZI",
+      "Name": "M\u0130HALGAZ\u0130"
+    }
+  ]
+}

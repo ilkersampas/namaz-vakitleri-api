@@ -1,0 +1,54 @@
+{
+  "lastUpdated": "2026-05-25T15:21:22.9274386Z",
+  "stateId": 551,
+  "stateName": "KOCAEL\u0130",
+  "countryId": 2,
+  "count": 9,
+  "data": [
+    {
+      "Id": 9648,
+      "Code": "CAYIROVA",
+      "Name": "\u00C7AYIROVA"
+    },
+    {
+      "Id": 9649,
+      "Code": "DARICA",
+      "Name": "DARICA"
+    },
+    {
+      "Id": 9650,
+      "Code": "DILOVASI",
+      "Name": "D\u0130LOVASI"
+    },
+    {
+      "Id": 9651,
+      "Code": "GEBZE",
+      "Name": "GEBZE"
+    },
+    {
+      "Id": 9652,
+      "Code": "KANDIRA",
+      "Name": "KANDIRA"
+    },
+    {
+      "Id": 9653,
+      "Code": "KARAMURSEL",
+      "Name": "KARAM\u00DCRSEL"
+    },
+    {
+      "Id": 9654,
+      "Code": "KOCAELI",
+      "Name": "KOCAEL\u0130"
+    },
+    {
+      "Id": 9655,
+      "Code": "KORFEZ",
+      "Name": "K\u00D6RFEZ"
+    },
+    {
+      "Id": 17902,
+      "Code": "KARTEPE",
+      "Name": "KARTEPE"
+    }
+  ]
+}

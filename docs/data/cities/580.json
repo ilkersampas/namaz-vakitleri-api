@@ -1,0 +1,39 @@
+{
+  "lastUpdated": "2026-05-25T15:28:11.105358Z",
+  "stateId": 580,
+  "stateName": "ZONGULDAK",
+  "countryId": 2,
+  "count": 6,
+  "data": [
+    {
+      "Id": 9950,
+      "Code": "ALAPLI",
+      "Name": "ALAPLI"
+    },
+    {
+      "Id": 9951,
+      "Code": "CAYCUMA",
+      "Name": "\u00C7AYCUMA"
+    },
+    {
+      "Id": 9952,
+      "Code": "DEVREK",
+      "Name": "DEVREK"
+    },
+    {
+      "Id": 9953,
+      "Code": "GOKCEBEY",
+      "Name": "G\u00D6K\u00C7EBEY"
+    },
+    {
+      "Id": 9954,
+      "Code": "KARADENIZ EREGLI",
+      "Name": "KARADEN\u0130Z ERE\u011EL\u0130"
+    },
+    {
+      "Id": 9955,
+      "Code": "ZONGULDAK",
+      "Name": "ZONGULDAK"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "lastUpdated": "2026-05-25T15:18:04.8891159Z",
+  "stateId": 536,
+  "stateName": "HATAY",
+  "countryId": 2,
+  "count": 14,
+  "data": [
+    {
+      "Id": 9510,
+      "Code": "ALTIN\u00D6Z\u00DC",
+      "Name": "ALTIN\u00D6Z\u00DC"
+    },
+    {
+      "Id": 9511,
+      "Code": "BELEN",
+      "Name": "BELEN"
+    },
+    {
+      "Id": 9512,
+      "Code": "DORTYOL",
+      "Name": "D\u00D6RTYOL"
+    },
+    {
+      "Id": 9513,
+      "Code": "ERZIN",
+      "Name": "ERZ\u0130N"
+    },
+    {
+      "Id": 9514,
+      "Code": "HASSA",
+      "Name": "HASSA"
+    },
+    {
+      "Id": 9515,
+      "Code": "ARSUZ",
+      "Name": "ARSUZ"
+    },
+    {
+      "Id": 9516,
+      "Code": "ISKENDERUN",
+      "Name": "\u0130SKENDERUN"
+    },
+    {
+      "Id": 9517,
+      "Code": "KIRIKHAN",
+      "Name": "KIRIKHAN"
+    },
+    {
+      "Id": 9518,
+      "Code": "KUMLU",
+      "Name": "KUMLU"
+    },
+    {
+      "Id": 9519,
+      "Code": "REYHANLI",
+      "Name": "REYHANLI"
+    },
+    {
+      "Id": 9520,
+      "Code": "SAMANDAG",
+      "Name": "SAMANDA\u011E"
+    },
+    {
+      "Id": 16730,
+      "Code": "YAYLADAGI",
+      "Name": "YAYLADA\u011EI"
+    },
+    {
+      "Id": 17810,
+      "Code": "PAYAS",
+      "Name": "PAYAS"
+    },
+    {
+      "Id": 20089,
+      "Code": "HATAY",
+      "Name": "HATAY"
+    }
+  ]
+}

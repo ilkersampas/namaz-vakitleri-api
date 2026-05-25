@@ -1,0 +1,54 @@
+{
+  "lastUpdated": "2026-05-25T15:09:54.6820243Z",
+  "stateId": 501,
+  "stateName": "ADIYAMAN",
+  "countryId": 2,
+  "count": 9,
+  "data": [
+    {
+      "Id": 9158,
+      "Code": "ADIYAMAN",
+      "Name": "ADIYAMAN"
+    },
+    {
+      "Id": 9159,
+      "Code": "BESNI",
+      "Name": "BESN\u0130"
+    },
+    {
+      "Id": 9160,
+      "Code": "CELIKHAN",
+      "Name": "\u00C7EL\u0130KHAN"
+    },
+    {
+      "Id": 9161,
+      "Code": "GERGER",
+      "Name": "GERGER"
+    },
+    {
+      "Id": 9162,
+      "Code": "GOLBASI",
+      "Name": "G\u00D6LBA\u015EI"
+    },
+    {
+      "Id": 9163,
+      "Code": "KAHTA",
+      "Name": "KAHTA"
+    },
+    {
+      "Id": 9164,
+      "Code": "SAMSAT",
+      "Name": "SAMSAT"
+    },
+    {
+      "Id": 9165,
+      "Code": "SINCIK",
+      "Name": "S\u0130NC\u0130K"
+    },
+    {
+      "Id": 9166,
+      "Code": "TUT",
+      "Name": "TUT"
+    }
+  ]
+}

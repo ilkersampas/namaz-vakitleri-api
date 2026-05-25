@@ -1,0 +1,39 @@
+{
+  "lastUpdated": "2026-05-25T15:27:24.3208169Z",
+  "stateId": 576,
+  "stateName": "U\u015EAK",
+  "countryId": 2,
+  "count": 6,
+  "data": [
+    {
+      "Id": 9915,
+      "Code": "BANAZ",
+      "Name": "BANAZ"
+    },
+    {
+      "Id": 9916,
+      "Code": "ESME",
+      "Name": "ESME"
+    },
+    {
+      "Id": 9917,
+      "Code": "KARAHALLI",
+      "Name": "KARAHALLI"
+    },
+    {
+      "Id": 9918,
+      "Code": "SIVASLI",
+      "Name": "S\u0130VASLI"
+    },
+    {
+      "Id": 9919,
+      "Code": "USAK",
+      "Name": "U\u015EAK"
+    },
+    {
+      "Id": 17909,
+      "Code": "USAK",
+      "Name": "ULUBEY"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "lastUpdated": "2026-05-25T15:17:58.1529494Z",
+  "stateId": 535,
+  "stateName": "HAKKAR\u0130",
+  "countryId": 2,
+  "count": 5,
+  "data": [
+    {
+      "Id": 9506,
+      "Code": "CUKURCA",
+      "Name": "\u00C7UKURCA"
+    },
+    {
+      "Id": 9507,
+      "Code": "HAKKARI",
+      "Name": "HAKKAR\u0130"
+    },
+    {
+      "Id": 9508,
+      "Code": "SEMDINLI",
+      "Name": "\u015EEMD\u0130NL\u0130"
+    },
+    {
+      "Id": 9509,
+      "Code": "YUKSEKOVA",
+      "Name": "Y\u00DCKSEKOVA"
+    },
+    {
+      "Id": 20067,
+      "Code": "DEREC\u0130K",
+      "Name": "DEREC\u0130K"
+    }
+  ]
+}

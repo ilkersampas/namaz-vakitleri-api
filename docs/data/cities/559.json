@@ -1,0 +1,39 @@
+{
+  "lastUpdated": "2026-05-25T15:23:45.1260483Z",
+  "stateId": 559,
+  "stateName": "MU\u015E",
+  "countryId": 2,
+  "count": 6,
+  "data": [
+    {
+      "Id": 9751,
+      "Code": "BULANIK",
+      "Name": "BULANIK"
+    },
+    {
+      "Id": 9752,
+      "Code": "HASKOY",
+      "Name": "HASK\u00D6Y"
+    },
+    {
+      "Id": 9753,
+      "Code": "KORKUT",
+      "Name": "KORKUT"
+    },
+    {
+      "Id": 9754,
+      "Code": "MALAZGIRT",
+      "Name": "MALAZG\u0130RT"
+    },
+    {
+      "Id": 9755,
+      "Code": "MUS",
+      "Name": "MU\u015E"
+    },
+    {
+      "Id": 9756,
+      "Code": "VARTO",
+      "Name": "VARTO"
+    }
+  ]
+}

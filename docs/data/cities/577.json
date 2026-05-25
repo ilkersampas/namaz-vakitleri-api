@@ -1,0 +1,69 @@
+{
+  "lastUpdated": "2026-05-25T15:27:32.0191624Z",
+  "stateId": 577,
+  "stateName": "VAN",
+  "countryId": 2,
+  "count": 12,
+  "data": [
+    {
+      "Id": 9920,
+      "Code": "BAHCESARAY",
+      "Name": "BAH\u00C7ESARAY"
+    },
+    {
+      "Id": 9921,
+      "Code": "BASKALE",
+      "Name": "BA\u015EKALE"
+    },
+    {
+      "Id": 9922,
+      "Code": "CALDIRAN",
+      "Name": "\u00C7ALDIRAN"
+    },
+    {
+      "Id": 9923,
+      "Code": "CATAK",
+      "Name": "\u00C7ATAK"
+    },
+    {
+      "Id": 9924,
+      "Code": "EDREMIT (V)",
+      "Name": "EDREM\u0130T (V)"
+    },
+    {
+      "Id": 9925,
+      "Code": "ERCIS",
+      "Name": "ERC\u0130\u015E"
+    },
+    {
+      "Id": 9926,
+      "Code": "GEVAS",
+      "Name": "GEVA\u015E"
+    },
+    {
+      "Id": 9927,
+      "Code": "MURADIYE",
+      "Name": "MURAD\u0130YE"
+    },
+    {
+      "Id": 9928,
+      "Code": "OZALP",
+      "Name": "\u00D6ZALP"
+    },
+    {
+      "Id": 9929,
+      "Code": "SARAY (V)",
+      "Name": "SARAY (V)"
+    },
+    {
+      "Id": 9930,
+      "Code": "VAN",
+      "Name": "VAN"
+    },
+    {
+      "Id": 17912,
+      "Code": "G\u00DCRPINAR",
+      "Name": "G\u00DCRPINAR"
+    }
+  ]
+}

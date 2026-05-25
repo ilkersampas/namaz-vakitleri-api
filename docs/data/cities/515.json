@@ -1,0 +1,49 @@
+{
+  "lastUpdated": "2026-05-25T15:13:12.3931914Z",
+  "stateId": 515,
+  "stateName": "B\u0130LEC\u0130K",
+  "countryId": 2,
+  "count": 8,
+  "data": [
+    {
+      "Id": 9297,
+      "Code": "BILECIK",
+      "Name": "B\u0130LEC\u0130K"
+    },
+    {
+      "Id": 9298,
+      "Code": "BOZUYUK",
+      "Name": "BOZ\u00DCY\u00DCK"
+    },
+    {
+      "Id": 9299,
+      "Code": "GOLPAZARI",
+      "Name": "G\u00D6LPAZARI"
+    },
+    {
+      "Id": 9300,
+      "Code": "INHISAR",
+      "Name": "\u0130NH\u0130SAR"
+    },
+    {
+      "Id": 9301,
+      "Code": "SOGUT",
+      "Name": "S\u00D6\u011E\u00DCT"
+    },
+    {
+      "Id": 9302,
+      "Code": "YENIPAZAR",
+      "Name": "YEN\u0130PAZAR"
+    },
+    {
+      "Id": 17895,
+      "Code": "OSMANEL\u0130",
+      "Name": "OSMANEL\u0130"
+    },
+    {
+      "Id": 17896,
+      "Code": "PAZARYER\u0130",
+      "Name": "PAZARYER\u0130"
+    }
+  ]
+}

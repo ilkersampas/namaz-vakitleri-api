@@ -1,0 +1,69 @@
+{
+  "lastUpdated": "2026-05-25T15:23:29.437927Z",
+  "stateId": 558,
+  "stateName": "MU\u011ELA",
+  "countryId": 2,
+  "count": 12,
+  "data": [
+    {
+      "Id": 9741,
+      "Code": "BODRUM",
+      "Name": "BODRUM"
+    },
+    {
+      "Id": 9742,
+      "Code": "DALAMAN",
+      "Name": "DALAMAN"
+    },
+    {
+      "Id": 9743,
+      "Code": "DATCA",
+      "Name": "DAT\u00C7A"
+    },
+    {
+      "Id": 9744,
+      "Code": "FETHIYE",
+      "Name": "FETH\u0130YE"
+    },
+    {
+      "Id": 9745,
+      "Code": "KOYCEGIZ",
+      "Name": "K\u00D6YCE\u011E\u0130Z"
+    },
+    {
+      "Id": 9746,
+      "Code": "MILAS",
+      "Name": "M\u0130LAS"
+    },
+    {
+      "Id": 9747,
+      "Code": "MUGLA",
+      "Name": "MU\u011ELA"
+    },
+    {
+      "Id": 9748,
+      "Code": "ORTACA",
+      "Name": "ORTACA"
+    },
+    {
+      "Id": 9749,
+      "Code": "ULA",
+      "Name": "ULA"
+    },
+    {
+      "Id": 9750,
+      "Code": "YATAGAN",
+      "Name": "YATA\u011EAN"
+    },
+    {
+      "Id": 17883,
+      "Code": "MARMAR\u0130S",
+      "Name": "MARMAR\u0130S"
+    },
+    {
+      "Id": 17884,
+      "Code": "SEYD\u0130KEMER",
+      "Name": "SEYD\u0130KEMER"
+    }
+  ]
+}

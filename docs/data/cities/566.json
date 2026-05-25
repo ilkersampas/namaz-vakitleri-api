@@ -1,0 +1,89 @@
+{
+  "lastUpdated": "2026-05-25T15:25:01.2589997Z",
+  "stateId": 566,
+  "stateName": "SAMSUN",
+  "countryId": 2,
+  "count": 16,
+  "data": [
+    {
+      "Id": 9809,
+      "Code": "19 MAYIS",
+      "Name": "19 MAYIS"
+    },
+    {
+      "Id": 9810,
+      "Code": "ALACAM",
+      "Name": "ALA\u00C7AM"
+    },
+    {
+      "Id": 9811,
+      "Code": "ASARCIK",
+      "Name": "ASARCIK"
+    },
+    {
+      "Id": 9812,
+      "Code": "AYVACIK (S)",
+      "Name": "AYVACIK (S)"
+    },
+    {
+      "Id": 9813,
+      "Code": "BAFRA",
+      "Name": "BAFRA"
+    },
+    {
+      "Id": 9814,
+      "Code": "\u00C7AR\u015EAMBA",
+      "Name": "\u00C7AR\u015EAMBA"
+    },
+    {
+      "Id": 9815,
+      "Code": "HAVZA",
+      "Name": "HAVZA"
+    },
+    {
+      "Id": 9816,
+      "Code": "KAVAK",
+      "Name": "KAVAK"
+    },
+    {
+      "Id": 9817,
+      "Code": "LAD\u0130K",
+      "Name": "LAD\u0130K"
+    },
+    {
+      "Id": 9818,
+      "Code": "SALIPAZARI",
+      "Name": "SALIPAZARI"
+    },
+    {
+      "Id": 9819,
+      "Code": "SAMSUN",
+      "Name": "SAMSUN"
+    },
+    {
+      "Id": 9820,
+      "Code": "TEKKEK\u00D6Y",
+      "Name": "TEKKEK\u00D6Y"
+    },
+    {
+      "Id": 9821,
+      "Code": "TERME",
+      "Name": "TERME"
+    },
+    {
+      "Id": 9822,
+      "Code": "VEZ\u0130RK\u00D6PR\u00DC",
+      "Name": "VEZ\u0130RK\u00D6PR\u00DC"
+    },
+    {
+      "Id": 9823,
+      "Code": "YAKAKENT",
+      "Name": "YAKAKENT"
+    },
+    {
+      "Id": 17911,
+      "Code": "ATAKUM",
+      "Name": "ATAKUM"
+    }
+  ]
+}

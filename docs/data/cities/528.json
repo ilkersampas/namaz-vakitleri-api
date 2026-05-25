@@ -1,0 +1,64 @@
+{
+  "lastUpdated": "2026-05-25T15:16:12.472859Z",
+  "stateId": 528,
+  "stateName": "ELAZI\u011E",
+  "countryId": 2,
+  "count": 11,
+  "data": [
+    {
+      "Id": 9428,
+      "Code": "AGIN",
+      "Name": "A\u011EIN"
+    },
+    {
+      "Id": 9429,
+      "Code": "ALACAKAYA",
+      "Name": "ALACAKAYA"
+    },
+    {
+      "Id": 9430,
+      "Code": "ARICAK",
+      "Name": "ARICAK"
+    },
+    {
+      "Id": 9431,
+      "Code": "BASKIL",
+      "Name": "BASK\u0130L"
+    },
+    {
+      "Id": 9432,
+      "Code": "ELAZIG",
+      "Name": "ELAZI\u011E"
+    },
+    {
+      "Id": 9433,
+      "Code": "KARAKOCAN",
+      "Name": "KARAKO\u00C7AN"
+    },
+    {
+      "Id": 9434,
+      "Code": "KEBAN",
+      "Name": "KEBAN"
+    },
+    {
+      "Id": 9435,
+      "Code": "KOVANCILAR",
+      "Name": "KOVANCILAR"
+    },
+    {
+      "Id": 9436,
+      "Code": "MADEN",
+      "Name": "MADEN"
+    },
+    {
+      "Id": 9437,
+      "Code": "PALU",
+      "Name": "PALU"
+    },
+    {
+      "Id": 9438,
+      "Code": "SIVRICE",
+      "Name": "S\u0130VR\u0130CE"
+    }
+  ]
+}

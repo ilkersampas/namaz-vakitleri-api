@@ -1,0 +1,44 @@
+{
+  "lastUpdated": "2026-05-25T15:10:49.4168481Z",
+  "stateId": 505,
+  "stateName": "AMASYA",
+  "countryId": 2,
+  "count": 7,
+  "data": [
+    {
+      "Id": 9198,
+      "Code": "AMASYA",
+      "Name": "AMASYA"
+    },
+    {
+      "Id": 9199,
+      "Code": "GOYNUCEK",
+      "Name": "G\u00D6YN\u00DCCEK"
+    },
+    {
+      "Id": 9200,
+      "Code": "GUMUSHACIKOY",
+      "Name": "G\u00DCM\u00DC\u015EHACIK\u00D6Y"
+    },
+    {
+      "Id": 9201,
+      "Code": "HAMAMOZU",
+      "Name": "HAMAM\u00D6Z\u00DC"
+    },
+    {
+      "Id": 9202,
+      "Code": "MERZIFON",
+      "Name": "MERZ\u0130FON"
+    },
+    {
+      "Id": 9203,
+      "Code": "SULUOVA",
+      "Name": "SULUOVA"
+    },
+    {
+      "Id": 9204,
+      "Code": "TASOVA",
+      "Name": "TA\u015EOVA"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lastUpdated": "2026-05-25T15:23:17.0919755Z",
+  "stateId": 557,
+  "stateName": "MERS\u0130N",
+  "countryId": 2,
+  "count": 10,
+  "data": [
+    {
+      "Id": 9731,
+      "Code": "ANAMUR",
+      "Name": "ANAMUR"
+    },
+    {
+      "Id": 9732,
+      "Code": "AYDINCIK",
+      "Name": "AYDINCIK"
+    },
+    {
+      "Id": 9733,
+      "Code": "BOZYAZI",
+      "Name": "BOZYAZI"
+    },
+    {
+      "Id": 9734,
+      "Code": "CAMLIYAYLA",
+      "Name": "\u00C7AMLIYAYLA"
+    },
+    {
+      "Id": 9735,
+      "Code": "ERDEMLI",
+      "Name": "ERDEML\u0130"
+    },
+    {
+      "Id": 9736,
+      "Code": "GULNAR",
+      "Name": "G\u00DCLNAR"
+    },
+    {
+      "Id": 9737,
+      "Code": "MERSIN",
+      "Name": "MERS\u0130N"
+    },
+    {
+      "Id": 9738,
+      "Code": "MUT",
+      "Name": "MUT"
+    },
+    {
+      "Id": 9739,
+      "Code": "SILIFKE",
+      "Name": "S\u0130L\u0130FKE"
+    },
+    {
+      "Id": 9740,
+      "Code": "TARSUS",
+      "Name": "TARSUS"
+    }
+  ]
+}

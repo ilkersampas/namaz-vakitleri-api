@@ -1,0 +1,44 @@
+{
+  "lastUpdated": "2026-05-25T15:25:55.6880973Z",
+  "stateId": 570,
+  "stateName": "\u015EIRNAK",
+  "countryId": 2,
+  "count": 7,
+  "data": [
+    {
+      "Id": 9849,
+      "Code": "BEYTUSSEBAP",
+      "Name": "BEYT\u00DC\u015E\u015EEBAP"
+    },
+    {
+      "Id": 9850,
+      "Code": "CIZRE",
+      "Name": "C\u0130ZRE"
+    },
+    {
+      "Id": 9851,
+      "Code": "GUCLUKONAK",
+      "Name": "G\u00DC\u00C7L\u00DCKONAK"
+    },
+    {
+      "Id": 9852,
+      "Code": "IDIL",
+      "Name": "\u0130D\u0130L"
+    },
+    {
+      "Id": 9853,
+      "Code": "SILOPI",
+      "Name": "S\u0130LOP\u0130"
+    },
+    {
+      "Id": 9854,
+      "Code": "SIRNAK",
+      "Name": "\u015EIRNAK"
+    },
+    {
+      "Id": 9855,
+      "Code": "ULUDERE",
+      "Name": "ULUDERE"
+    }
+  ]
+}

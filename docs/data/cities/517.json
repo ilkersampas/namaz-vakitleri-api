@@ -1,0 +1,44 @@
+{
+  "lastUpdated": "2026-05-25T15:13:32.1662945Z",
+  "stateId": 517,
+  "stateName": "B\u0130TL\u0130S",
+  "countryId": 2,
+  "count": 7,
+  "data": [
+    {
+      "Id": 9309,
+      "Code": "ADILCEVAZ",
+      "Name": "AD\u0130LCEVAZ"
+    },
+    {
+      "Id": 9310,
+      "Code": "AHLAT",
+      "Name": "AHLAT"
+    },
+    {
+      "Id": 9311,
+      "Code": "BITLIS",
+      "Name": "B\u0130TL\u0130S"
+    },
+    {
+      "Id": 9312,
+      "Code": "HIZAN",
+      "Name": "H\u0130ZAN"
+    },
+    {
+      "Id": 9313,
+      "Code": "MUTKI",
+      "Name": "MUTK\u0130"
+    },
+    {
+      "Id": 9314,
+      "Code": "TATVAN",
+      "Name": "TATVAN"
+    },
+    {
+      "Id": 17887,
+      "Code": "G\u00DCROYMAK",
+      "Name": "G\u00DCROYMAK"
+    }
+  ]
+}

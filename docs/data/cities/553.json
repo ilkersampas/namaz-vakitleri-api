@@ -1,0 +1,74 @@
+{
+  "lastUpdated": "2026-05-25T15:22:12.2635609Z",
+  "stateId": 553,
+  "stateName": "K\u00DCTAHYA",
+  "countryId": 2,
+  "count": 13,
+  "data": [
+    {
+      "Id": 9682,
+      "Code": "ALTINTAS",
+      "Name": "ALTINTA\u015E"
+    },
+    {
+      "Id": 9683,
+      "Code": "ASLANAPA",
+      "Name": "ASLANAPA"
+    },
+    {
+      "Id": 9684,
+      "Code": "CAVDARHISAR",
+      "Name": "\u00C7AVDARH\u0130SAR"
+    },
+    {
+      "Id": 9685,
+      "Code": "DOMANIC",
+      "Name": "DOMAN\u0130\u00C7"
+    },
+    {
+      "Id": 9686,
+      "Code": "EMET",
+      "Name": "EMET"
+    },
+    {
+      "Id": 9687,
+      "Code": "GEDIZ",
+      "Name": "GED\u0130Z"
+    },
+    {
+      "Id": 9688,
+      "Code": "HISARCIK",
+      "Name": "H\u0130SARCIK"
+    },
+    {
+      "Id": 9689,
+      "Code": "KUTAHYA",
+      "Name": "K\u00DCTAHYA"
+    },
+    {
+      "Id": 9690,
+      "Code": "PAZARLAR",
+      "Name": "PAZARLAR"
+    },
+    {
+      "Id": 9691,
+      "Code": "SAPHANE",
+      "Name": "\u015EAPHANE"
+    },
+    {
+      "Id": 9692,
+      "Code": "SIMAV",
+      "Name": "S\u0130MAV"
+    },
+    {
+      "Id": 9693,
+      "Code": "TAVSANLI",
+      "Name": "TAV\u015EANLI"
+    },
+    {
+      "Id": 17906,
+      "Code": "DUMLUPINAR",
+      "Name": "DUMLUPINAR"
+    }
+  ]
+}

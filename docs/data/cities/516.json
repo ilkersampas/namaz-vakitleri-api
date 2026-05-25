@@ -1,0 +1,44 @@
+{
+  "lastUpdated": "2026-05-25T15:13:22.6031503Z",
+  "stateId": 516,
+  "stateName": "B\u0130NG\u00D6L",
+  "countryId": 2,
+  "count": 7,
+  "data": [
+    {
+      "Id": 9303,
+      "Code": "BINGOL",
+      "Name": "B\u0130NG\u00D6L"
+    },
+    {
+      "Id": 9304,
+      "Code": "KARLIOVA",
+      "Name": "KARLIOVA"
+    },
+    {
+      "Id": 9305,
+      "Code": "KIGI",
+      "Name": "K\u0130GI"
+    },
+    {
+      "Id": 9306,
+      "Code": "SOLHAN",
+      "Name": "SOLHAN"
+    },
+    {
+      "Id": 9307,
+      "Code": "YAYLADERE",
+      "Name": "YAYLADERE"
+    },
+    {
+      "Id": 9308,
+      "Code": "YEDISU",
+      "Name": "YED\u0130SU"
+    },
+    {
+      "Id": 17889,
+      "Code": "ADAKLI",
+      "Name": "ADAKLI"
+    }
+  ]
+}

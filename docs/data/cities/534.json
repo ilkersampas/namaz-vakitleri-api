@@ -1,0 +1,39 @@
+{
+  "lastUpdated": "2026-05-25T15:17:50.3781687Z",
+  "stateId": 534,
+  "stateName": "G\u00DCM\u00DC\u015EHANE",
+  "countryId": 2,
+  "count": 6,
+  "data": [
+    {
+      "Id": 9501,
+      "Code": "GUMUSHANE",
+      "Name": "G\u00DCM\u00DC\u015EHANE"
+    },
+    {
+      "Id": 9502,
+      "Code": "KOSE",
+      "Name": "K\u00D6SE"
+    },
+    {
+      "Id": 9503,
+      "Code": "KURTUN",
+      "Name": "K\u00DCRT\u00DCN"
+    },
+    {
+      "Id": 9504,
+      "Code": "SIRAN",
+      "Name": "\u015E\u0130RAN"
+    },
+    {
+      "Id": 9505,
+      "Code": "TORUL",
+      "Name": "TORUL"
+    },
+    {
+      "Id": 16746,
+      "Code": "KELK\u0130T",
+      "Name": "KELK\u0130T"
+    }
+  ]
+}

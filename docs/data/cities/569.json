@@ -1,0 +1,54 @@
+{
+  "lastUpdated": "2026-05-25T15:25:44.3990325Z",
+  "stateId": 569,
+  "stateName": "S\u0130NOP",
+  "countryId": 2,
+  "count": 9,
+  "data": [
+    {
+      "Id": 9840,
+      "Code": "AYANCIK",
+      "Name": "AYANCIK"
+    },
+    {
+      "Id": 9841,
+      "Code": "BOYABAT",
+      "Name": "BOYABAT"
+    },
+    {
+      "Id": 9842,
+      "Code": "D\u0130KMEN",
+      "Name": "D\u0130KMEN"
+    },
+    {
+      "Id": 9843,
+      "Code": "DURA\u011EAN",
+      "Name": "DURA\u011EAN"
+    },
+    {
+      "Id": 9844,
+      "Code": "ERFELEK",
+      "Name": "ERFELEK"
+    },
+    {
+      "Id": 9845,
+      "Code": "GERZE",
+      "Name": "GERZE"
+    },
+    {
+      "Id": 9846,
+      "Code": "SARAYD\u00DCZ\u00DC",
+      "Name": "SARAYD\u00DCZ\u00DC"
+    },
+    {
+      "Id": 9847,
+      "Code": "SINOP",
+      "Name": "S\u0130NOP"
+    },
+    {
+      "Id": 9848,
+      "Code": "T\u00DCRKEL\u0130",
+      "Name": "T\u00DCRKEL\u0130"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "lastUpdated": "2026-05-25T15:24:38.3468308Z",
+  "stateId": 564,
+  "stateName": "R\u0130ZE",
+  "countryId": 2,
+  "count": 9,
+  "data": [
+    {
+      "Id": 9791,
+      "Code": "ARDESEN",
+      "Name": "ARDE\u015EEN"
+    },
+    {
+      "Id": 9792,
+      "Code": "CAMLIHEMSIN",
+      "Name": "\u00C7AMLIHEM\u015E\u0130N"
+    },
+    {
+      "Id": 9793,
+      "Code": "CAYELI",
+      "Name": "\u00C7AYEL\u0130"
+    },
+    {
+      "Id": 9794,
+      "Code": "FINDIKLI",
+      "Name": "FINDIKLI"
+    },
+    {
+      "Id": 9795,
+      "Code": "HEMSIN",
+      "Name": "HEM\u015E\u0130N"
+    },
+    {
+      "Id": 9796,
+      "Code": "IKIZDERE",
+      "Name": "\u0130K\u0130ZDERE"
+    },
+    {
+      "Id": 9797,
+      "Code": "IYIDERE",
+      "Name": "\u0130Y\u0130DERE"
+    },
+    {
+      "Id": 9798,
+      "Code": "PAZAR",
+      "Name": "PAZAR"
+    },
+    {
+      "Id": 9799,
+      "Code": "RIZE",
+      "Name": "R\u0130ZE"
+    }
+  ]
+}

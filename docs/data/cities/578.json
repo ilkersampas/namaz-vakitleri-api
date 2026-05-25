@@ -1,0 +1,34 @@
+{
+  "lastUpdated": "2026-05-25T15:27:47.2137258Z",
+  "stateId": 578,
+  "stateName": "YALOVA",
+  "countryId": 2,
+  "count": 5,
+  "data": [
+    {
+      "Id": 9931,
+      "Code": "ALTINOVA",
+      "Name": "ALTINOVA"
+    },
+    {
+      "Id": 9932,
+      "Code": "ARMUTLU",
+      "Name": "ARMUTLU"
+    },
+    {
+      "Id": 9933,
+      "Code": "CINARCIK",
+      "Name": "\u00C7INARCIK"
+    },
+    {
+      "Id": 9934,
+      "Code": "TERMAL",
+      "Name": "TERMAL"
+    },
+    {
+      "Id": 9935,
+      "Code": "YALOVA",
+      "Name": "YALOVA"
+    }
+  ]
+}

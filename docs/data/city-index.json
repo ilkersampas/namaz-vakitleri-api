@@ -1,6 +1,3483 @@
 {
-  "lastUpdated": "2026-05-25T14:35:10.7361718Z",
+  "lastUpdated": "2026-05-25T15:28:18.7048728Z",
   "description": "Tum ilcelerin arama indeksi - mobil app icin",
-  "count": 0,
-  "data": []
+  "count": 869,
+  "data": [
+    {
+      "Id": 9809,
+      "Name": "19 MAYIS"
+    },
+    {
+      "Id": 9597,
+      "Name": "ABANA"
+    },
+    {
+      "Id": 9757,
+      "Name": "ACIG\u00D6L"
+    },
+    {
+      "Id": 19020,
+      "Name": "ACIPAYAM"
+    },
+    {
+      "Id": 17889,
+      "Name": "ADAKLI"
+    },
+    {
+      "Id": 9146,
+      "Name": "ADANA"
+    },
+    {
+      "Id": 9309,
+      "Name": "AD\u0130LCEVAZ"
+    },
+    {
+      "Id": 9158,
+      "Name": "ADIYAMAN"
+    },
+    {
+      "Id": 9571,
+      "Name": "AF\u015E\u0130N"
+    },
+    {
+      "Id": 9167,
+      "Name": "AFYONKARAH\u0130SAR"
+    },
+    {
+      "Id": 9192,
+      "Name": "A\u011EA\u00C7\u00D6REN"
+    },
+    {
+      "Id": 9428,
+      "Name": "A\u011EIN"
+    },
+    {
+      "Id": 9324,
+      "Name": "A\u011ELASUN"
+    },
+    {
+      "Id": 9598,
+      "Name": "A\u011ELI"
+    },
+    {
+      "Id": 9185,
+      "Name": "A\u011ERI"
+    },
+    {
+      "Id": 9656,
+      "Name": "AHIRLI"
+    },
+    {
+      "Id": 9310,
+      "Name": "AHLAT"
+    },
+    {
+      "Id": 9707,
+      "Name": "AHMETL\u0130"
+    },
+    {
+      "Id": 9891,
+      "Name": "AK\u00C7AABAT"
+    },
+    {
+      "Id": 9694,
+      "Name": "AK\u00C7ADA\u011E"
+    },
+    {
+      "Id": 9824,
+      "Name": "AK\u00C7AKALE"
+    },
+    {
+      "Id": 20039,
+      "Name": "AK\u00C7AKENT"
+    },
+    {
+      "Id": 9411,
+      "Name": "AK\u00C7AKOCA"
+    },
+    {
+      "Id": 9936,
+      "Name": "AKDA\u011EMADEN\u0130"
+    },
+    {
+      "Id": 9708,
+      "Name": "AKH\u0130SAR"
+    },
+    {
+      "Id": 9856,
+      "Name": "AKINCILAR"
+    },
+    {
+      "Id": 9615,
+      "Name": "AKKI\u015ELA"
+    },
+    {
+      "Id": 9768,
+      "Name": "AKKU\u015E"
+    },
+    {
+      "Id": 9657,
+      "Name": "AK\u00D6REN"
+    },
+    {
+      "Id": 9643,
+      "Name": "AKPINAR"
+    },
+    {
+      "Id": 9193,
+      "Name": "AKSARAY"
+    },
+    {
+      "Id": 9658,
+      "Name": "AK\u015EEH\u0130R"
+    },
+    {
+      "Id": 9222,
+      "Name": "AKSEK\u0130"
+    },
+    {
+      "Id": 9223,
+      "Name": "AKSU"
+    },
+    {
+      "Id": 9525,
+      "Name": "AKSU (I)"
+    },
+    {
+      "Id": 9590,
+      "Name": "AKYAKA"
+    },
+    {
+      "Id": 9800,
+      "Name": "AKYAZI"
+    },
+    {
+      "Id": 9205,
+      "Name": "AKYURT"
+    },
+    {
+      "Id": 9367,
+      "Name": "ALACA"
+    },
+    {
+      "Id": 9429,
+      "Name": "ALACAKAYA"
+    },
+    {
+      "Id": 9810,
+      "Name": "ALA\u00C7AM"
+    },
+    {
+      "Id": 9147,
+      "Name": "ALADA\u011E"
+    },
+    {
+      "Id": 9224,
+      "Name": "ALANYA"
+    },
+    {
+      "Id": 9950,
+      "Name": "ALAPLI"
+    },
+    {
+      "Id": 9709,
+      "Name": "ALA\u015EEH\u0130R"
+    },
+    {
+      "Id": 9552,
+      "Name": "AL\u0130A\u011EA"
+    },
+    {
+      "Id": 9880,
+      "Name": "ALMUS"
+    },
+    {
+      "Id": 9467,
+      "Name": "ALPU"
+    },
+    {
+      "Id": 9659,
+      "Name": "ALTINEK\u0130N"
+    },
+    {
+      "Id": 9931,
+      "Name": "ALTINOVA"
+    },
+    {
+      "Id": 9510,
+      "Name": "ALTIN\u00D6Z\u00DC"
+    },
+    {
+      "Id": 9682,
+      "Name": "ALTINTA\u015E"
+    },
+    {
+      "Id": 9325,
+      "Name": "ALTINYAYLA"
+    },
+    {
+      "Id": 9857,
+      "Name": "ALTINYAYLA(S)"
+    },
+    {
+      "Id": 9762,
+      "Name": "ALTUNH\u0130SAR"
+    },
+    {
+      "Id": 9486,
+      "Name": "ALUCRA"
+    },
+    {
+      "Id": 9198,
+      "Name": "AMASYA"
+    },
+    {
+      "Id": 9731,
+      "Name": "ANAMUR"
+    },
+    {
+      "Id": 9572,
+      "Name": "ANDIRIN"
+    },
+    {
+      "Id": 9206,
+      "Name": "ANKARA"
+    },
+    {
+      "Id": 9225,
+      "Name": "ANTALYA"
+    },
+    {
+      "Id": 9478,
+      "Name": "ARABAN"
+    },
+    {
+      "Id": 9599,
+      "Name": "ARA\u00C7"
+    },
+    {
+      "Id": 9892,
+      "Name": "ARAKLI"
+    },
+    {
+      "Id": 9521,
+      "Name": "ARALIK"
+    },
+    {
+      "Id": 9695,
+      "Name": "ARAPG\u0130R"
+    },
+    {
+      "Id": 9238,
+      "Name": "ARDAHAN"
+    },
+    {
+      "Id": 9244,
+      "Name": "ARDANU\u00C7"
+    },
+    {
+      "Id": 9791,
+      "Name": "ARDE\u015EEN"
+    },
+    {
+      "Id": 9696,
+      "Name": "ARGUVAN"
+    },
+    {
+      "Id": 9245,
+      "Name": "ARHAV\u0130"
+    },
+    {
+      "Id": 9430,
+      "Name": "ARICAK"
+    },
+    {
+      "Id": 9932,
+      "Name": "ARMUTLU"
+    },
+    {
+      "Id": 9535,
+      "Name": "ARNAVUTKOY"
+    },
+    {
+      "Id": 9591,
+      "Name": "ARPA\u00C7AY"
+    },
+    {
+      "Id": 9893,
+      "Name": "ARS\u0130N"
+    },
+    {
+      "Id": 9515,
+      "Name": "ARSUZ"
+    },
+    {
+      "Id": 9881,
+      "Name": "ARTOVA"
+    },
+    {
+      "Id": 9246,
+      "Name": "ARTV\u0130N"
+    },
+    {
+      "Id": 9811,
+      "Name": "ASARCIK"
+    },
+    {
+      "Id": 9448,
+      "Name": "A\u015EKALE"
+    },
+    {
+      "Id": 9683,
+      "Name": "ASLANAPA"
+    },
+    {
+      "Id": 17891,
+      "Name": "ATABEY"
+    },
+    {
+      "Id": 17911,
+      "Name": "ATAKUM"
+    },
+    {
+      "Id": 9357,
+      "Name": "ATKARACALAR"
+    },
+    {
+      "Id": 17878,
+      "Name": "AVANOS"
+    },
+    {
+      "Id": 17865,
+      "Name": "AVCILAR"
+    },
+    {
+      "Id": 9840,
+      "Name": "AYANCIK"
+    },
+    {
+      "Id": 9207,
+      "Name": "AYA\u015E"
+    },
+    {
+      "Id": 9769,
+      "Name": "AYBASTI"
+    },
+    {
+      "Id": 9252,
+      "Name": "AYDIN"
+    },
+    {
+      "Id": 9732,
+      "Name": "AYDINCIK"
+    },
+    {
+      "Id": 9937,
+      "Name": "AYDINCIK (Y)"
+    },
+    {
+      "Id": 9294,
+      "Name": "AYDINTEPE"
+    },
+    {
+      "Id": 9584,
+      "Name": "AYRANCI"
+    },
+    {
+      "Id": 9347,
+      "Name": "AYVACIK"
+    },
+    {
+      "Id": 9812,
+      "Name": "AYVACIK (S)"
+    },
+    {
+      "Id": 9269,
+      "Name": "AYVALIK"
+    },
+    {
+      "Id": 9600,
+      "Name": "AZDAVAY"
+    },
+    {
+      "Id": 9449,
+      "Name": "AZ\u0130Z\u0130YE"
+    },
+    {
+      "Id": 9382,
+      "Name": "BABADA\u011E"
+    },
+    {
+      "Id": 17903,
+      "Name": "BABAESK\u0130"
+    },
+    {
+      "Id": 9813,
+      "Name": "BAFRA"
+    },
+    {
+      "Id": 9784,
+      "Name": "BAH\u00C7E"
+    },
+    {
+      "Id": 9920,
+      "Name": "BAH\u00C7ESARAY"
+    },
+    {
+      "Id": 9383,
+      "Name": "BAKLAN"
+    },
+    {
+      "Id": 9208,
+      "Name": "BALA"
+    },
+    {
+      "Id": 9270,
+      "Name": "BALIKES\u0130R"
+    },
+    {
+      "Id": 9631,
+      "Name": "BALISEYH"
+    },
+    {
+      "Id": 9271,
+      "Name": "BALYA"
+    },
+    {
+      "Id": 9915,
+      "Name": "BANAZ"
+    },
+    {
+      "Id": 17917,
+      "Name": "BANDIRMA"
+    },
+    {
+      "Id": 9285,
+      "Name": "BARTIN"
+    },
+    {
+      "Id": 17866,
+      "Name": "BA\u015EAK\u015EEH\u0130R"
+    },
+    {
+      "Id": 9882,
+      "Name": "BA\u015E\u00C7\u0130FTL\u0130K"
+    },
+    {
+      "Id": 9921,
+      "Name": "BA\u015EKALE"
+    },
+    {
+      "Id": 9431,
+      "Name": "BASK\u0130L"
+    },
+    {
+      "Id": 9168,
+      "Name": "BA\u015EMAK\u00C7I"
+    },
+    {
+      "Id": 9585,
+      "Name": "BA\u015EYAYLA"
+    },
+    {
+      "Id": 9288,
+      "Name": "BATMAN"
+    },
+    {
+      "Id": 9169,
+      "Name": "BAYAT"
+    },
+    {
+      "Id": 9368,
+      "Name": "BAYAT"
+    },
+    {
+      "Id": 9295,
+      "Name": "BAYBURT"
+    },
+    {
+      "Id": 9553,
+      "Name": "BAYINDIR"
+    },
+    {
+      "Id": 9835,
+      "Name": "BAYKAN"
+    },
+    {
+      "Id": 9348,
+      "Name": "BAYRAM\u0130\u00C7"
+    },
+    {
+      "Id": 9358,
+      "Name": "BAYRAM\u00D6REN"
+    },
+    {
+      "Id": 9384,
+      "Name": "BEK\u0130LL\u0130"
+    },
+    {
+      "Id": 9511,
+      "Name": "BELEN"
+    },
+    {
+      "Id": 9554,
+      "Name": "BERGAMA"
+    },
+    {
+      "Id": 9894,
+      "Name": "BE\u015E\u0130KD\u00DCZ\u00DC"
+    },
+    {
+      "Id": 9289,
+      "Name": "BE\u015E\u0130R\u0130"
+    },
+    {
+      "Id": 9159,
+      "Name": "BESN\u0130"
+    },
+    {
+      "Id": 9385,
+      "Name": "BEYA\u011EA\u00C7"
+    },
+    {
+      "Id": 9555,
+      "Name": "BEYDA\u011E"
+    },
+    {
+      "Id": 9536,
+      "Name": "BEYL\u0130KD\u00DCZ\u00DC"
+    },
+    {
+      "Id": 9468,
+      "Name": "BEYL\u0130KOVA"
+    },
+    {
+      "Id": 9209,
+      "Name": "BEYPAZARI"
+    },
+    {
+      "Id": 9660,
+      "Name": "BEY\u015EEH\u0130R"
+    },
+    {
+      "Id": 9849,
+      "Name": "BEYT\u00DC\u015E\u015EEBAP"
+    },
+    {
+      "Id": 9349,
+      "Name": "B\u0130GA"
+    },
+    {
+      "Id": 9272,
+      "Name": "B\u0130GAD\u0130\u00C7"
+    },
+    {
+      "Id": 9297,
+      "Name": "B\u0130LEC\u0130K"
+    },
+    {
+      "Id": 9303,
+      "Name": "B\u0130NG\u00D6L"
+    },
+    {
+      "Id": 9825,
+      "Name": "B\u0130REC\u0130K"
+    },
+    {
+      "Id": 9397,
+      "Name": "B\u0130SM\u0130L"
+    },
+    {
+      "Id": 9311,
+      "Name": "B\u0130TL\u0130S"
+    },
+    {
+      "Id": 9741,
+      "Name": "BODRUM"
+    },
+    {
+      "Id": 9369,
+      "Name": "BO\u011EAZKALE"
+    },
+    {
+      "Id": 9938,
+      "Name": "BO\u011EAZLIYAN"
+    },
+    {
+      "Id": 9315,
+      "Name": "BOLU"
+    },
+    {
+      "Id": 9170,
+      "Name": "BOLVAD\u0130N"
+    },
+    {
+      "Id": 9763,
+      "Name": "BOR"
+    },
+    {
+      "Id": 9247,
+      "Name": "BOR\u00C7KA"
+    },
+    {
+      "Id": 9841,
+      "Name": "BOYABAT"
+    },
+    {
+      "Id": 9350,
+      "Name": "BOZCAADA"
+    },
+    {
+      "Id": 9253,
+      "Name": "BOZDO\u011EAN"
+    },
+    {
+      "Id": 9661,
+      "Name": "BOZKIR"
+    },
+    {
+      "Id": 9386,
+      "Name": "BOZKURT"
+    },
+    {
+      "Id": 9601,
+      "Name": "BOZKURT (K)"
+    },
+    {
+      "Id": 9826,
+      "Name": "BOZOVA"
+    },
+    {
+      "Id": 9298,
+      "Name": "BOZ\u00DCY\u00DCK"
+    },
+    {
+      "Id": 9733,
+      "Name": "BOZYAZI"
+    },
+    {
+      "Id": 9326,
+      "Name": "BUCAK"
+    },
+    {
+      "Id": 9254,
+      "Name": "BUHARKENT"
+    },
+    {
+      "Id": 9487,
+      "Name": "BULANCAK"
+    },
+    {
+      "Id": 9751,
+      "Name": "BULANIK"
+    },
+    {
+      "Id": 9387,
+      "Name": "BULDAN"
+    },
+    {
+      "Id": 9616,
+      "Name": "B\u00DCNYAN"
+    },
+    {
+      "Id": 9327,
+      "Name": "BURDUR"
+    },
+    {
+      "Id": 9273,
+      "Name": "BURHAN\u0130YE"
+    },
+    {
+      "Id": 9335,
+      "Name": "BURSA"
+    },
+    {
+      "Id": 9336,
+      "Name": "B\u00DCY\u00DCK ORHAN"
+    },
+    {
+      "Id": 9537,
+      "Name": "B\u00DCY\u00DCK\u00C7EKMECE"
+    },
+    {
+      "Id": 9573,
+      "Name": "\u00C7A\u011ELAYANCER\u0130T"
+    },
+    {
+      "Id": 9388,
+      "Name": "\u00C7AL"
+    },
+    {
+      "Id": 9922,
+      "Name": "\u00C7ALDIRAN"
+    },
+    {
+      "Id": 9764,
+      "Name": "\u00C7AMARDI"
+    },
+    {
+      "Id": 9770,
+      "Name": "\u00C7AMA\u015E"
+    },
+    {
+      "Id": 9389,
+      "Name": "\u00C7AMEL\u0130"
+    },
+    {
+      "Id": 9210,
+      "Name": "\u00C7AMLIDERE"
+    },
+    {
+      "Id": 9792,
+      "Name": "\u00C7AMLIHEM\u015E\u0130N"
+    },
+    {
+      "Id": 9734,
+      "Name": "\u00C7AMLIYAYLA"
+    },
+    {
+      "Id": 9488,
+      "Name": "\u00C7AMOLUK"
+    },
+    {
+      "Id": 9351,
+      "Name": "\u00C7AN"
+    },
+    {
+      "Id": 9489,
+      "Name": "\u00C7ANAK\u00C7I"
+    },
+    {
+      "Id": 9352,
+      "Name": "\u00C7ANAKKALE"
+    },
+    {
+      "Id": 9939,
+      "Name": "\u00C7ANDIR"
+    },
+    {
+      "Id": 9359,
+      "Name": "\u00C7ANKIRI"
+    },
+    {
+      "Id": 9390,
+      "Name": "\u00C7ARDAK"
+    },
+    {
+      "Id": 9814,
+      "Name": "\u00C7AR\u015EAMBA"
+    },
+    {
+      "Id": 9895,
+      "Name": "\u00C7AR\u015EIBA\u015EI"
+    },
+    {
+      "Id": 9450,
+      "Name": "\u00C7AT"
+    },
+    {
+      "Id": 9923,
+      "Name": "\u00C7ATAK"
+    },
+    {
+      "Id": 9538,
+      "Name": "\u00C7ATALCA"
+    },
+    {
+      "Id": 9771,
+      "Name": "\u00C7ATALPINAR"
+    },
+    {
+      "Id": 9602,
+      "Name": "\u00C7ATALZEYT\u0130N"
+    },
+    {
+      "Id": 9684,
+      "Name": "\u00C7AVDARH\u0130SAR"
+    },
+    {
+      "Id": 9328,
+      "Name": "\u00C7AVDIR"
+    },
+    {
+      "Id": 9171,
+      "Name": "\u00C7AY"
+    },
+    {
+      "Id": 9772,
+      "Name": "\u00C7AYBA\u015EI"
+    },
+    {
+      "Id": 9951,
+      "Name": "\u00C7AYCUMA"
+    },
+    {
+      "Id": 9793,
+      "Name": "\u00C7AYEL\u0130"
+    },
+    {
+      "Id": 9940,
+      "Name": "\u00C7AYIRALAN"
+    },
+    {
+      "Id": 9439,
+      "Name": "\u00C7AYIRLI"
+    },
+    {
+      "Id": 9648,
+      "Name": "\u00C7AYIROVA"
+    },
+    {
+      "Id": 9896,
+      "Name": "\u00C7AYKARA"
+    },
+    {
+      "Id": 9941,
+      "Name": "\u00C7EKEREK"
+    },
+    {
+      "Id": 9539,
+      "Name": "\u00C7EKMEK\u00D6Y"
+    },
+    {
+      "Id": 9632,
+      "Name": "CELEBI"
+    },
+    {
+      "Id": 9160,
+      "Name": "\u00C7EL\u0130KHAN"
+    },
+    {
+      "Id": 9662,
+      "Name": "\u00C7ELT\u0130K"
+    },
+    {
+      "Id": 9329,
+      "Name": "\u00C7ELT\u0130KC\u0130"
+    },
+    {
+      "Id": 9908,
+      "Name": "\u00C7EM\u0130\u015EGEZEK"
+    },
+    {
+      "Id": 9360,
+      "Name": "CERKE\u015E"
+    },
+    {
+      "Id": 9872,
+      "Name": "\u00C7ERKEZK\u00D6Y"
+    },
+    {
+      "Id": 9398,
+      "Name": "\u00C7ERM\u0130K"
+    },
+    {
+      "Id": 9556,
+      "Name": "CE\u015EME"
+    },
+    {
+      "Id": 9148,
+      "Name": "CEYHAN"
+    },
+    {
+      "Id": 9827,
+      "Name": "CEYLANPINAR"
+    },
+    {
+      "Id": 9644,
+      "Name": "CICEKDAGI"
+    },
+    {
+      "Id": 9603,
+      "Name": "C\u0130DE"
+    },
+    {
+      "Id": 9469,
+      "Name": "\u00C7\u0130FTELER"
+    },
+    {
+      "Id": 9765,
+      "Name": "\u00C7\u0130FTL\u0130K"
+    },
+    {
+      "Id": 9663,
+      "Name": "C\u0130HANBEYL\u0130"
+    },
+    {
+      "Id": 9239,
+      "Name": "\u00C7ILDIR"
+    },
+    {
+      "Id": 9412,
+      "Name": "\u00C7\u0130L\u0130ML\u0130"
+    },
+    {
+      "Id": 9399,
+      "Name": "\u00C7INAR"
+    },
+    {
+      "Id": 9933,
+      "Name": "\u00C7INARCIK"
+    },
+    {
+      "Id": 9255,
+      "Name": "\u00C7\u0130NE"
+    },
+    {
+      "Id": 9391,
+      "Name": "\u00C7\u0130VR\u0130L"
+    },
+    {
+      "Id": 9850,
+      "Name": "C\u0130ZRE"
+    },
+    {
+      "Id": 9172,
+      "Name": "\u00C7OBANLAR"
+    },
+    {
+      "Id": 9873,
+      "Name": "\u00C7ORLU"
+    },
+    {
+      "Id": 9370,
+      "Name": "\u00C7ORUM"
+    },
+    {
+      "Id": 9211,
+      "Name": "CUBUK"
+    },
+    {
+      "Id": 9506,
+      "Name": "\u00C7UKURCA"
+    },
+    {
+      "Id": 9413,
+      "Name": "CUMAYER\u0130"
+    },
+    {
+      "Id": 9664,
+      "Name": "\u00C7UMRA"
+    },
+    {
+      "Id": 9400,
+      "Name": "\u00C7\u00DCNG\u00DC\u015E"
+    },
+    {
+      "Id": 9604,
+      "Name": "DADAY"
+    },
+    {
+      "Id": 9742,
+      "Name": "DALAMAN"
+    },
+    {
+      "Id": 9240,
+      "Name": "DAMAL"
+    },
+    {
+      "Id": 9697,
+      "Name": "DARENDE"
+    },
+    {
+      "Id": 9723,
+      "Name": "DARGEC\u0130T"
+    },
+    {
+      "Id": 9649,
+      "Name": "DARICA"
+    },
+    {
+      "Id": 9743,
+      "Name": "DAT\u00C7A"
+    },
+    {
+      "Id": 9173,
+      "Name": "DAZKIRI"
+    },
+    {
+      "Id": 9633,
+      "Name": "DELICE"
+    },
+    {
+      "Id": 9710,
+      "Name": "DEM\u0130RC\u0130"
+    },
+    {
+      "Id": 9637,
+      "Name": "DEMIRKOY"
+    },
+    {
+      "Id": 9296,
+      "Name": "DEM\u0130R\u00D6Z\u00DC"
+    },
+    {
+      "Id": 9226,
+      "Name": "DEMRE"
+    },
+    {
+      "Id": 9392,
+      "Name": "DEN\u0130ZL\u0130"
+    },
+    {
+      "Id": 9665,
+      "Name": "DERBENT"
+    },
+    {
+      "Id": 9666,
+      "Name": "DEREBUCAK"
+    },
+    {
+      "Id": 20067,
+      "Name": "DEREC\u0130K"
+    },
+    {
+      "Id": 9490,
+      "Name": "DEREL\u0130"
+    },
+    {
+      "Id": 9724,
+      "Name": "DER\u0130K"
+    },
+    {
+      "Id": 9897,
+      "Name": "DERNEKPAZARI"
+    },
+    {
+      "Id": 9617,
+      "Name": "DEVEL\u0130"
+    },
+    {
+      "Id": 9952,
+      "Name": "DEVREK"
+    },
+    {
+      "Id": 17885,
+      "Name": "DEVREKAN\u0130"
+    },
+    {
+      "Id": 9401,
+      "Name": "D\u0130CLE"
+    },
+    {
+      "Id": 9256,
+      "Name": "D\u0130D\u0130M"
+    },
+    {
+      "Id": 9592,
+      "Name": "D\u0130GOR"
+    },
+    {
+      "Id": 9557,
+      "Name": "D\u0130K\u0130L\u0130"
+    },
+    {
+      "Id": 9842,
+      "Name": "D\u0130KMEN"
+    },
+    {
+      "Id": 9650,
+      "Name": "D\u0130LOVASI"
+    },
+    {
+      "Id": 9174,
+      "Name": "D\u0130NAR"
+    },
+    {
+      "Id": 9858,
+      "Name": "D\u0130VR\u0130\u011E\u0130"
+    },
+    {
+      "Id": 9186,
+      "Name": "D\u0130YAD\u0130N"
+    },
+    {
+      "Id": 9402,
+      "Name": "D\u0130YARBAKIR"
+    },
+    {
+      "Id": 9371,
+      "Name": "DODURGA"
+    },
+    {
+      "Id": 9667,
+      "Name": "DO\u011EANH\u0130SAR"
+    },
+    {
+      "Id": 9491,
+      "Name": "DO\u011EANKENT"
+    },
+    {
+      "Id": 9859,
+      "Name": "DO\u011EAN\u015EAR"
+    },
+    {
+      "Id": 9698,
+      "Name": "DO\u011EAN\u015EEH\u0130R"
+    },
+    {
+      "Id": 9699,
+      "Name": "DO\u011EANYOL"
+    },
+    {
+      "Id": 9605,
+      "Name": "DO\u011EANYURT"
+    },
+    {
+      "Id": 9187,
+      "Name": "DO\u011EUBEYAZIT"
+    },
+    {
+      "Id": 9685,
+      "Name": "DOMAN\u0130\u00C7"
+    },
+    {
+      "Id": 9316,
+      "Name": "D\u00D6RTD\u0130VAN"
+    },
+    {
+      "Id": 9512,
+      "Name": "D\u00D6RTYOL"
+    },
+    {
+      "Id": 17906,
+      "Name": "DUMLUPINAR"
+    },
+    {
+      "Id": 9843,
+      "Name": "DURA\u011EAN"
+    },
+    {
+      "Id": 9274,
+      "Name": "DURSUNBEY"
+    },
+    {
+      "Id": 9414,
+      "Name": "D\u00DCZCE"
+    },
+    {
+      "Id": 9785,
+      "Name": "D\u00DCZ\u0130\u00C7\u0130"
+    },
+    {
+      "Id": 9898,
+      "Name": "D\u00DCZK\u00D6Y"
+    },
+    {
+      "Id": 9419,
+      "Name": "ED\u0130RNE"
+    },
+    {
+      "Id": 9275,
+      "Name": "EDREM\u0130T"
+    },
+    {
+      "Id": 9924,
+      "Name": "EDREM\u0130T (V)"
+    },
+    {
+      "Id": 9580,
+      "Name": "EFLAN\u0130"
+    },
+    {
+      "Id": 9403,
+      "Name": "E\u011E\u0130L"
+    },
+    {
+      "Id": 9526,
+      "Name": "E\u011E\u0130RD\u0130R"
+    },
+    {
+      "Id": 9574,
+      "Name": "EK\u0130N\u00D6Z\u00DC"
+    },
+    {
+      "Id": 9432,
+      "Name": "ELAZI\u011E"
+    },
+    {
+      "Id": 9628,
+      "Name": "ELBEYL\u0130"
+    },
+    {
+      "Id": 9575,
+      "Name": "ELB\u0130STAN"
+    },
+    {
+      "Id": 9188,
+      "Name": "ELE\u015EK\u0130RT"
+    },
+    {
+      "Id": 9212,
+      "Name": "ELMADA\u011E"
+    },
+    {
+      "Id": 9227,
+      "Name": "ELMALI"
+    },
+    {
+      "Id": 9686,
+      "Name": "EMET"
+    },
+    {
+      "Id": 9175,
+      "Name": "EM\u0130RDA\u011E"
+    },
+    {
+      "Id": 9668,
+      "Name": "EM\u0130RGAZ\u0130"
+    },
+    {
+      "Id": 9420,
+      "Name": "ENEZ"
+    },
+    {
+      "Id": 17910,
+      "Name": "ERBAA"
+    },
+    {
+      "Id": 9925,
+      "Name": "ERC\u0130\u015E"
+    },
+    {
+      "Id": 17881,
+      "Name": "ERDEK"
+    },
+    {
+      "Id": 9735,
+      "Name": "ERDEML\u0130"
+    },
+    {
+      "Id": 9669,
+      "Name": "ERE\u011EL\u0130"
+    },
+    {
+      "Id": 9844,
+      "Name": "ERFELEK"
+    },
+    {
+      "Id": 9404,
+      "Name": "ERGAN\u0130"
+    },
+    {
+      "Id": 17904,
+      "Name": "ERGENE"
+    },
+    {
+      "Id": 9586,
+      "Name": "ERMENEK"
+    },
+    {
+      "Id": 9836,
+      "Name": "ERUH"
+    },
+    {
+      "Id": 9513,
+      "Name": "ERZ\u0130N"
+    },
+    {
+      "Id": 9440,
+      "Name": "ERZ\u0130NCAN"
+    },
+    {
+      "Id": 9451,
+      "Name": "ERZURUM"
+    },
+    {
+      "Id": 9540,
+      "Name": "ESENYURT"
+    },
+    {
+      "Id": 9194,
+      "Name": "ESK\u0130L"
+    },
+    {
+      "Id": 17890,
+      "Name": "ESK\u0130PAZAR"
+    },
+    {
+      "Id": 9470,
+      "Name": "ESK\u0130\u015EEH\u0130R"
+    },
+    {
+      "Id": 9916,
+      "Name": "ESME"
+    },
+    {
+      "Id": 9492,
+      "Name": "ESP\u0130YE"
+    },
+    {
+      "Id": 9176,
+      "Name": "EVC\u0130LER"
+    },
+    {
+      "Id": 9213,
+      "Name": "EVREN"
+    },
+    {
+      "Id": 9493,
+      "Name": "EYNES\u0130L"
+    },
+    {
+      "Id": 17882,
+      "Name": "EZ\u0130NE"
+    },
+    {
+      "Id": 9773,
+      "Name": "FATSA"
+    },
+    {
+      "Id": 9149,
+      "Name": "FEKE"
+    },
+    {
+      "Id": 9618,
+      "Name": "FELAH\u0130YE"
+    },
+    {
+      "Id": 9744,
+      "Name": "FETH\u0130YE"
+    },
+    {
+      "Id": 9794,
+      "Name": "FINDIKLI"
+    },
+    {
+      "Id": 9228,
+      "Name": "F\u0130N\u0130KE"
+    },
+    {
+      "Id": 9558,
+      "Name": "FO\u00C7A"
+    },
+    {
+      "Id": 9479,
+      "Name": "GAZ\u0130ANTEP"
+    },
+    {
+      "Id": 9229,
+      "Name": "GAZ\u0130PA\u015EA"
+    },
+    {
+      "Id": 9651,
+      "Name": "GEBZE"
+    },
+    {
+      "Id": 9687,
+      "Name": "GED\u0130Z"
+    },
+    {
+      "Id": 9527,
+      "Name": "GELENDOST"
+    },
+    {
+      "Id": 9353,
+      "Name": "GEL\u0130BOLU"
+    },
+    {
+      "Id": 9860,
+      "Name": "GEMEREK"
+    },
+    {
+      "Id": 9337,
+      "Name": "GEML\u0130K"
+    },
+    {
+      "Id": 9290,
+      "Name": "GERC\u00DC\u015E"
+    },
+    {
+      "Id": 9317,
+      "Name": "GEREDE"
+    },
+    {
+      "Id": 9161,
+      "Name": "GERGER"
+    },
+    {
+      "Id": 9257,
+      "Name": "GERMENC\u0130K"
+    },
+    {
+      "Id": 9845,
+      "Name": "GERZE"
+    },
+    {
+      "Id": 9926,
+      "Name": "GEVA\u015E"
+    },
+    {
+      "Id": 9801,
+      "Name": "GEYVE"
+    },
+    {
+      "Id": 9494,
+      "Name": "G\u0130RESUN"
+    },
+    {
+      "Id": 9354,
+      "Name": "G\u00D6K\u00C7EADA"
+    },
+    {
+      "Id": 9953,
+      "Name": "G\u00D6K\u00C7EBEY"
+    },
+    {
+      "Id": 9576,
+      "Name": "G\u00D6KSUN"
+    },
+    {
+      "Id": 9162,
+      "Name": "G\u00D6LBA\u015EI"
+    },
+    {
+      "Id": 9241,
+      "Name": "G\u00D6LE"
+    },
+    {
+      "Id": 9330,
+      "Name": "G\u00D6LH\u0130SAR"
+    },
+    {
+      "Id": 9774,
+      "Name": "G\u00D6LK\u00D6Y"
+    },
+    {
+      "Id": 9711,
+      "Name": "G\u00D6LMARMARA"
+    },
+    {
+      "Id": 9861,
+      "Name": "G\u00D6LOVA"
+    },
+    {
+      "Id": 9299,
+      "Name": "G\u00D6LPAZARI"
+    },
+    {
+      "Id": 9415,
+      "Name": "G\u00D6LYAKA"
+    },
+    {
+      "Id": 9276,
+      "Name": "G\u00D6ME\u00C7"
+    },
+    {
+      "Id": 9277,
+      "Name": "G\u00D6NEN"
+    },
+    {
+      "Id": 17892,
+      "Name": "G\u00D6NEN"
+    },
+    {
+      "Id": 9712,
+      "Name": "G\u00D6RDES"
+    },
+    {
+      "Id": 9495,
+      "Name": "G\u00D6RELE"
+    },
+    {
+      "Id": 9199,
+      "Name": "G\u00D6YN\u00DCCEK"
+    },
+    {
+      "Id": 9318,
+      "Name": "G\u00D6YN\u00DCK"
+    },
+    {
+      "Id": 9496,
+      "Name": "G\u00DCCE"
+    },
+    {
+      "Id": 9851,
+      "Name": "G\u00DC\u00C7L\u00DCKONAK"
+    },
+    {
+      "Id": 9214,
+      "Name": "G\u00DCD\u00DCL"
+    },
+    {
+      "Id": 9195,
+      "Name": "G\u00DCLA\u011EA\u00C7"
+    },
+    {
+      "Id": 9736,
+      "Name": "G\u00DCLNAR"
+    },
+    {
+      "Id": 9775,
+      "Name": "G\u00DCLYALI"
+    },
+    {
+      "Id": 9200,
+      "Name": "G\u00DCM\u00DC\u015EHACIK\u00D6Y"
+    },
+    {
+      "Id": 9501,
+      "Name": "G\u00DCM\u00DC\u015EHANE"
+    },
+    {
+      "Id": 9416,
+      "Name": "G\u00DCM\u00DC\u015EOVA"
+    },
+    {
+      "Id": 9230,
+      "Name": "G\u00DCNDO\u011EMU\u015E"
+    },
+    {
+      "Id": 9381,
+      "Name": "G\u00DCNEY"
+    },
+    {
+      "Id": 9670,
+      "Name": "G\u00DCNEYSINIR"
+    },
+    {
+      "Id": 9471,
+      "Name": "G\u00DCNY\u00DCZ\u00DC"
+    },
+    {
+      "Id": 9776,
+      "Name": "G\u00DCRGENTEPE"
+    },
+    {
+      "Id": 17887,
+      "Name": "G\u00DCROYMAK"
+    },
+    {
+      "Id": 17912,
+      "Name": "G\u00DCRPINAR"
+    },
+    {
+      "Id": 9862,
+      "Name": "G\u00DCR\u00DCN"
+    },
+    {
+      "Id": 9559,
+      "Name": "G\u00DCZELBAH\u00C7E"
+    },
+    {
+      "Id": 9196,
+      "Name": "G\u00DCZELYURT"
+    },
+    {
+      "Id": 9758,
+      "Name": "HACIBEKTA\u015E"
+    },
+    {
+      "Id": 16704,
+      "Name": "HAD\u0130M"
+    },
+    {
+      "Id": 9863,
+      "Name": "HAF\u0130K"
+    },
+    {
+      "Id": 9507,
+      "Name": "HAKKAR\u0130"
+    },
+    {
+      "Id": 9828,
+      "Name": "HALFET\u0130"
+    },
+    {
+      "Id": 9671,
+      "Name": "HALKAPINAR"
+    },
+    {
+      "Id": 9201,
+      "Name": "HAMAM\u00D6Z\u00DC"
+    },
+    {
+      "Id": 9472,
+      "Name": "HAN"
+    },
+    {
+      "Id": 9242,
+      "Name": "HANAK"
+    },
+    {
+      "Id": 9405,
+      "Name": "HAN\u0130"
+    },
+    {
+      "Id": 9606,
+      "Name": "HAN\u00D6N\u00DC"
+    },
+    {
+      "Id": 9338,
+      "Name": "HARMANCIK"
+    },
+    {
+      "Id": 9829,
+      "Name": "HARRAN"
+    },
+    {
+      "Id": 9786,
+      "Name": "HASANBEYL\u0130"
+    },
+    {
+      "Id": 9291,
+      "Name": "HASANKEYF"
+    },
+    {
+      "Id": 9752,
+      "Name": "HASK\u00D6Y"
+    },
+    {
+      "Id": 9514,
+      "Name": "HASSA"
+    },
+    {
+      "Id": 20089,
+      "Name": "HATAY"
+    },
+    {
+      "Id": 9278,
+      "Name": "HAVRAN"
+    },
+    {
+      "Id": 9421,
+      "Name": "HAVSA"
+    },
+    {
+      "Id": 9815,
+      "Name": "HAVZA"
+    },
+    {
+      "Id": 9215,
+      "Name": "HAYMANA"
+    },
+    {
+      "Id": 9874,
+      "Name": "HAYRABOLU"
+    },
+    {
+      "Id": 9899,
+      "Name": "HAYRAT"
+    },
+    {
+      "Id": 9406,
+      "Name": "HAZRO"
+    },
+    {
+      "Id": 9700,
+      "Name": "HEK\u0130MHAN"
+    },
+    {
+      "Id": 9795,
+      "Name": "HEM\u015E\u0130N"
+    },
+    {
+      "Id": 9802,
+      "Name": "HENDEK"
+    },
+    {
+      "Id": 9830,
+      "Name": "H\u0130LVAN"
+    },
+    {
+      "Id": 9452,
+      "Name": "HINIS"
+    },
+    {
+      "Id": 9688,
+      "Name": "H\u0130SARCIK"
+    },
+    {
+      "Id": 9312,
+      "Name": "H\u0130ZAN"
+    },
+    {
+      "Id": 9177,
+      "Name": "HOCALAR"
+    },
+    {
+      "Id": 9393,
+      "Name": "HONAZ"
+    },
+    {
+      "Id": 9248,
+      "Name": "HOPA"
+    },
+    {
+      "Id": 9453,
+      "Name": "HORASAN"
+    },
+    {
+      "Id": 9909,
+      "Name": "HOZAT"
+    },
+    {
+      "Id": 9672,
+      "Name": "H\u00DCY\u00DCK"
+    },
+    {
+      "Id": 9231,
+      "Name": "\u0130BRADI"
+    },
+    {
+      "Id": 9852,
+      "Name": "\u0130D\u0130L"
+    },
+    {
+      "Id": 9522,
+      "Name": "I\u011EDIR"
+    },
+    {
+      "Id": 9607,
+      "Name": "\u0130HSANGAZ\u0130"
+    },
+    {
+      "Id": 9178,
+      "Name": "\u0130HSAN\u0130YE"
+    },
+    {
+      "Id": 9777,
+      "Name": "\u0130K\u0130ZCE"
+    },
+    {
+      "Id": 9796,
+      "Name": "\u0130K\u0130ZDERE"
+    },
+    {
+      "Id": 9361,
+      "Name": "ILGAZ"
+    },
+    {
+      "Id": 9673,
+      "Name": "ILGIN"
+    },
+    {
+      "Id": 9441,
+      "Name": "\u0130L\u0130\u00C7"
+    },
+    {
+      "Id": 9150,
+      "Name": "\u0130MAMO\u011ELU"
+    },
+    {
+      "Id": 9864,
+      "Name": "\u0130MRANLI"
+    },
+    {
+      "Id": 9619,
+      "Name": "\u0130NCESU"
+    },
+    {
+      "Id": 9258,
+      "Name": "\u0130NC\u0130RL\u0130OVA"
+    },
+    {
+      "Id": 9608,
+      "Name": "\u0130NEBOLU"
+    },
+    {
+      "Id": 9339,
+      "Name": "\u0130NEG\u00D6L"
+    },
+    {
+      "Id": 9300,
+      "Name": "\u0130NH\u0130SAR"
+    },
+    {
+      "Id": 9473,
+      "Name": "\u0130N\u00D6N\u00DC"
+    },
+    {
+      "Id": 9422,
+      "Name": "\u0130PSALA"
+    },
+    {
+      "Id": 9179,
+      "Name": "\u0130SCEH\u0130SAR"
+    },
+    {
+      "Id": 9516,
+      "Name": "\u0130SKENDERUN"
+    },
+    {
+      "Id": 9372,
+      "Name": "\u0130SK\u0130L\u0130P"
+    },
+    {
+      "Id": 9480,
+      "Name": "\u0130SLAH\u0130YE"
+    },
+    {
+      "Id": 9528,
+      "Name": "ISPARTA"
+    },
+    {
+      "Id": 9454,
+      "Name": "\u0130SP\u0130R"
+    },
+    {
+      "Id": 9541,
+      "Name": "\u0130STANBUL"
+    },
+    {
+      "Id": 9279,
+      "Name": "\u0130VR\u0130ND\u0130"
+    },
+    {
+      "Id": 9797,
+      "Name": "\u0130Y\u0130DERE"
+    },
+    {
+      "Id": 9560,
+      "Name": "\u0130ZM\u0130R"
+    },
+    {
+      "Id": 9340,
+      "Name": "\u0130ZN\u0130K"
+    },
+    {
+      "Id": 9778,
+      "Name": "KABATA\u015E"
+    },
+    {
+      "Id": 9674,
+      "Name": "KADINHANI"
+    },
+    {
+      "Id": 9787,
+      "Name": "KAD\u0130RL\u0130"
+    },
+    {
+      "Id": 9942,
+      "Name": "KADI\u015EEHR\u0130"
+    },
+    {
+      "Id": 9593,
+      "Name": "KA\u011EIZMAN"
+    },
+    {
+      "Id": 9217,
+      "Name": "KAHRAMANKAZAN"
+    },
+    {
+      "Id": 9577,
+      "Name": "KAHRAMANMARA\u015E"
+    },
+    {
+      "Id": 9163,
+      "Name": "KAHTA"
+    },
+    {
+      "Id": 17899,
+      "Name": "KALE"
+    },
+    {
+      "Id": 9701,
+      "Name": "KALE (M)"
+    },
+    {
+      "Id": 9216,
+      "Name": "KALEC\u0130K"
+    },
+    {
+      "Id": 9645,
+      "Name": "KAMAN"
+    },
+    {
+      "Id": 9652,
+      "Name": "KANDIRA"
+    },
+    {
+      "Id": 9865,
+      "Name": "KANGAL"
+    },
+    {
+      "Id": 17905,
+      "Name": "KAPAKLI"
+    },
+    {
+      "Id": 9581,
+      "Name": "KARAB\u00DCK"
+    },
+    {
+      "Id": 9561,
+      "Name": "KARABURUN"
+    },
+    {
+      "Id": 9341,
+      "Name": "KARACABEY"
+    },
+    {
+      "Id": 9259,
+      "Name": "KARACASU"
+    },
+    {
+      "Id": 9455,
+      "Name": "KARA\u00C7OBAN"
+    },
+    {
+      "Id": 9954,
+      "Name": "KARADEN\u0130Z ERE\u011EL\u0130"
+    },
+    {
+      "Id": 9917,
+      "Name": "KARAHALLI"
+    },
+    {
+      "Id": 9151,
+      "Name": "KARAISALI"
+    },
+    {
+      "Id": 9634,
+      "Name": "KARAKECILI"
+    },
+    {
+      "Id": 9433,
+      "Name": "KARAKO\u00C7AN"
+    },
+    {
+      "Id": 9523,
+      "Name": "KARAKOYUNLU"
+    },
+    {
+      "Id": 9587,
+      "Name": "KARAMAN"
+    },
+    {
+      "Id": 9331,
+      "Name": "KARAMANLI"
+    },
+    {
+      "Id": 9653,
+      "Name": "KARAM\u00DCRSEL"
+    },
+    {
+      "Id": 9675,
+      "Name": "KARAPINAR"
+    },
+    {
+      "Id": 9803,
+      "Name": "KARASU"
+    },
+    {
+      "Id": 9152,
+      "Name": "KARATA\u015E"
+    },
+    {
+      "Id": 17872,
+      "Name": "KARATAY"
+    },
+    {
+      "Id": 9456,
+      "Name": "KARAYAZI"
+    },
+    {
+      "Id": 9373,
+      "Name": "KARGI"
+    },
+    {
+      "Id": 9481,
+      "Name": "KARKAMI\u015E"
+    },
+    {
+      "Id": 9304,
+      "Name": "KARLIOVA"
+    },
+    {
+      "Id": 9260,
+      "Name": "KARPUZLU"
+    },
+    {
+      "Id": 9594,
+      "Name": "KARS"
+    },
+    {
+      "Id": 9542,
+      "Name": "KARTAL"
+    },
+    {
+      "Id": 17902,
+      "Name": "KARTEPE"
+    },
+    {
+      "Id": 9232,
+      "Name": "KA\u015E"
+    },
+    {
+      "Id": 9609,
+      "Name": "KASTAMONU"
+    },
+    {
+      "Id": 9816,
+      "Name": "KAVAK"
+    },
+    {
+      "Id": 9804,
+      "Name": "KAYNARCA"
+    },
+    {
+      "Id": 9417,
+      "Name": "KAYNA\u015ELI"
+    },
+    {
+      "Id": 9620,
+      "Name": "KAYSER\u0130"
+    },
+    {
+      "Id": 9588,
+      "Name": "KAZIMKARABEK\u0130R"
+    },
+    {
+      "Id": 9434,
+      "Name": "KEBAN"
+    },
+    {
+      "Id": 9529,
+      "Name": "KE\u00C7\u0130BORLU"
+    },
+    {
+      "Id": 9342,
+      "Name": "KELES"
+    },
+    {
+      "Id": 16746,
+      "Name": "KELK\u0130T"
+    },
+    {
+      "Id": 9442,
+      "Name": "KEMAH"
+    },
+    {
+      "Id": 9443,
+      "Name": "KEMAL\u0130YE"
+    },
+    {
+      "Id": 20070,
+      "Name": "KEMALPA\u015EA"
+    },
+    {
+      "Id": 9562,
+      "Name": "KEMALPA\u015EA"
+    },
+    {
+      "Id": 9233,
+      "Name": "KEMER"
+    },
+    {
+      "Id": 9332,
+      "Name": "KEMER (B)"
+    },
+    {
+      "Id": 9280,
+      "Name": "KEPSUT"
+    },
+    {
+      "Id": 9423,
+      "Name": "KE\u015EAN"
+    },
+    {
+      "Id": 9497,
+      "Name": "KE\u015EAP"
+    },
+    {
+      "Id": 17897,
+      "Name": "KESK\u0130N"
+    },
+    {
+      "Id": 17893,
+      "Name": "KESTEL"
+    },
+    {
+      "Id": 9319,
+      "Name": "KIBRISCIK"
+    },
+    {
+      "Id": 9305,
+      "Name": "K\u0130GI"
+    },
+    {
+      "Id": 9629,
+      "Name": "K\u0130L\u0130S"
+    },
+    {
+      "Id": 9563,
+      "Name": "KINIK"
+    },
+    {
+      "Id": 9564,
+      "Name": "K\u0130RAZ"
+    },
+    {
+      "Id": 9517,
+      "Name": "KIRIKHAN"
+    },
+    {
+      "Id": 9635,
+      "Name": "KIRIKKALE"
+    },
+    {
+      "Id": 9713,
+      "Name": "KIRKA\u011EA\u00C7"
+    },
+    {
+      "Id": 9638,
+      "Name": "KIRKLAREL\u0130"
+    },
+    {
+      "Id": 9646,
+      "Name": "KIR\u015EEH\u0130R"
+    },
+    {
+      "Id": 9218,
+      "Name": "KIZILCAHAMAM"
+    },
+    {
+      "Id": 9362,
+      "Name": "KIZILIRMAK"
+    },
+    {
+      "Id": 9180,
+      "Name": "KIZIL\u00D6REN"
+    },
+    {
+      "Id": 9725,
+      "Name": "KIZILTEPE"
+    },
+    {
+      "Id": 9805,
+      "Name": "KOCAAL\u0130"
+    },
+    {
+      "Id": 9654,
+      "Name": "KOCAEL\u0130"
+    },
+    {
+      "Id": 9407,
+      "Name": "KOCAK\u00D6Y"
+    },
+    {
+      "Id": 9261,
+      "Name": "KO\u00C7ARLI"
+    },
+    {
+      "Id": 9676,
+      "Name": "KONYA"
+    },
+    {
+      "Id": 9714,
+      "Name": "K\u00D6PR\u00DCBA\u015EI"
+    },
+    {
+      "Id": 9900,
+      "Name": "K\u00D6PR\u00DCBA\u015EI (T)"
+    },
+    {
+      "Id": 9457,
+      "Name": "K\u00D6PR\u00DCK\u00D6Y"
+    },
+    {
+      "Id": 9655,
+      "Name": "K\u00D6RFEZ"
+    },
+    {
+      "Id": 9779,
+      "Name": "KORGAN"
+    },
+    {
+      "Id": 9753,
+      "Name": "KORKUT"
+    },
+    {
+      "Id": 9234,
+      "Name": "KORKUTEL\u0130"
+    },
+    {
+      "Id": 9502,
+      "Name": "K\u00D6SE"
+    },
+    {
+      "Id": 9262,
+      "Name": "K\u00D6\u015EK"
+    },
+    {
+      "Id": 9435,
+      "Name": "KOVANCILAR"
+    },
+    {
+      "Id": 9745,
+      "Name": "K\u00D6YCE\u011E\u0130Z"
+    },
+    {
+      "Id": 9866,
+      "Name": "KOYULH\u0130SAR"
+    },
+    {
+      "Id": 9759,
+      "Name": "KOZAKLI"
+    },
+    {
+      "Id": 9153,
+      "Name": "KOZAN"
+    },
+    {
+      "Id": 9292,
+      "Name": "KOZLUK"
+    },
+    {
+      "Id": 9543,
+      "Name": "K\u00DC\u00C7\u00DCK\u00C7EKMECE"
+    },
+    {
+      "Id": 9715,
+      "Name": "KULA"
+    },
+    {
+      "Id": 9408,
+      "Name": "KULP"
+    },
+    {
+      "Id": 9677,
+      "Name": "KULU"
+    },
+    {
+      "Id": 9702,
+      "Name": "KULUNCAK"
+    },
+    {
+      "Id": 9518,
+      "Name": "KUMLU"
+    },
+    {
+      "Id": 9235,
+      "Name": "KUMLUCA"
+    },
+    {
+      "Id": 9780,
+      "Name": "KUMRU"
+    },
+    {
+      "Id": 9610,
+      "Name": "K\u00DCRE"
+    },
+    {
+      "Id": 9363,
+      "Name": "KUR\u015EUNLU"
+    },
+    {
+      "Id": 9837,
+      "Name": "KURTALAN"
+    },
+    {
+      "Id": 9503,
+      "Name": "K\u00DCRT\u00DCN"
+    },
+    {
+      "Id": 9286,
+      "Name": "KURUCA\u015E\u0130LE"
+    },
+    {
+      "Id": 9263,
+      "Name": "KU\u015EADASI"
+    },
+    {
+      "Id": 9689,
+      "Name": "K\u00DCTAHYA"
+    },
+    {
+      "Id": 9264,
+      "Name": "KUYUCAK"
+    },
+    {
+      "Id": 9374,
+      "Name": "LA\u00C7\u0130N"
+    },
+    {
+      "Id": 9817,
+      "Name": "LAD\u0130K"
+    },
+    {
+      "Id": 9424,
+      "Name": "LALAPA\u015EA"
+    },
+    {
+      "Id": 9355,
+      "Name": "LAPSEK\u0130"
+    },
+    {
+      "Id": 9409,
+      "Name": "L\u0130CE"
+    },
+    {
+      "Id": 9639,
+      "Name": "LULEBURGAZ"
+    },
+    {
+      "Id": 9875,
+      "Name": "M.ERE\u011EL\u0130S\u0130"
+    },
+    {
+      "Id": 9436,
+      "Name": "MADEN"
+    },
+    {
+      "Id": 9474,
+      "Name": "MAHMUD\u0130YE"
+    },
+    {
+      "Id": 9703,
+      "Name": "MALATYA"
+    },
+    {
+      "Id": 9754,
+      "Name": "MALAZG\u0130RT"
+    },
+    {
+      "Id": 9876,
+      "Name": "MALKARA"
+    },
+    {
+      "Id": 9544,
+      "Name": "MALTEPE"
+    },
+    {
+      "Id": 9236,
+      "Name": "MANAVGAT"
+    },
+    {
+      "Id": 9716,
+      "Name": "MAN\u0130SA"
+    },
+    {
+      "Id": 17918,
+      "Name": "MANYAS"
+    },
+    {
+      "Id": 9726,
+      "Name": "MARD\u0130N"
+    },
+    {
+      "Id": 9281,
+      "Name": "MARMARA"
+    },
+    {
+      "Id": 17883,
+      "Name": "MARMAR\u0130S"
+    },
+    {
+      "Id": 9727,
+      "Name": "MAZIDA\u011EI"
+    },
+    {
+      "Id": 9375,
+      "Name": "MEC\u0130T\u00D6Z\u00DC"
+    },
+    {
+      "Id": 17868,
+      "Name": "MENDERES"
+    },
+    {
+      "Id": 17869,
+      "Name": "MENEMEN"
+    },
+    {
+      "Id": 9320,
+      "Name": "MENGEN"
+    },
+    {
+      "Id": 17870,
+      "Name": "MERAM"
+    },
+    {
+      "Id": 9425,
+      "Name": "MER\u0130\u00C7"
+    },
+    {
+      "Id": 9737,
+      "Name": "MERS\u0130N"
+    },
+    {
+      "Id": 9202,
+      "Name": "MERZ\u0130FON"
+    },
+    {
+      "Id": 9781,
+      "Name": "MESUD\u0130YE"
+    },
+    {
+      "Id": 9728,
+      "Name": "M\u0130DYAT"
+    },
+    {
+      "Id": 33292,
+      "Name": "M\u0130HALGAZ\u0130"
+    },
+    {
+      "Id": 9475,
+      "Name": "M\u0130HALI\u00C7\u00C7IK"
+    },
+    {
+      "Id": 9746,
+      "Name": "M\u0130LAS"
+    },
+    {
+      "Id": 9647,
+      "Name": "MUCUR"
+    },
+    {
+      "Id": 9343,
+      "Name": "MUDANYA"
+    },
+    {
+      "Id": 9321,
+      "Name": "MUDURNU"
+    },
+    {
+      "Id": 9747,
+      "Name": "MU\u011ELA"
+    },
+    {
+      "Id": 9927,
+      "Name": "MURAD\u0130YE"
+    },
+    {
+      "Id": 9249,
+      "Name": "MURGUL"
+    },
+    {
+      "Id": 9755,
+      "Name": "MU\u015E"
+    },
+    {
+      "Id": 9630,
+      "Name": "MUSABEYL\u0130"
+    },
+    {
+      "Id": 9344,
+      "Name": "MUSTAFA KEMALPA\u015EA"
+    },
+    {
+      "Id": 9738,
+      "Name": "MUT"
+    },
+    {
+      "Id": 9313,
+      "Name": "MUTK\u0130"
+    },
+    {
+      "Id": 9219,
+      "Name": "NALLIHAN"
+    },
+    {
+      "Id": 9458,
+      "Name": "NARMAN"
+    },
+    {
+      "Id": 9265,
+      "Name": "NAZ\u0130LL\u0130"
+    },
+    {
+      "Id": 9910,
+      "Name": "NAZ\u0130M\u0130YE"
+    },
+    {
+      "Id": 9760,
+      "Name": "NEV\u015EEH\u0130R"
+    },
+    {
+      "Id": 9766,
+      "Name": "N\u0130\u011EDE"
+    },
+    {
+      "Id": 9883,
+      "Name": "N\u0130KSAR"
+    },
+    {
+      "Id": 9482,
+      "Name": "N\u0130Z\u0130P"
+    },
+    {
+      "Id": 9483,
+      "Name": "NURDA\u011EI"
+    },
+    {
+      "Id": 9578,
+      "Name": "NURHAK"
+    },
+    {
+      "Id": 9729,
+      "Name": "NUSAYB\u0130N"
+    },
+    {
+      "Id": 9565,
+      "Name": "\u00D6DEM\u0130\u015E"
+    },
+    {
+      "Id": 9901,
+      "Name": "OF"
+    },
+    {
+      "Id": 9484,
+      "Name": "O\u011EUZEL\u0130"
+    },
+    {
+      "Id": 9376,
+      "Name": "O\u011EUZLAR"
+    },
+    {
+      "Id": 9459,
+      "Name": "OLTU"
+    },
+    {
+      "Id": 9460,
+      "Name": "OLUR"
+    },
+    {
+      "Id": 9730,
+      "Name": "\u00D6MERL\u0130"
+    },
+    {
+      "Id": 9782,
+      "Name": "ORDU"
+    },
+    {
+      "Id": 17894,
+      "Name": "ORHANEL\u0130"
+    },
+    {
+      "Id": 9345,
+      "Name": "ORHANGAZ\u0130"
+    },
+    {
+      "Id": 9364,
+      "Name": "ORTA"
+    },
+    {
+      "Id": 9748,
+      "Name": "ORTACA"
+    },
+    {
+      "Id": 17877,
+      "Name": "ORTAK\u00D6Y"
+    },
+    {
+      "Id": 9377,
+      "Name": "ORTAK\u00D6Y"
+    },
+    {
+      "Id": 9378,
+      "Name": "OSMANCIK"
+    },
+    {
+      "Id": 17895,
+      "Name": "OSMANEL\u0130"
+    },
+    {
+      "Id": 9788,
+      "Name": "OSMAN\u0130YE"
+    },
+    {
+      "Id": 9444,
+      "Name": "OTLUKBEL\u0130"
+    },
+    {
+      "Id": 9911,
+      "Name": "OVACIK"
+    },
+    {
+      "Id": 9582,
+      "Name": "OVACIK (K)"
+    },
+    {
+      "Id": 9928,
+      "Name": "\u00D6ZALP"
+    },
+    {
+      "Id": 9621,
+      "Name": "\u00D6ZVATAN"
+    },
+    {
+      "Id": 9437,
+      "Name": "PALU"
+    },
+    {
+      "Id": 9806,
+      "Name": "PAMUKOVA"
+    },
+    {
+      "Id": 9461,
+      "Name": "PAS\u0130NLER"
+    },
+    {
+      "Id": 9189,
+      "Name": "PATNOS"
+    },
+    {
+      "Id": 17810,
+      "Name": "PAYAS"
+    },
+    {
+      "Id": 9798,
+      "Name": "PAZAR"
+    },
+    {
+      "Id": 9884,
+      "Name": "PAZAR (T)"
+    },
+    {
+      "Id": 9579,
+      "Name": "PAZARCIK"
+    },
+    {
+      "Id": 9690,
+      "Name": "PAZARLAR"
+    },
+    {
+      "Id": 17896,
+      "Name": "PAZARYER\u0130"
+    },
+    {
+      "Id": 9462,
+      "Name": "PAZARYOLU"
+    },
+    {
+      "Id": 9640,
+      "Name": "PEHLIVANKOY"
+    },
+    {
+      "Id": 9545,
+      "Name": "PEND\u0130K"
+    },
+    {
+      "Id": 9912,
+      "Name": "PERTEK"
+    },
+    {
+      "Id": 9838,
+      "Name": "PERVAR\u0130"
+    },
+    {
+      "Id": 9622,
+      "Name": "PINARBA\u015EI"
+    },
+    {
+      "Id": 9611,
+      "Name": "PINARBA\u015EI (K)"
+    },
+    {
+      "Id": 9641,
+      "Name": "PINARHISAR"
+    },
+    {
+      "Id": 9498,
+      "Name": "P\u0130RAZ\u0130Z"
+    },
+    {
+      "Id": 17907,
+      "Name": "POLATEL\u0130"
+    },
+    {
+      "Id": 9220,
+      "Name": "POLATLI"
+    },
+    {
+      "Id": 9243,
+      "Name": "POSOF"
+    },
+    {
+      "Id": 9154,
+      "Name": "POZANTI"
+    },
+    {
+      "Id": 9913,
+      "Name": "P\u00DCL\u00DCM\u00DCR"
+    },
+    {
+      "Id": 9704,
+      "Name": "P\u00DCT\u00DCRGE"
+    },
+    {
+      "Id": 9445,
+      "Name": "REFAH\u0130YE"
+    },
+    {
+      "Id": 9885,
+      "Name": "RE\u015EAD\u0130YE"
+    },
+    {
+      "Id": 9519,
+      "Name": "REYHANLI"
+    },
+    {
+      "Id": 9799,
+      "Name": "R\u0130ZE"
+    },
+    {
+      "Id": 9365,
+      "Name": "\u015EABAN\u00D6Z\u00DC"
+    },
+    {
+      "Id": 9155,
+      "Name": "SA\u0130MBEYL\u0130"
+    },
+    {
+      "Id": 9807,
+      "Name": "SAKARYA"
+    },
+    {
+      "Id": 9717,
+      "Name": "SAL\u0130HL\u0130"
+    },
+    {
+      "Id": 9818,
+      "Name": "SALIPAZARI"
+    },
+    {
+      "Id": 9902,
+      "Name": "\u015EALPAZARI"
+    },
+    {
+      "Id": 9520,
+      "Name": "SAMANDA\u011E"
+    },
+    {
+      "Id": 9164,
+      "Name": "SAMSAT"
+    },
+    {
+      "Id": 9819,
+      "Name": "SAMSUN"
+    },
+    {
+      "Id": 9546,
+      "Name": "SANCAKTEPE"
+    },
+    {
+      "Id": 9181,
+      "Name": "SANDIKLI"
+    },
+    {
+      "Id": 9831,
+      "Name": "\u015EANLIURFA"
+    },
+    {
+      "Id": 9691,
+      "Name": "\u015EAPHANE"
+    },
+    {
+      "Id": 9877,
+      "Name": "SARAY"
+    },
+    {
+      "Id": 9929,
+      "Name": "SARAY (V)"
+    },
+    {
+      "Id": 9846,
+      "Name": "SARAYD\u00DCZ\u00DC"
+    },
+    {
+      "Id": 9943,
+      "Name": "SARAYKENT"
+    },
+    {
+      "Id": 9395,
+      "Name": "SARAYK\u00D6Y"
+    },
+    {
+      "Id": 17874,
+      "Name": "SARAY\u00D6N\u00DC"
+    },
+    {
+      "Id": 17919,
+      "Name": "SARICAKAYA"
+    },
+    {
+      "Id": 9718,
+      "Name": "SARIG\u00D6L"
+    },
+    {
+      "Id": 9595,
+      "Name": "SARIKAMI\u015E"
+    },
+    {
+      "Id": 9944,
+      "Name": "SARIKAYA"
+    },
+    {
+      "Id": 9623,
+      "Name": "SARIO\u011ELAN"
+    },
+    {
+      "Id": 9589,
+      "Name": "SARIVEL\u0130LER"
+    },
+    {
+      "Id": 9197,
+      "Name": "SARIYAH\u015E\u0130"
+    },
+    {
+      "Id": 9624,
+      "Name": "SARIZ"
+    },
+    {
+      "Id": 9530,
+      "Name": "\u015EARK\u0130 KARAA\u011EA\u00C7"
+    },
+    {
+      "Id": 9867,
+      "Name": "\u015EARKI\u015ELA"
+    },
+    {
+      "Id": 9878,
+      "Name": "\u015EARK\u00D6Y"
+    },
+    {
+      "Id": 9719,
+      "Name": "SARUHANLI"
+    },
+    {
+      "Id": 9293,
+      "Name": "SASON"
+    },
+    {
+      "Id": 9282,
+      "Name": "SAVA\u015ETEPE"
+    },
+    {
+      "Id": 9250,
+      "Name": "\u015EAV\u015EAT"
+    },
+    {
+      "Id": 17901,
+      "Name": "SAVUR"
+    },
+    {
+      "Id": 9322,
+      "Name": "SEBEN"
+    },
+    {
+      "Id": 16706,
+      "Name": "\u015EEB\u0130NKARAH\u0130SAR"
+    },
+    {
+      "Id": 17879,
+      "Name": "\u015EEFAATL\u0130"
+    },
+    {
+      "Id": 9566,
+      "Name": "SEFERIH\u0130SAR"
+    },
+    {
+      "Id": 9567,
+      "Name": "SEL\u00C7UK"
+    },
+    {
+      "Id": 17871,
+      "Name": "SEL\u00C7UKLU"
+    },
+    {
+      "Id": 9720,
+      "Name": "SELEND\u0130"
+    },
+    {
+      "Id": 9596,
+      "Name": "SEL\u0130M"
+    },
+    {
+      "Id": 9508,
+      "Name": "\u015EEMD\u0130NL\u0130"
+    },
+    {
+      "Id": 17816,
+      "Name": "SEN\u0130RKENT"
+    },
+    {
+      "Id": 9463,
+      "Name": "\u015EENKAYA"
+    },
+    {
+      "Id": 9612,
+      "Name": "\u015EENPAZAR"
+    },
+    {
+      "Id": 9221,
+      "Name": "\u015EEREFL\u0130KO\u00C7H\u0130SAR"
+    },
+    {
+      "Id": 9237,
+      "Name": "SER\u0130K"
+    },
+    {
+      "Id": 9396,
+      "Name": "SER\u0130NH\u0130SAR"
+    },
+    {
+      "Id": 17884,
+      "Name": "SEYD\u0130KEMER"
+    },
+    {
+      "Id": 17886,
+      "Name": "SEYD\u0130LER"
+    },
+    {
+      "Id": 9678,
+      "Name": "SEYD\u0130\u015EEH\u0130R"
+    },
+    {
+      "Id": 9476,
+      "Name": "SEY\u0130TGAZ\u0130"
+    },
+    {
+      "Id": 9839,
+      "Name": "S\u0130\u0130RT"
+    },
+    {
+      "Id": 9547,
+      "Name": "\u015E\u0130LE"
+    },
+    {
+      "Id": 9739,
+      "Name": "S\u0130L\u0130FKE"
+    },
+    {
+      "Id": 9548,
+      "Name": "S\u0130L\u0130VR\u0130"
+    },
+    {
+      "Id": 9853,
+      "Name": "S\u0130LOP\u0130"
+    },
+    {
+      "Id": 9410,
+      "Name": "S\u0130LVAN"
+    },
+    {
+      "Id": 9692,
+      "Name": "S\u0130MAV"
+    },
+    {
+      "Id": 9182,
+      "Name": "S\u0130NANPA\u015EA"
+    },
+    {
+      "Id": 9165,
+      "Name": "S\u0130NC\u0130K"
+    },
+    {
+      "Id": 9283,
+      "Name": "SINDIRGI"
+    },
+    {
+      "Id": 9847,
+      "Name": "S\u0130NOP"
+    },
+    {
+      "Id": 9504,
+      "Name": "\u015E\u0130RAN"
+    },
+    {
+      "Id": 9854,
+      "Name": "\u015EIRNAK"
+    },
+    {
+      "Id": 17888,
+      "Name": "\u015EIRVAN"
+    },
+    {
+      "Id": 9868,
+      "Name": "S\u0130VAS"
+    },
+    {
+      "Id": 9918,
+      "Name": "S\u0130VASLI"
+    },
+    {
+      "Id": 9832,
+      "Name": "S\u0130VEREK"
+    },
+    {
+      "Id": 9438,
+      "Name": "S\u0130VR\u0130CE"
+    },
+    {
+      "Id": 9477,
+      "Name": "S\u0130VR\u0130H\u0130SAR"
+    },
+    {
+      "Id": 9301,
+      "Name": "S\u00D6\u011E\u00DCT"
+    },
+    {
+      "Id": 9266,
+      "Name": "S\u00D6KE"
+    },
+    {
+      "Id": 9306,
+      "Name": "SOLHAN"
+    },
+    {
+      "Id": 9721,
+      "Name": "SOMA"
+    },
+    {
+      "Id": 9946,
+      "Name": "SORGUN"
+    },
+    {
+      "Id": 9183,
+      "Name": "\u015EUHUT"
+    },
+    {
+      "Id": 9636,
+      "Name": "SULAKYURT"
+    },
+    {
+      "Id": 9426,
+      "Name": "S\u00DCLO\u011ELU"
+    },
+    {
+      "Id": 9549,
+      "Name": "SULTANBEYL\u0130"
+    },
+    {
+      "Id": 9184,
+      "Name": "SULTANDA\u011EI"
+    },
+    {
+      "Id": 9550,
+      "Name": "SULTANGAZ\u0130"
+    },
+    {
+      "Id": 20069,
+      "Name": "SULTANHANI"
+    },
+    {
+      "Id": 9267,
+      "Name": "SULTANH\u0130SAR"
+    },
+    {
+      "Id": 9203,
+      "Name": "SULUOVA"
+    },
+    {
+      "Id": 9886,
+      "Name": "SULUSARAY"
+    },
+    {
+      "Id": 9789,
+      "Name": "SUMBAS"
+    },
+    {
+      "Id": 9379,
+      "Name": "SUNGURLU"
+    },
+    {
+      "Id": 9903,
+      "Name": "S\u00DCRMENE"
+    },
+    {
+      "Id": 9833,
+      "Name": "SURU\u00C7"
+    },
+    {
+      "Id": 9869,
+      "Name": "SU\u015EEHR\u0130"
+    },
+    {
+      "Id": 9284,
+      "Name": "SUSURLUK"
+    },
+    {
+      "Id": 17880,
+      "Name": "SUSUZ"
+    },
+    {
+      "Id": 9531,
+      "Name": "S\u00DCTC\u00DCLER"
+    },
+    {
+      "Id": 9808,
+      "Name": "TARAKLI"
+    },
+    {
+      "Id": 9740,
+      "Name": "TARSUS"
+    },
+    {
+      "Id": 17873,
+      "Name": "TA\u015EKENT"
+    },
+    {
+      "Id": 9613,
+      "Name": "TA\u015EK\u00D6PR\u00DC"
+    },
+    {
+      "Id": 9190,
+      "Name": "TA\u015ELI\u00C7AY"
+    },
+    {
+      "Id": 9204,
+      "Name": "TA\u015EOVA"
+    },
+    {
+      "Id": 9314,
+      "Name": "TATVAN"
+    },
+    {
+      "Id": 17900,
+      "Name": "TAVAS"
+    },
+    {
+      "Id": 9693,
+      "Name": "TAV\u015EANLI"
+    },
+    {
+      "Id": 9333,
+      "Name": "TEFENN\u0130"
+    },
+    {
+      "Id": 9879,
+      "Name": "TEK\u0130RDA\u011E"
+    },
+    {
+      "Id": 9820,
+      "Name": "TEKKEK\u00D6Y"
+    },
+    {
+      "Id": 9464,
+      "Name": "TEKMAN"
+    },
+    {
+      "Id": 9446,
+      "Name": "TERCAN"
+    },
+    {
+      "Id": 9934,
+      "Name": "TERMAL"
+    },
+    {
+      "Id": 9821,
+      "Name": "TERME"
+    },
+    {
+      "Id": 9568,
+      "Name": "T\u0130RE"
+    },
+    {
+      "Id": 9499,
+      "Name": "T\u0130REBOLU"
+    },
+    {
+      "Id": 9887,
+      "Name": "TOKAT"
+    },
+    {
+      "Id": 9625,
+      "Name": "TOMARZA"
+    },
+    {
+      "Id": 9904,
+      "Name": "TONYA"
+    },
+    {
+      "Id": 9790,
+      "Name": "TOPRAKKALE"
+    },
+    {
+      "Id": 9569,
+      "Name": "TORBALI"
+    },
+    {
+      "Id": 9465,
+      "Name": "TORTUM"
+    },
+    {
+      "Id": 9505,
+      "Name": "TORUL"
+    },
+    {
+      "Id": 9614,
+      "Name": "TOSYA"
+    },
+    {
+      "Id": 9905,
+      "Name": "TRABZON"
+    },
+    {
+      "Id": 9156,
+      "Name": "TUFANBEYL\u0130"
+    },
+    {
+      "Id": 9914,
+      "Name": "TUNCEL\u0130"
+    },
+    {
+      "Id": 9722,
+      "Name": "TURGUTLU"
+    },
+    {
+      "Id": 9888,
+      "Name": "TURHAL"
+    },
+    {
+      "Id": 9848,
+      "Name": "T\u00DCRKEL\u0130"
+    },
+    {
+      "Id": 17908,
+      "Name": "T\u00DCRKO\u011ELU"
+    },
+    {
+      "Id": 9166,
+      "Name": "TUT"
+    },
+    {
+      "Id": 9191,
+      "Name": "TUTAK"
+    },
+    {
+      "Id": 9551,
+      "Name": "TUZLA"
+    },
+    {
+      "Id": 9524,
+      "Name": "TUZLUCA"
+    },
+    {
+      "Id": 9679,
+      "Name": "TUZLUK\u00C7U"
+    },
+    {
+      "Id": 9380,
+      "Name": "U\u011EURLUDA\u011E"
+    },
+    {
+      "Id": 9749,
+      "Name": "ULA"
+    },
+    {
+      "Id": 17920,
+      "Name": "ULA\u015E"
+    },
+    {
+      "Id": 17909,
+      "Name": "ULUBEY"
+    },
+    {
+      "Id": 9532,
+      "Name": "ULUBORLU"
+    },
+    {
+      "Id": 9855,
+      "Name": "ULUDERE"
+    },
+    {
+      "Id": 9767,
+      "Name": "ULUKI\u015ELA"
+    },
+    {
+      "Id": 9287,
+      "Name": "ULUS"
+    },
+    {
+      "Id": 9783,
+      "Name": "\u00DCNYE"
+    },
+    {
+      "Id": 9761,
+      "Name": "\u00DCRG\u00DCP"
+    },
+    {
+      "Id": 9570,
+      "Name": "URLA"
+    },
+    {
+      "Id": 9919,
+      "Name": "U\u015EAK"
+    },
+    {
+      "Id": 9447,
+      "Name": "\u00DCZ\u00DCML\u00DC"
+    },
+    {
+      "Id": 9466,
+      "Name": "UZUNDERE"
+    },
+    {
+      "Id": 9427,
+      "Name": "UZUNK\u00D6PR\u00DC"
+    },
+    {
+      "Id": 9906,
+      "Name": "VAKFIKEB\u0130R"
+    },
+    {
+      "Id": 9930,
+      "Name": "VAN"
+    },
+    {
+      "Id": 9756,
+      "Name": "VARTO"
+    },
+    {
+      "Id": 9822,
+      "Name": "VEZ\u0130RK\u00D6PR\u00DC"
+    },
+    {
+      "Id": 9834,
+      "Name": "V\u0130RAN\u015EEH\u0130R"
+    },
+    {
+      "Id": 9642,
+      "Name": "VIZE"
+    },
+    {
+      "Id": 9500,
+      "Name": "YA\u011ELIDERE"
+    },
+    {
+      "Id": 9626,
+      "Name": "YAHYALI"
+    },
+    {
+      "Id": 9823,
+      "Name": "YAKAKENT"
+    },
+    {
+      "Id": 9680,
+      "Name": "YALIH\u00DCY\u00DCK"
+    },
+    {
+      "Id": 9935,
+      "Name": "YALOVA"
+    },
+    {
+      "Id": 9533,
+      "Name": "YALVA\u00C7"
+    },
+    {
+      "Id": 9366,
+      "Name": "YAPRAKLI"
+    },
+    {
+      "Id": 9750,
+      "Name": "YATA\u011EAN"
+    },
+    {
+      "Id": 9485,
+      "Name": "YAVUZEL\u0130"
+    },
+    {
+      "Id": 16730,
+      "Name": "YAYLADA\u011EI"
+    },
+    {
+      "Id": 9307,
+      "Name": "YAYLADERE"
+    },
+    {
+      "Id": 9705,
+      "Name": "YAZIHAN"
+    },
+    {
+      "Id": 9308,
+      "Name": "YED\u0130SU"
+    },
+    {
+      "Id": 9323,
+      "Name": "YEN\u0130\u00C7A\u011EA"
+    },
+    {
+      "Id": 9356,
+      "Name": "YEN\u0130CE"
+    },
+    {
+      "Id": 9583,
+      "Name": "YEN\u0130CE (K)"
+    },
+    {
+      "Id": 9947,
+      "Name": "YEN\u0130FAKILI"
+    },
+    {
+      "Id": 9302,
+      "Name": "YEN\u0130PAZAR"
+    },
+    {
+      "Id": 9268,
+      "Name": "YEN\u0130PAZAR (A)"
+    },
+    {
+      "Id": 9534,
+      "Name": "YEN\u0130SAR BADEML\u0130"
+    },
+    {
+      "Id": 9346,
+      "Name": "YEN\u0130\u015EEH\u0130R"
+    },
+    {
+      "Id": 9948,
+      "Name": "YERK\u00D6Y"
+    },
+    {
+      "Id": 9627,
+      "Name": "YE\u015E\u0130LH\u0130SAR"
+    },
+    {
+      "Id": 9334,
+      "Name": "YE\u015E\u0130LOVA"
+    },
+    {
+      "Id": 9706,
+      "Name": "YE\u015E\u0130LYURT"
+    },
+    {
+      "Id": 9889,
+      "Name": "YE\u015E\u0130LYURT"
+    },
+    {
+      "Id": 9418,
+      "Name": "YI\u011EILCA"
+    },
+    {
+      "Id": 9870,
+      "Name": "YILDIZEL\u0130"
+    },
+    {
+      "Id": 9907,
+      "Name": "YOMRA"
+    },
+    {
+      "Id": 9949,
+      "Name": "YOZGAT"
+    },
+    {
+      "Id": 9509,
+      "Name": "Y\u00DCKSEKOVA"
+    },
+    {
+      "Id": 9157,
+      "Name": "YUMURTALIK"
+    },
+    {
+      "Id": 9681,
+      "Name": "YUNAK"
+    },
+    {
+      "Id": 9251,
+      "Name": "YUSUFEL\u0130"
+    },
+    {
+      "Id": 9871,
+      "Name": "ZARA"
+    },
+    {
+      "Id": 9890,
+      "Name": "Z\u0130LE"
+    },
+    {
+      "Id": 9955,
+      "Name": "ZONGULDAK"
+    }
+  ]
 }

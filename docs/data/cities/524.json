@@ -1,0 +1,99 @@
+{
+  "lastUpdated": "2026-05-25T15:15:08.246928Z",
+  "stateId": 524,
+  "stateName": "DEN\u0130ZL\u0130",
+  "countryId": 2,
+  "count": 18,
+  "data": [
+    {
+      "Id": 9381,
+      "Code": "G\u00DCNEY",
+      "Name": "G\u00DCNEY"
+    },
+    {
+      "Id": 9382,
+      "Code": "BABADAG",
+      "Name": "BABADA\u011E"
+    },
+    {
+      "Id": 9383,
+      "Code": "BAKLAN",
+      "Name": "BAKLAN"
+    },
+    {
+      "Id": 9384,
+      "Code": "BEKILLI",
+      "Name": "BEK\u0130LL\u0130"
+    },
+    {
+      "Id": 9385,
+      "Code": "BEYAGAC",
+      "Name": "BEYA\u011EA\u00C7"
+    },
+    {
+      "Id": 9386,
+      "Code": "BOZKURT",
+      "Name": "BOZKURT"
+    },
+    {
+      "Id": 9387,
+      "Code": "BULDAN",
+      "Name": "BULDAN"
+    },
+    {
+      "Id": 9388,
+      "Code": "CAL",
+      "Name": "\u00C7AL"
+    },
+    {
+      "Id": 9389,
+      "Code": "CAMELI",
+      "Name": "\u00C7AMEL\u0130"
+    },
+    {
+      "Id": 9390,
+      "Code": "CARDAK",
+      "Name": "\u00C7ARDAK"
+    },
+    {
+      "Id": 9391,
+      "Code": "CIVRIL",
+      "Name": "\u00C7\u0130VR\u0130L"
+    },
+    {
+      "Id": 9392,
+      "Code": "DENIZLI",
+      "Name": "DEN\u0130ZL\u0130"
+    },
+    {
+      "Id": 9393,
+      "Code": "HONAZ",
+      "Name": "HONAZ"
+    },
+    {
+      "Id": 9395,
+      "Code": "SARAYKOY",
+      "Name": "SARAYK\u00D6Y"
+    },
+    {
+      "Id": 9396,
+      "Code": "SERINHISAR",
+      "Name": "SER\u0130NH\u0130SAR"
+    },
+    {
+      "Id": 17899,
+      "Code": "KALE",
+      "Name": "KALE"
+    },
+    {
+      "Id": 17900,
+      "Code": "TAVAS",
+      "Name": "TAVAS"
+    },
+    {
+      "Id": 19020,
+      "Code": "ACIPAYAM",
+      "Name": "ACIPAYAM"
+    }
+  ]
+}

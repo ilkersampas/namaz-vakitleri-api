@@ -1,0 +1,79 @@
+{
+  "lastUpdated": "2026-05-25T15:15:31.1858072Z",
+  "stateId": 525,
+  "stateName": "D\u0130YARBAKIR",
+  "countryId": 2,
+  "count": 14,
+  "data": [
+    {
+      "Id": 9397,
+      "Code": "BISMIL",
+      "Name": "B\u0130SM\u0130L"
+    },
+    {
+      "Id": 9398,
+      "Code": "CERMIK",
+      "Name": "\u00C7ERM\u0130K"
+    },
+    {
+      "Id": 9399,
+      "Code": "CINAR",
+      "Name": "\u00C7INAR"
+    },
+    {
+      "Id": 9400,
+      "Code": "CUNGUS",
+      "Name": "\u00C7\u00DCNG\u00DC\u015E"
+    },
+    {
+      "Id": 9401,
+      "Code": "DICLE",
+      "Name": "D\u0130CLE"
+    },
+    {
+      "Id": 9402,
+      "Code": "DIYARBAKIR",
+      "Name": "D\u0130YARBAKIR"
+    },
+    {
+      "Id": 9403,
+      "Code": "EGIL",
+      "Name": "E\u011E\u0130L"
+    },
+    {
+      "Id": 9404,
+      "Code": "ERGANI",
+      "Name": "ERGAN\u0130"
+    },
+    {
+      "Id": 9405,
+      "Code": "HANI",
+      "Name": "HAN\u0130"
+    },
+    {
+      "Id": 9406,
+      "Code": "HAZRO",
+      "Name": "HAZRO"
+    },
+    {
+      "Id": 9407,
+      "Code": "KOCAKOY",
+      "Name": "KOCAK\u00D6Y"
+    },
+    {
+      "Id": 9408,
+      "Code": "KULP",
+      "Name": "KULP"
+    },
+    {
+      "Id": 9409,
+      "Code": "LICE",
+      "Name": "L\u0130CE"
+    },
+    {
+      "Id": 9410,
+      "Code": "SILVAN",
+      "Name": "S\u0130LVAN"
+    }
+  ]
+}

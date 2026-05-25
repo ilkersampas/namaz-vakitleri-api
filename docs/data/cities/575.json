@@ -1,0 +1,44 @@
+{
+  "lastUpdated": "2026-05-25T15:27:14.7723404Z",
+  "stateId": 575,
+  "stateName": "TUNCEL\u0130",
+  "countryId": 2,
+  "count": 7,
+  "data": [
+    {
+      "Id": 9908,
+      "Code": "CEMISGEZEK",
+      "Name": "\u00C7EM\u0130\u015EGEZEK"
+    },
+    {
+      "Id": 9909,
+      "Code": "HOZAT",
+      "Name": "HOZAT"
+    },
+    {
+      "Id": 9910,
+      "Code": "NAZIMIYE",
+      "Name": "NAZ\u0130M\u0130YE"
+    },
+    {
+      "Id": 9911,
+      "Code": "OVACIK",
+      "Name": "OVACIK"
+    },
+    {
+      "Id": 9912,
+      "Code": "PERTEK",
+      "Name": "PERTEK"
+    },
+    {
+      "Id": 9913,
+      "Code": "PULUMUR",
+      "Name": "P\u00DCL\u00DCM\u00DCR"
+    },
+    {
+      "Id": 9914,
+      "Code": "TUNCELI",
+      "Name": "TUNCEL\u0130"
+    }
+  ]
+}

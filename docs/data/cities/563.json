@@ -1,0 +1,44 @@
+{
+  "lastUpdated": "2026-05-25T15:24:29.3991445Z",
+  "stateId": 563,
+  "stateName": "OSMAN\u0130YE",
+  "countryId": 2,
+  "count": 7,
+  "data": [
+    {
+      "Id": 9784,
+      "Code": "BAHCE",
+      "Name": "BAH\u00C7E"
+    },
+    {
+      "Id": 9785,
+      "Code": "DUZICI",
+      "Name": "D\u00DCZ\u0130\u00C7\u0130"
+    },
+    {
+      "Id": 9786,
+      "Code": "HASANBEYLI",
+      "Name": "HASANBEYL\u0130"
+    },
+    {
+      "Id": 9787,
+      "Code": "KADIRLI",
+      "Name": "KAD\u0130RL\u0130"
+    },
+    {
+      "Id": 9788,
+      "Code": "OSMANIYE",
+      "Name": "OSMAN\u0130YE"
+    },
+    {
+      "Id": 9789,
+      "Code": "SUMBAS",
+      "Name": "SUMBAS"
+    },
+    {
+      "Id": 9790,
+      "Code": "TOPRAKKALE",
+      "Name": "TOPRAKKALE"
+    }
+  ]
+}

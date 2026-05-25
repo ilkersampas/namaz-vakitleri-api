@@ -1,0 +1,39 @@
+{
+  "lastUpdated": "2026-05-25T15:23:54.9534305Z",
+  "stateId": 560,
+  "stateName": "NEV\u015EEH\u0130R",
+  "countryId": 2,
+  "count": 6,
+  "data": [
+    {
+      "Id": 9757,
+      "Code": "ACIGOL",
+      "Name": "ACIG\u00D6L"
+    },
+    {
+      "Id": 9758,
+      "Code": "HACIBEKTAS",
+      "Name": "HACIBEKTA\u015E"
+    },
+    {
+      "Id": 9759,
+      "Code": "KOZAKLI",
+      "Name": "KOZAKLI"
+    },
+    {
+      "Id": 9760,
+      "Code": "NEVSEHIR",
+      "Name": "NEV\u015EEH\u0130R"
+    },
+    {
+      "Id": 9761,
+      "Code": "URGUP",
+      "Name": "\u00DCRG\u00DCP"
+    },
+    {
+      "Id": 17878,
+      "Code": "AVANOS",
+      "Name": "AVANOS"
+    }
+  ]
+}

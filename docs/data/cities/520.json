@@ -1,0 +1,79 @@
+{
+  "lastUpdated": "2026-05-25T15:14:06.6561949Z",
+  "stateId": 520,
+  "stateName": "BURSA",
+  "countryId": 2,
+  "count": 14,
+  "data": [
+    {
+      "Id": 9335,
+      "Code": "BURSA",
+      "Name": "BURSA"
+    },
+    {
+      "Id": 9336,
+      "Code": "BUYUK ORHAN",
+      "Name": "B\u00DCY\u00DCK ORHAN"
+    },
+    {
+      "Id": 9337,
+      "Code": "GEMLIK",
+      "Name": "GEML\u0130K"
+    },
+    {
+      "Id": 9338,
+      "Code": "HARMANCIK",
+      "Name": "HARMANCIK"
+    },
+    {
+      "Id": 9339,
+      "Code": "INEGOL",
+      "Name": "\u0130NEG\u00D6L"
+    },
+    {
+      "Id": 9340,
+      "Code": "IZNIK",
+      "Name": "\u0130ZN\u0130K"
+    },
+    {
+      "Id": 9341,
+      "Code": "KARACABEY",
+      "Name": "KARACABEY"
+    },
+    {
+      "Id": 9342,
+      "Code": "KELES",
+      "Name": "KELES"
+    },
+    {
+      "Id": 9343,
+      "Code": "MUDANYA",
+      "Name": "MUDANYA"
+    },
+    {
+      "Id": 9344,
+      "Code": "MUSTAFA KEMALPASA",
+      "Name": "MUSTAFA KEMALPA\u015EA"
+    },
+    {
+      "Id": 9345,
+      "Code": "ORHANGAZI",
+      "Name": "ORHANGAZ\u0130"
+    },
+    {
+      "Id": 9346,
+      "Code": "YENISEHIR",
+      "Name": "YEN\u0130\u015EEH\u0130R"
+    },
+    {
+      "Id": 17893,
+      "Code": "KESTEL",
+      "Name": "KESTEL"
+    },
+    {
+      "Id": 17894,
+      "Code": "ORHANEL\u0130",
+      "Name": "ORHANEL\u0130"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "lastUpdated": "2026-05-25T15:10:06.1094843Z",
+  "stateId": 502,
+  "stateName": "AFYONKARAH\u0130SAR",
+  "countryId": 2,
+  "count": 18,
+  "data": [
+    {
+      "Id": 9167,
+      "Code": "AFYONKARAHISAR",
+      "Name": "AFYONKARAH\u0130SAR"
+    },
+    {
+      "Id": 9168,
+      "Code": "BASMAKCI",
+      "Name": "BA\u015EMAK\u00C7I"
+    },
+    {
+      "Id": 9169,
+      "Code": "BAYAT",
+      "Name": "BAYAT"
+    },
+    {
+      "Id": 9170,
+      "Code": "BOLVADIN",
+      "Name": "BOLVAD\u0130N"
+    },
+    {
+      "Id": 9171,
+      "Code": "CAY",
+      "Name": "\u00C7AY"
+    },
+    {
+      "Id": 9172,
+      "Code": "COBANLAR",
+      "Name": "\u00C7OBANLAR"
+    },
+    {
+      "Id": 9173,
+      "Code": "DAZKIRI",
+      "Name": "DAZKIRI"
+    },
+    {
+      "Id": 9174,
+      "Code": "DINAR",
+      "Name": "D\u0130NAR"
+    },
+    {
+      "Id": 9175,
+      "Code": "EMIRDAG",
+      "Name": "EM\u0130RDA\u011E"
+    },
+    {
+      "Id": 9176,
+      "Code": "EVCILER",
+      "Name": "EVC\u0130LER"
+    },
+    {
+      "Id": 9177,
+      "Code": "HOCALAR",
+      "Name": "HOCALAR"
+    },
+    {
+      "Id": 9178,
+      "Code": "IHSANIYE",
+      "Name": "\u0130HSAN\u0130YE"
+    },
+    {
+      "Id": 9179,
+      "Code": "ISCEHISAR",
+      "Name": "\u0130SCEH\u0130SAR"
+    },
+    {
+      "Id": 9180,
+      "Code": "KIZILOREN",
+      "Name": "KIZIL\u00D6REN"
+    },
+    {
+      "Id": 9181,
+      "Code": "SANDIKLI",
+      "Name": "SANDIKLI"
+    },
+    {
+      "Id": 9182,
+      "Code": "SINANPASA",
+      "Name": "S\u0130NANPA\u015EA"
+    },
+    {
+      "Id": 9183,
+      "Code": "\u015EUHUT",
+      "Name": "\u015EUHUT"
+    },
+    {
+      "Id": 9184,
+      "Code": "SULTANDAGI",
+      "Name": "SULTANDA\u011EI"
+    }
+  ]
+}

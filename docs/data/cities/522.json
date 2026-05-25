@@ -1,0 +1,59 @@
+{
+  "lastUpdated": "2026-05-25T15:14:37.5304725Z",
+  "stateId": 522,
+  "stateName": "\u00C7ANKIRI",
+  "countryId": 2,
+  "count": 10,
+  "data": [
+    {
+      "Id": 9357,
+      "Code": "ATKARACALAR",
+      "Name": "ATKARACALAR"
+    },
+    {
+      "Id": 9358,
+      "Code": "BAYRAMOREN",
+      "Name": "BAYRAM\u00D6REN"
+    },
+    {
+      "Id": 9359,
+      "Code": "CANKIRI",
+      "Name": "\u00C7ANKIRI"
+    },
+    {
+      "Id": 9360,
+      "Code": "CERKES",
+      "Name": "CERKE\u015E"
+    },
+    {
+      "Id": 9361,
+      "Code": "ILGAZ",
+      "Name": "ILGAZ"
+    },
+    {
+      "Id": 9362,
+      "Code": "KIZILIRMAK",
+      "Name": "KIZILIRMAK"
+    },
+    {
+      "Id": 9363,
+      "Code": "KURSUNLU",
+      "Name": "KUR\u015EUNLU"
+    },
+    {
+      "Id": 9364,
+      "Code": "ORTA",
+      "Name": "ORTA"
+    },
+    {
+      "Id": 9365,
+      "Code": "SABANOZU",
+      "Name": "\u015EABAN\u00D6Z\u00DC"
+    },
+    {
+      "Id": 9366,
+      "Code": "YAPRAKLI",
+      "Name": "YAPRAKLI"
+    }
+  ]
+}

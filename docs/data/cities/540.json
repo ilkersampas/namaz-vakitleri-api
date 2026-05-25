@@ -1,0 +1,114 @@
+{
+  "lastUpdated": "2026-05-25T15:19:05.8386226Z",
+  "stateId": 540,
+  "stateName": "\u0130ZM\u0130R",
+  "countryId": 2,
+  "count": 21,
+  "data": [
+    {
+      "Id": 9552,
+      "Code": "ALIAGA",
+      "Name": "AL\u0130A\u011EA"
+    },
+    {
+      "Id": 9553,
+      "Code": "BAYINDIR",
+      "Name": "BAYINDIR"
+    },
+    {
+      "Id": 9554,
+      "Code": "BERGAMA",
+      "Name": "BERGAMA"
+    },
+    {
+      "Id": 9555,
+      "Code": "BEYDAG",
+      "Name": "BEYDA\u011E"
+    },
+    {
+      "Id": 9556,
+      "Code": "CESME",
+      "Name": "CE\u015EME"
+    },
+    {
+      "Id": 9557,
+      "Code": "DIKILI",
+      "Name": "D\u0130K\u0130L\u0130"
+    },
+    {
+      "Id": 9558,
+      "Code": "FOCA",
+      "Name": "FO\u00C7A"
+    },
+    {
+      "Id": 9559,
+      "Code": "GUZELBAHCE",
+      "Name": "G\u00DCZELBAH\u00C7E"
+    },
+    {
+      "Id": 9560,
+      "Code": "IZMIR",
+      "Name": "\u0130ZM\u0130R"
+    },
+    {
+      "Id": 9561,
+      "Code": "KARABURUN",
+      "Name": "KARABURUN"
+    },
+    {
+      "Id": 9562,
+      "Code": "KEMALPASA",
+      "Name": "KEMALPA\u015EA"
+    },
+    {
+      "Id": 9563,
+      "Code": "KINIK",
+      "Name": "KINIK"
+    },
+    {
+      "Id": 9564,
+      "Code": "KIRAZ",
+      "Name": "K\u0130RAZ"
+    },
+    {
+      "Id": 9565,
+      "Code": "ODEMIS",
+      "Name": "\u00D6DEM\u0130\u015E"
+    },
+    {
+      "Id": 9566,
+      "Code": "SEFERIHISAR",
+      "Name": "SEFERIH\u0130SAR"
+    },
+    {
+      "Id": 9567,
+      "Code": "SELCUK",
+      "Name": "SEL\u00C7UK"
+    },
+    {
+      "Id": 9568,
+      "Code": "TIRE",
+      "Name": "T\u0130RE"
+    },
+    {
+      "Id": 9569,
+      "Code": "TORBALI",
+      "Name": "TORBALI"
+    },
+    {
+      "Id": 9570,
+      "Code": "URLA",
+      "Name": "URLA"
+    },
+    {
+      "Id": 17868,
+      "Code": "MENDERES",
+      "Name": "MENDERES"
+    },
+    {
+      "Id": 17869,
+      "Code": "MENEMEN",
+      "Name": "MENEMEN"
+    }
+  ]
+}

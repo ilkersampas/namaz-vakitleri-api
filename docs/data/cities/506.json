@@ -1,0 +1,94 @@
+{
+  "lastUpdated": "2026-05-25T15:10:58.366812Z",
+  "stateId": 506,
+  "stateName": "ANKARA",
+  "countryId": 2,
+  "count": 17,
+  "data": [
+    {
+      "Id": 9205,
+      "Code": "AKYURT",
+      "Name": "AKYURT"
+    },
+    {
+      "Id": 9206,
+      "Code": "ANKARA",
+      "Name": "ANKARA"
+    },
+    {
+      "Id": 9207,
+      "Code": "AYAS",
+      "Name": "AYA\u015E"
+    },
+    {
+      "Id": 9208,
+      "Code": "BALA",
+      "Name": "BALA"
+    },
+    {
+      "Id": 9209,
+      "Code": "BEYPAZARI",
+      "Name": "BEYPAZARI"
+    },
+    {
+      "Id": 9210,
+      "Code": "CAMLIDERE",
+      "Name": "\u00C7AMLIDERE"
+    },
+    {
+      "Id": 9211,
+      "Code": "CUBUK",
+      "Name": "CUBUK"
+    },
+    {
+      "Id": 9212,
+      "Code": "ELMADAG",
+      "Name": "ELMADA\u011E"
+    },
+    {
+      "Id": 9213,
+      "Code": "EVREN",
+      "Name": "EVREN"
+    },
+    {
+      "Id": 9214,
+      "Code": "GUDUL",
+      "Name": "G\u00DCD\u00DCL"
+    },
+    {
+      "Id": 9215,
+      "Code": "HAYMANA",
+      "Name": "HAYMANA"
+    },
+    {
+      "Id": 9216,
+      "Code": "KALECIK",
+      "Name": "KALEC\u0130K"
+    },
+    {
+      "Id": 9217,
+      "Code": "KAHRAMANKAZAN",
+      "Name": "KAHRAMANKAZAN"
+    },
+    {
+      "Id": 9218,
+      "Code": "KIZILCAHAMAM",
+      "Name": "KIZILCAHAMAM"
+    },
+    {
+      "Id": 9219,
+      "Code": "NALLIHAN",
+      "Name": "NALLIHAN"
+    },
+    {
+      "Id": 9220,
+      "Code": "POLATLI",
+      "Name": "POLATLI"
+    },
+    {
+      "Id": 9221,
+      "Code": "SEREFLIKOCHISAR",
+      "Name": "\u015EEREFL\u0130KO\u00C7H\u0130SAR"
+    }
+  ]
+}
