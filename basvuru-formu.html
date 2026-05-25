@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Awqat Salah Rest Api İstek ve Taahhüt Formu</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 12mm 15mm 10mm 15mm;
+        }
+
+        @media print {
+            body {
+                margin: 0;
+                padding: 12mm 15mm 10mm 15mm;
+            }
+
+            .no-print {
+                display: none !important;
+            }
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            max-width: 210mm;
+            margin: 0 auto;
+            padding: 12mm 15mm;
+            line-height: 1.3;
+            color: #000;
+            font-size: 10.5pt;
+            background: #fff;
+        }
+
+        .no-print {
+            background: #d4edda;
+            border: 2px solid #28a745;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            font-family: 'Segoe UI', Arial, sans-serif;
+            font-size: 13px;
+            color: #155724;
+        }
+
+        .no-print h3 {
+            margin: 0 0 8px;
+        }
+
+        .no-print ol {
+            margin: 0;
+            padding-left: 20px;
+        }
+
+        .no-print li {
+            margin-bottom: 3px;
+        }
+
+        .no-print button {
+            background: #28a745;
+            color: #fff;
+            border: none;
+            padding: 10px 35px;
+            font-size: 15px;
+            font-weight: bold;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+
+        .no-print button:hover {
+            background: #218838;
+        }
+
+        .header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 4px;
+        }
+
+        .header img {
+            width: 55px;
+            height: 55px;
+        }
+
+        .header-text {
+            flex: 1;
+        }
+
+        .header-title {
+            font-size: 12pt;
+            font-weight: bold;
+        }
+
+        .header-title-en {
+            font-size: 9.5pt;
+            font-style: italic;
+            color: #444;
+        }
+
+        .date {
+            text-align: right;
+            font-size: 10.5pt;
+            margin: 4px 0;
+        }
+
+        .institution {
+            text-align: center;
+            font-weight: bold;
+            font-size: 11.5pt;
+            margin: 8px 0 1px;
+        }
+
+        .institution-sub {
+            text-align: center;
+            font-weight: bold;
+            font-size: 9.5pt;
+            margin-bottom: 8px;
+        }
+
+        .body-text {
+            text-align: justify;
+            margin-bottom: 5px;
+            font-size: 10pt;
+            line-height: 1.35;
+            text-indent: 1.2em;
+        }
+
+        .signature-area {
+            text-align: right;
+            margin: 10px 0 6px;
+        }
+
+        .signature-label {
+            font-style: italic;
+            font-weight: bold;
+            font-size: 10pt;
+        }
+
+        .signature-label-en {
+            font-style: italic;
+            font-size: 8.5pt;
+            color: #555;
+        }
+
+        .form-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 6px 0;
+        }
+
+        .form-table td {
+            padding: 4px 6px;
+            border: 1px solid #000;
+            vertical-align: middle;
+            font-size: 10pt;
+        }
+
+        .form-table .label {
+            width: 140px;
+            font-weight: bold;
+        }
+
+        .form-table .label-en {
+            font-weight: normal;
+            font-style: italic;
+            font-size: 8pt;
+            color: #555;
+            display: block;
+        }
+
+        .form-table .value {
+            height: 20px;
+            position: relative;
+        }
+
+        .form-table input {
+            width: calc(100% - 15px);
+            border: none;
+            outline: none;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 9pt;
+            padding: 0;
+            margin-left: 10px;
+            background: transparent;
+        }
+
+        .app-info-header {
+            text-align: right;
+            margin: 8px 0 3px;
+        }
+
+        .app-info-title {
+            font-style: italic;
+            font-weight: bold;
+            font-size: 10.5pt;
+        }
+
+        .app-info-title-en {
+            font-style: italic;
+            font-size: 8.5pt;
+            color: #555;
+        }
+
+        .app-info-box {
+            border: 1px solid #000;
+            padding: 8px;
+            min-height: 80px;
+            text-align: justify;
+            font-size: 9.5pt;
+            line-height: 1.35;
+        }
+
+        .footnotes {
+            margin-top: 8px;
+            border-top: 1px solid #aaa;
+            padding-top: 4px;
+        }
+
+        .footnotes p {
+            font-size: 7pt;
+            color: #333;
+            line-height: 1.2;
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="no-print">
+        <h3>FORMU YAZDIR VE G&#214;NDER</h3>
+        <ol>
+            <li><strong>YAZDIR</strong> butonuna bas</li>
+            <li><strong>Ad-Soyad, Kimlik No, Adres, Telefon, E-posta</strong> alanlar&#305;n&#305; elle doldur</li>
+            <li><strong>&#304;mzala</strong>, tarat ve <strong>dinisleriyk@diyanet.gov.tr</strong> adresine g&#246;nder
+            </li>
+        </ol>
+        <button onclick="window.print()">YAZDIR</button>
+    </div>
+
+    <div class="header">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Diyanet_%C4%B0%C5%9Fleri_Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1_yeni_logo.svg/200px-Diyanet_%C4%B0%C5%9Fleri_Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1_yeni_logo.svg.png"
+            alt="Diyanet &#304;&#351;leri Ba&#351;kanl&#305;&#287;&#305;">
+        <div class="header-text">
+            <div class="header-title">Awqat Salah Rest Api &#304;stek ve Taahh&#252;t Formu</div>
+            <div class="header-title-en">Awqat Salah Rest Api Request and Commitment Form</div>
+        </div>
+    </div>
+
+    <div class="date"><input type="text" value="13/04/2026"
+            style="width:100px; text-align:right; border:none; border-bottom:1px dotted #999; font-family:'Times New Roman'; font-size:10.5pt; outline:none;">
+    </div>
+
+    <div class="institution">D&#304;YANET &#304;&#350;LER&#304; BA&#350;KANLI&#286;INA<sup>1</sup></div>
+    <div class="institution-sub">(Din &#304;&#351;leri Y&#252;ksek Kurulu)</div>
+
+    <p class="body-text">
+        Diyanet &#304;&#351;leri Ba&#351;kanl&#305;&#287;&#305; Namaz Vakitleri servisinde taraf&#305;ma
+        kullan&#305;c&#305; ad&#305; ve &#351;ifre verilmesini
+        talep ediyorum, verilen kullan&#305;c&#305; ad&#305; ve &#351;ifreyi 3. ki&#351;ilerle
+        payla&#351;mayaca&#287;&#305;m&#305; ve sisteme zarar
+        verebilecek isteklerden ka&#231;&#305;naca&#287;&#305;m&#305; taahh&#252;t ederim<sup>2</sup>.
+    </p>
+    <p class="body-text">
+        Herhangi bir anla&#351;mazl&#305;k durumunda T&#252;rkiye Cumhuriyeti Ankara Mahkemelerinin yetkili
+        k&#305;l&#305;naca&#287;&#305;n&#305; bildi&#287;imi, vermi&#351; oldu&#287;um ki&#351;isel bilgilerin KVKK
+        kapsam&#305;nda i&#351;lenmesine izin
+        ve r&#305;zam oldu&#287;unu, yine gerekli g&#246;r&#252;lmesi halinde servis kullan&#305;m hakk&#305;m&#305;n
+        tek tarafl&#305; olarak
+        feshedilebilmesine raz&#305; oldu&#287;umu beyan ederim<sup>3</sup>.
+    </p>
+
+    <div class="signature-area">
+        <span class="signature-label">&#304;mza<sup>4</sup></span><br>
+        <span class="signature-label-en">Signature<sup>5</sup></span>
+    </div>
+
+    <table class="form-table">
+        <tr>
+            <td class="label">Ad - Soyad<span class="label-en">Name - Surname</span></td>
+            <td class="value">: <input type="text"
+                    placeholder="Ad&#305;n&#305;z&#305; ve soyad&#305;n&#305;z&#305; yaz&#305;n"></td>
+        </tr>
+        <tr>
+            <td class="label">Kimlik Numaras&#305;<span class="label-en">Citizenship Number</span></td>
+            <td class="value">: <input type="text" placeholder="TC Kimlik Numaras&#305;"></td>
+        </tr>
+        <tr>
+            <td class="label">&#304;leti&#351;im Adresi<span class="label-en">Contact Info (With Country)</span></td>
+            <td class="value">: <input type="text" placeholder="Adresiniz (&#252;lke dahil)"></td>
+        </tr>
+        <tr>
+            <td class="label">Telefon Numaras&#305;<span class="label-en">Phone Number</span></td>
+            <td class="value">: <input type="text" placeholder="Telefon numaran&#305;z"></td>
+        </tr>
+        <tr>
+            <td class="label">e-Posta Adresi<span class="label-en">e-mail Address</span></td>
+            <td class="value">: <input type="text" placeholder="E-posta adresiniz"></td>
+        </tr>
+    </table>
+
+    <div class="app-info-header">
+        <div class="app-info-title">Geli&#351;tirdi&#287;i Uygulama Hakk&#305;nda Bilgi</div>
+        <div class="app-info-title-en">Information About The Application Developed</div>
+    </div>
+    <div class="app-info-box">
+        Google Play Store &#252;zerinde yay&#305;nlanacak, M&#252;sl&#252;man kullan&#305;c&#305;lar i&#231;in
+        &#252;cretsiz bir namaz
+        vakitleri mobil uygulamas&#305; geli&#351;tirmekteyim. Uygulama; kullan&#305;c&#305;lar&#305;n bulunduklar&#305;
+        &#351;ehir/il&#231;eye g&#246;re g&#252;nl&#252;k, haftal&#305;k ve ayl&#305;k namaz vakitlerini, k&#305;ble
+        y&#246;n&#252;n&#252;,
+        K&#226;be'ye olan mesafeyi, bayram namaz&#305; vakitlerini, Ramazan imsakiyesini ve g&#252;nl&#252;k
+        ayet-hadis-dua i&#231;eriklerini sunmay&#305; hedeflemektedir. T&#252;rkiye ba&#351;ta olmak &#252;zere
+        d&#252;nya genelinde
+        hizmet verecektir. API verileri &#246;nbellekleme mekanizmas&#305; ile saklanacak, gereksiz istek
+        at&#305;lmayacak,
+        kullan&#305;c&#305; bilgileri g&#252;venli ortamda &#351;ifreli saklanacak ve &#252;&#231;&#252;nc&#252;
+        ki&#351;ilerle payla&#351;&#305;lmayacakt&#305;r.
+    </div>
+
+    <div class="footnotes">
+        <p><sup>1</sup> Presidency of the Republic of Turkey - Presidency of Religious Affairs</p>
+        <p><sup>2</sup> I request that a username and password be given to me in the Religious Affairs Directorate
+            Prayer Times service, I undertake that I will not share the given username and password with third parties
+            and that I will avoid requests that may harm the system.</p>
+        <p><sup>3</sup> I declare that I know that the Ankara Courts of the Republic of Turkey will be authorized in
+            case of any dispute, that I have permission and consent to the processing of the personal information I have
+            provided within the scope of KVKK, and that my right to use the service can be terminated unilaterally if
+            deemed necessary.</p>
+        <p><sup>4</sup> L&#252;tfen bu formu imzalayarak, okunakl&#305; bir &#351;ekilde doldurup taratt&#305;ktan sonra
+            dinisleriyk@diyanet.gov.tr adresine g&#246;nderiniz</p>
+        <p><sup>5</sup> Please send this form to the e-mail address dinisleriyk@diyanet.gov.tr after signing, completing
+            and scanning it legibly.</p>
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,39 @@
+## .NET
+bin/
+obj/
+publish/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+TestResults/
+
+## Node.js / Worker
+node_modules/
+*.log
+.wrangler/
+.dev.vars
+
+## IDE
+.vs/
+.vscode/
+.idea/
+*.swp
+*~
+
+## OS
+Thumbs.db
+.DS_Store
+
+## Secrets - ASLA commit etmeyin
+appsettings.*.json
+.env
+.env.*
+*.pem
+*.key
+
+## Build artifacts
+dist/
+out/

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DiyanetFetcher.Tests/DiyanetFetcher.Tests.csproj" />
+  <Project Path="DiyanetFetcher/DiyanetFetcher.csproj" />
+</Solution>

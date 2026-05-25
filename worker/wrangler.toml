@@ -1,0 +1,39 @@
+name = "namaz-vakitleri-api"
+main = "src/index.js"
+compatibility_date = "2024-09-01"
+workers_dev = true
+
+# Production observability
+[observability]
+enabled = true
+
+# ============================================================
+# KV NAMESPACE'LER
+# ============================================================
+# Bu degerleri Cloudflare Dashboard > Workers & Pages > KV menusunden
+# olusturduktan sonra "id" alanlarini doldurun.
+#
+# Komut satirindan da olusturabilirsiniz:
+#   npx wrangler kv:namespace create TOKEN_KV
+#   npx wrangler kv:namespace create RATE_LIMIT_KV
+
+[[kv_namespaces]]
+binding = "TOKEN_KV"
+id = "REPLACE_WITH_TOKEN_KV_ID"
+
+[[kv_namespaces]]
+binding = "RATE_LIMIT_KV"
+id = "REPLACE_WITH_RATE_LIMIT_KV_ID"
+
+# ============================================================
+# ENVIRONMENT DEGISKENLERI
+# ============================================================
+# Public degiskenler (commit edilebilir)
+[vars]
+CACHE_TTL_SECONDS = "604800"           # 7 gun
+GITHUB_PAGES_BASE = ""                 # https://<user>.github.io/<repo>/data
+LOG_LEVEL = "info"                     # silent | error | warn | info | debug
+
+# Secret degiskenler (asla buraya yazma!):
+#   npx wrangler secret put DIYANET_EMAIL
+#   npx wrangler secret put DIYANET_PASSWORD
