@@ -1,12 +1,8 @@
 name: Cloudflare Worker Deploy
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'worker/**'
-      - '.github/workflows/deploy-worker.yml'
-
+  # Otomatik deploy sadece wrangler.toml hazir olduktan sonra istenirse acilir.
+  # Simdilik sadece manuel tetikleme.
   workflow_dispatch:
 
 concurrency:
@@ -28,12 +24,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
-          cache-dependency-path: worker/package-lock.json
 
       - name: Bagimliliklari yukle
         working-directory: worker
-        run: npm ci
+        run: npm install --no-audit --no-fund
 
       - name: Vitest calistir
         working-directory: worker
@@ -51,12 +45,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
-          cache-dependency-path: worker/package-lock.json
 
       - name: Bagimliliklari yukle
         working-directory: worker
-        run: npm ci
+        run: npm install --no-audit --no-fund
 
       - name: wrangler.toml dogrula
         working-directory: worker
