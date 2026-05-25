@@ -1,8 +1,7 @@
 name: Cloudflare Worker Deploy
 
 on:
-  # Otomatik deploy sadece wrangler.toml hazir olduktan sonra istenirse acilir.
-  # Simdilik sadece manuel tetikleme.
+  # Sadece manuel tetikleme. Test CI workflow'unda zaten var.
   workflow_dispatch:
 
 concurrency:
@@ -13,29 +12,8 @@ permissions:
   contents: read
 
 jobs:
-  test:
-    name: Worker testlerini calistir
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Node.js kur
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Bagimliliklari yukle
-        working-directory: worker
-        run: npm install --no-audit --no-fund
-
-      - name: Vitest calistir
-        working-directory: worker
-        run: npm test
-
   deploy:
     name: Cloudflare'e deploy et
-    needs: test
     runs-on: ubuntu-latest
 
     steps:
