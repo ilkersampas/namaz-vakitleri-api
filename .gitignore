@@ -37,3 +37,6 @@ appsettings.*.json
 ## Build artifacts
 dist/
 out/
+
+## Kisisel notlar (sadece lokal, repo'ya gitmesin)
+_NOTLAR/
