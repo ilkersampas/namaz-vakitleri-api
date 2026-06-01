@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-05-25T15:28:18.7116652Z",
-  "nextUpdate": "2026-06-01T00:00:00",
+  "lastUpdated": "2026-06-01T08:59:19.7917832Z",
+  "nextUpdate": "2026-07-01T00:00:00",
   "version": "2.0.0",
   "source": "Diyanet Isleri Baskanligi - Awqat Salah API",
   "countries": 208,
   "states": 81,
   "cities": 869,
-  "currentMonth": "2026-05",
+  "currentMonth": "2026-06",
   "stats": {
     "ProcessedCities": 869,
     "MonthlyOk": 869,
@@ -15,5 +15,5 @@
     "EidOk": 869,
     "RamadanOk": 869
   },
-  "elapsedSeconds": 1121
+  "elapsedSeconds": 1139
 }
