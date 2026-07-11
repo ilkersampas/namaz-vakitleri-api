@@ -65,6 +65,11 @@ jobs:
           INCLUDE_EID: ${{ github.event.inputs.include_eid || 'true' }}
           INCLUDE_RAMADAN: ${{ github.event.inputs.include_ramadan || 'true' }}
           INCLUDE_CITY_DETAIL: 'true'
+          # Retention: eski donem dosyalarini otomatik sil (depo/Pages sismesin).
+          # Worker daima guncel donemi istedigi icin eskiyi silmek guvenli.
+          RETENTION_PRAYER_MONTHS: '2'   # sehir basina son N ay
+          RETENTION_YEARS: '2'           # ramazan+bayram: sehir basina son N yil
+          RETENTION_DAILY_COUNT: '60'    # gunluk icerik: son N dosya
         run: dotnet publish/DiyanetFetcher.dll
 
       - name: Veri ozeti

@@ -14,6 +14,13 @@ var includeEid = bool.Parse(Environment.GetEnvironmentVariable("INCLUDE_EID") ??
 var includeCityDetail = bool.Parse(Environment.GetEnvironmentVariable("INCLUDE_CITY_DETAIL") ?? "true");
 var perCityDelayMs = int.Parse(Environment.GetEnvironmentVariable("PER_CITY_DELAY_MS") ?? "300");
 
+// --- RETENTION (eski veri temizligi) ---
+// Worker daima guncel donemi istedigi icin eski dosyalari silmek guvenli;
+// depo/GitHub Pages sonsuza kadar sismesin diye her cekimden sonra budariz.
+var retentionPrayerMonths = int.Parse(Environment.GetEnvironmentVariable("RETENTION_PRAYER_MONTHS") ?? "2"); // sehir basina son N ay
+var retentionYears = int.Parse(Environment.GetEnvironmentVariable("RETENTION_YEARS") ?? "2");                // ramazan+bayram: sehir basina son N yil
+var retentionDailyCount = int.Parse(Environment.GetEnvironmentVariable("RETENTION_DAILY_COUNT") ?? "60");    // gunluk icerik: son N dosya
+
 if (string.IsNullOrEmpty(email) || string.IsNullOrEmpty(password))
 {
     Console.Error.WriteLine("HATA: DIYANET_EMAIL ve DIYANET_PASSWORD ortam degiskenleri tanimlanmali!");
@@ -240,6 +247,18 @@ await writer.WriteAsync(Path.Combine(outputDir, "city-index.json"), new
         .ToList(),
 });
 
+// 4.5) Retention - eski donem dosyalarini temizle (depo sismesin)
+Console.WriteLine();
+Console.WriteLine("--- Retention (eski veri temizligi) ---");
+var retention = new RetentionService();
+var prunedPrayer  = retention.PrunePerSubdirectory(Path.Combine(outputDir, "prayer-times"), retentionPrayerMonths);
+var prunedRamadan = retention.PrunePerSubdirectory(Path.Combine(outputDir, "ramadan"), retentionYears);
+var prunedEid     = retention.PrunePerSubdirectory(Path.Combine(outputDir, "eid"), retentionYears);
+var prunedDaily   = retention.PruneDirectory(Path.Combine(outputDir, "daily-content"), retentionDailyCount);
+var prunedTotal = prunedPrayer + prunedRamadan + prunedEid + prunedDaily;
+Console.WriteLine($"Tutulan: prayer-times={retentionPrayerMonths} ay, ramazan/bayram={retentionYears} yil, gunluk={retentionDailyCount} dosya");
+Console.WriteLine($"Silinen: prayer-times={prunedPrayer}, ramadan={prunedRamadan}, eid={prunedEid}, daily-content={prunedDaily} (toplam {prunedTotal})");
+
 // 5) Meta
 await writer.WriteAsync(Path.Combine(outputDir, "meta.json"), new
 {
@@ -260,6 +279,17 @@ await writer.WriteAsync(Path.Combine(outputDir, "meta.json"), new
         stats.EidOk,
         stats.RamadanOk,
     },
+    retention = new
+    {
+        prayerMonths = retentionPrayerMonths,
+        years = retentionYears,
+        dailyCount = retentionDailyCount,
+        prunedPrayer,
+        prunedRamadan,
+        prunedEid,
+        prunedDaily,
+        prunedTotal,
+    },
     elapsedSeconds = (int)sw.Elapsed.TotalSeconds,
 });
 
@@ -274,6 +304,7 @@ Console.WriteLine($"Aylik FAIL  : {stats.MonthlyFail}");
 if (includeCityDetail) Console.WriteLine($"City Detay  : {stats.CityDetailOk}");
 if (includeEid)        Console.WriteLine($"Bayram      : {stats.EidOk}");
 if (includeRamadan)    Console.WriteLine($"Ramazan     : {stats.RamadanOk}");
+Console.WriteLine($"Silinen eski: {prunedTotal} dosya");
 
 return stats.MonthlyFail > 0 ? 2 : 0;
 
