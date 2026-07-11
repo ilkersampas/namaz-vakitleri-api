@@ -104,4 +104,3 @@ jobs:
           done
           echo "::error::5 denemeden sonra push basarisiz"
           exit 1
-          fi
