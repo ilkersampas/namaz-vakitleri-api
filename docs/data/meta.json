@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-01T06:24:02.7392909Z",
-  "nextUpdate": "2026-09-01T00:00:00",
+  "lastUpdated": "2026-09-01T08:47:57.1293783Z",
+  "nextUpdate": "2026-10-01T00:00:00",
   "version": "2.0.0",
   "source": "Diyanet Isleri Baskanligi - Awqat Salah API",
   "countries": 208,
   "states": 81,
   "cities": 869,
-  "currentMonth": "2026-08",
+  "currentMonth": "2026-09",
   "stats": {
     "ProcessedCities": 869,
     "MonthlyOk": 869,
@@ -19,11 +19,11 @@
     "prayerMonths": 2,
     "years": 2,
     "dailyCount": 60,
-    "prunedPrayer": 1738,
+    "prunedPrayer": 869,
     "prunedRamadan": 0,
     "prunedEid": 0,
     "prunedDaily": 0,
-    "prunedTotal": 1738
+    "prunedTotal": 869
   },
-  "elapsedSeconds": 1174
+  "elapsedSeconds": 1102
 }
